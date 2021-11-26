@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491031556886",
+    "firebase_url": "https://mruFood-58214.firebaseio.com",
+    "project_id": "mruFood-58214",
+    "storage_bucket": "mruFood-58214.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:491031556886:android:d1749641b3bec88b2e5637",
+      "android_client_info": {
+        "package_name": "com.mruFood.mobileapp"
+      }
+    },
+    "oauth_client": [{
+      "client_id": "491031556886-vqlcohe2j4rcjr4383d04960is2q6vac.apps.googleusercontent.com",
+      "client_type": 3
+    }],
+    "api_key": [{
+      "current_key": "AIzaSyDsrLcjvngMj_XZ_CN_1cQakHBM5hYbEQQ"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+            "client_id": "491031556886-vqlcohe2j4rcjr4383d04960is2q6vac.apps.googleusercontent.com",
+            "client_type": 3
+          },
+          {
+            "client_id": "491031556886-su4kgs1s8drf857eb5rno40t78dtj01c.apps.googleusercontent.com",
+            "client_type": 2,
+            "ios_info": {
+              "bundle_id": "com.mruFood.mobileapp"
+            }
+          }
+        ]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}

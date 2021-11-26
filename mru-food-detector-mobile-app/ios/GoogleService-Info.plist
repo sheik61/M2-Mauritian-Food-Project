@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>491031556886-su4kgs1s8drf857eb5rno40t78dtj01c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.491031556886-su4kgs1s8drf857eb5rno40t78dtj01c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>491031556886-5s1b8d1qp1h6qjhhk5du5nvga06vn6et.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ1vW_OMu2VZzisVTTUVmxTV_e1F8RyFM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>491031556886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mruFood.mobileapp</string>
+	<key>PROJECT_ID</key>
+	<string>mruFood-58214</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mruFood-58214.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:491031556886:ios:06f4222a3300e1492e5637</string>
+	<key>DATABASE_URL</key>
+	<string>https://mruFood-58214.firebaseio.com</string>
+</dict>
+</plist>

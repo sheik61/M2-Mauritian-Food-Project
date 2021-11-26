@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mruFood</string>
+    <string name="facebook_app_id">3730999270255899</string>
+    <string name="fb_login_protocol_scheme">fb3730999270255899</string>
+</resources>

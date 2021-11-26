@@ -1,0 +1,2537 @@
+{
+    "v": "5.5.7",
+    "meta": {
+        "g": "LottieFiles AE 0.1.20",
+        "a": "",
+        "k": "",
+        "d": "",
+        "tc": ""
+    },
+    "fr": 30,
+    "ip": 0,
+    "op": 60,
+    "w": 1920,
+    "h": 1080,
+    "nm": "EnnovLogoAnimation",
+    "ddd": 0,
+    "assets": [
+        {
+            "id": "image_0",
+            "w": 586,
+            "h": 147,
+            "u": "",
+            "p": "data:image/png;base64,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",
+            "e": 1
+        },
+        {
+            "id": "comp_0",
+            "layers": [
+                {
+                    "ddd": 0,
+                    "ind": 1,
+                    "ty": 4,
+                    "nm": "Dots",
+                    "sr": 1,
+                    "ks": {
+                        "o": {
+                            "a": 0,
+                            "k": 100,
+                            "ix": 11
+                        },
+                        "r": {
+                            "a": 0,
+                            "k": 0,
+                            "ix": 10
+                        },
+                        "p": {
+                            "a": 0,
+                            "k": [
+                                960,
+                                540,
+                                0
+                            ],
+                            "ix": 2
+                        },
+                        "a": {
+                            "a": 0,
+                            "k": [
+                                175.5,
+                                217,
+                                0
+                            ],
+                            "ix": 1
+                        },
+                        "s": {
+                            "a": 0,
+                            "k": [
+                                100,
+                                100,
+                                100
+                            ],
+                            "ix": 6
+                        }
+                    },
+                    "ao": 0,
+                    "shapes": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -8.707,
+                                                    0.488
+                                                ],
+                                                [
+                                                    -0.48,
+                                                    -8.558
+                                                ],
+                                                [
+                                                    8.707,
+                                                    -0.489
+                                                ],
+                                                [
+                                                    0.479,
+                                                    8.558
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    8.706,
+                                                    -0.488
+                                                ],
+                                                [
+                                                    0.48,
+                                                    8.558
+                                                ],
+                                                [
+                                                    -8.706,
+                                                    0.488
+                                                ],
+                                                [
+                                                    -0.481,
+                                                    -8.558
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -0.868,
+                                                    -15.496
+                                                ],
+                                                [
+                                                    15.766,
+                                                    -0.884
+                                                ],
+                                                [
+                                                    0.869,
+                                                    15.496
+                                                ],
+                                                [
+                                                    -15.764,
+                                                    0.884
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            196.923,
+                                            191.506
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 47,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 50,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 1,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -12.854,
+                                                    0.721
+                                                ],
+                                                [
+                                                    -0.709,
+                                                    -12.633
+                                                ],
+                                                [
+                                                    12.854,
+                                                    -0.721
+                                                ],
+                                                [
+                                                    0.708,
+                                                    12.633
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    12.854,
+                                                    -0.721
+                                                ],
+                                                [
+                                                    0.708,
+                                                    12.633
+                                                ],
+                                                [
+                                                    -12.853,
+                                                    0.721
+                                                ],
+                                                [
+                                                    -0.709,
+                                                    -12.634
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -1.283,
+                                                    -22.874
+                                                ],
+                                                [
+                                                    23.274,
+                                                    -1.305
+                                                ],
+                                                [
+                                                    1.282,
+                                                    22.874
+                                                ],
+                                                [
+                                                    -23.273,
+                                                    1.306
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            256.792,
+                                            195.468
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 44,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 47,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 2",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 2,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -17.53,
+                                                    0.983
+                                                ],
+                                                [
+                                                    -0.966,
+                                                    -17.232
+                                                ],
+                                                [
+                                                    17.53,
+                                                    -0.983
+                                                ],
+                                                [
+                                                    0.966,
+                                                    17.232
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    17.529,
+                                                    -0.983
+                                                ],
+                                                [
+                                                    0.967,
+                                                    17.231
+                                                ],
+                                                [
+                                                    -17.529,
+                                                    0.983
+                                                ],
+                                                [
+                                                    -0.967,
+                                                    -17.232
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -1.275,
+                                                    -31.201
+                                                ],
+                                                [
+                                                    32.214,
+                                                    -1.78
+                                                ],
+                                                [
+                                                    2.224,
+                                                    31.201
+                                                ],
+                                                [
+                                                    -31.265,
+                                                    1.78
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            318.438,
+                                            251.152
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 41,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 44,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 3",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 3,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -24.543,
+                                                    1.376
+                                                ],
+                                                [
+                                                    -1.354,
+                                                    -24.124
+                                                ],
+                                                [
+                                                    24.544,
+                                                    -1.377
+                                                ],
+                                                [
+                                                    1.353,
+                                                    24.125
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    24.544,
+                                                    -1.377
+                                                ],
+                                                [
+                                                    1.352,
+                                                    24.125
+                                                ],
+                                                [
+                                                    -24.543,
+                                                    1.377
+                                                ],
+                                                [
+                                                    -1.353,
+                                                    -24.124
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -2.45,
+                                                    -43.681
+                                                ],
+                                                [
+                                                    44.441,
+                                                    -2.493
+                                                ],
+                                                [
+                                                    2.449,
+                                                    43.681
+                                                ],
+                                                [
+                                                    -44.44,
+                                                    2.492
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            287.07,
+                                            338.978
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 38,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 41,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 4",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 4,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -26.882,
+                                                    1.508
+                                                ],
+                                                [
+                                                    -1.481,
+                                                    -26.418
+                                                ],
+                                                [
+                                                    26.882,
+                                                    -1.508
+                                                ],
+                                                [
+                                                    1.481,
+                                                    26.419
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    26.881,
+                                                    -1.508
+                                                ],
+                                                [
+                                                    1.483,
+                                                    26.418
+                                                ],
+                                                [
+                                                    -26.882,
+                                                    1.508
+                                                ],
+                                                [
+                                                    -1.482,
+                                                    -26.418
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -2.682,
+                                                    -47.143
+                                                ],
+                                                [
+                                                    48.673,
+                                                    -2.038
+                                                ],
+                                                [
+                                                    2.682,
+                                                    48.527
+                                                ],
+                                                [
+                                                    -48.674,
+                                                    3.421
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            181.762,
+                                            384.649
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 35,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 38,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 5",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 5,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -24.544,
+                                                    1.377
+                                                ],
+                                                [
+                                                    -1.353,
+                                                    -24.125
+                                                ],
+                                                [
+                                                    24.544,
+                                                    -1.377
+                                                ],
+                                                [
+                                                    1.353,
+                                                    24.125
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    24.543,
+                                                    -1.376
+                                                ],
+                                                [
+                                                    1.353,
+                                                    24.124
+                                                ],
+                                                [
+                                                    -24.543,
+                                                    1.376
+                                                ],
+                                                [
+                                                    -1.353,
+                                                    -24.124
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -2.449,
+                                                    -43.681
+                                                ],
+                                                [
+                                                    44.44,
+                                                    -2.492
+                                                ],
+                                                [
+                                                    2.45,
+                                                    43.681
+                                                ],
+                                                [
+                                                    -44.441,
+                                                    2.492
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            65.717,
+                                            344.873
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 30,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 35,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 6",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 6,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -22.206,
+                                                    1.246
+                                                ],
+                                                [
+                                                    -1.224,
+                                                    -21.825
+                                                ],
+                                                [
+                                                    22.205,
+                                                    -1.245
+                                                ],
+                                                [
+                                                    1.224,
+                                                    21.826
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    22.206,
+                                                    -1.245
+                                                ],
+                                                [
+                                                    1.224,
+                                                    21.825
+                                                ],
+                                                [
+                                                    -22.206,
+                                                    1.245
+                                                ],
+                                                [
+                                                    -1.224,
+                                                    -21.825
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -2.78,
+                                                    -39.518
+                                                ],
+                                                [
+                                                    39.643,
+                                                    -2.255
+                                                ],
+                                                [
+                                                    1.653,
+                                                    39.518
+                                                ],
+                                                [
+                                                    -40.77,
+                                                    2.255
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            40.867,
+                                            243.026
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 25,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 30,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 7",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 7,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -18.715,
+                                                    1.05
+                                                ],
+                                                [
+                                                    -1.064,
+                                                    -18.963
+                                                ],
+                                                [
+                                                    18.714,
+                                                    -1.049
+                                                ],
+                                                [
+                                                    1.064,
+                                                    18.963
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    18.715,
+                                                    -1.049
+                                                ],
+                                                [
+                                                    1.063,
+                                                    18.963
+                                                ],
+                                                [
+                                                    -18.716,
+                                                    1.05
+                                                ],
+                                                [
+                                                    -1.063,
+                                                    -18.964
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -1.926,
+                                                    -34.337
+                                                ],
+                                                [
+                                                    33.887,
+                                                    -1.901
+                                                ],
+                                                [
+                                                    1.926,
+                                                    34.335
+                                                ],
+                                                [
+                                                    -33.887,
+                                                    1.9
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            64.196,
+                                            144.083
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 20,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 25,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 8",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 8,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -15.192,
+                                                    0.852
+                                                ],
+                                                [
+                                                    -0.837,
+                                                    -14.932
+                                                ],
+                                                [
+                                                    15.191,
+                                                    -0.852
+                                                ],
+                                                [
+                                                    0.838,
+                                                    14.932
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    15.191,
+                                                    -0.852
+                                                ],
+                                                [
+                                                    0.837,
+                                                    14.932
+                                                ],
+                                                [
+                                                    -15.192,
+                                                    0.852
+                                                ],
+                                                [
+                                                    -0.837,
+                                                    -14.933
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -1.516,
+                                                    -27.038
+                                                ],
+                                                [
+                                                    27.507,
+                                                    -1.542
+                                                ],
+                                                [
+                                                    1.517,
+                                                    27.038
+                                                ],
+                                                [
+                                                    -27.507,
+                                                    1.544
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            113.375,
+                                            74.547
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 15,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 20,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 9",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 9,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -11.685,
+                                                    0.655
+                                                ],
+                                                [
+                                                    -0.644,
+                                                    -11.486
+                                                ],
+                                                [
+                                                    11.685,
+                                                    -0.656
+                                                ],
+                                                [
+                                                    0.643,
+                                                    11.486
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    11.685,
+                                                    -0.655
+                                                ],
+                                                [
+                                                    0.644,
+                                                    11.486
+                                                ],
+                                                [
+                                                    -11.685,
+                                                    0.655
+                                                ],
+                                                [
+                                                    -0.645,
+                                                    -11.486
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -1.166,
+                                                    -21.13
+                                                ],
+                                                [
+                                                    21.157,
+                                                    -1.519
+                                                ],
+                                                [
+                                                    1.167,
+                                                    20.465
+                                                ],
+                                                [
+                                                    -21.156,
+                                                    0.854
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            228.475,
+                                            21.12
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 5,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 10,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 10",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 10,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        },
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [
+                                                    -12.854,
+                                                    0.721
+                                                ],
+                                                [
+                                                    -0.709,
+                                                    -12.639
+                                                ],
+                                                [
+                                                    12.854,
+                                                    -0.721
+                                                ],
+                                                [
+                                                    0.709,
+                                                    12.639
+                                                ]
+                                            ],
+                                            "o": [
+                                                [
+                                                    12.854,
+                                                    -0.721
+                                                ],
+                                                [
+                                                    0.709,
+                                                    12.638
+                                                ],
+                                                [
+                                                    -12.854,
+                                                    0.721
+                                                ],
+                                                [
+                                                    -0.709,
+                                                    -12.638
+                                                ]
+                                            ],
+                                            "v": [
+                                                [
+                                                    -1.283,
+                                                    -22.884
+                                                ],
+                                                [
+                                                    23.273,
+                                                    -1.305
+                                                ],
+                                                [
+                                                    1.283,
+                                                    22.884
+                                                ],
+                                                [
+                                                    -23.273,
+                                                    1.305
+                                                ]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1",
+                                    "mn": "ADBE Vector Shape - Group",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "fl",
+                                    "c": {
+                                        "a": 0,
+                                        "k": [
+                                            1,
+                                            0.999998922909,
+                                            1,
+                                            1
+                                        ],
+                                        "ix": 4
+                                    },
+                                    "o": {
+                                        "a": 0,
+                                        "k": 100,
+                                        "ix": 5
+                                    },
+                                    "r": 1,
+                                    "bm": 0,
+                                    "nm": "Fill 1",
+                                    "mn": "ADBE Vector Graphic - Fill",
+                                    "hd": false
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [
+                                            174.324,
+                                            34.098
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [
+                                            0,
+                                            0
+                                        ],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [
+                                            100,
+                                            100
+                                        ],
+                                        "ix": 3
+                                    },
+                                    "r": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 6
+                                    },
+                                    "o": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.833
+                                                    ],
+                                                    "y": [
+                                                        0.833
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 0,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [
+                                                        0.667
+                                                    ],
+                                                    "y": [
+                                                        1
+                                                    ]
+                                                },
+                                                "o": {
+                                                    "x": [
+                                                        0.167
+                                                    ],
+                                                    "y": [
+                                                        0.167
+                                                    ]
+                                                },
+                                                "t": 10,
+                                                "s": [
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "t": 15,
+                                                "s": [
+                                                    100
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 7
+                                    },
+                                    "sk": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 4
+                                    },
+                                    "sa": {
+                                        "a": 0,
+                                        "k": 0,
+                                        "ix": 5
+                                    },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 11",
+                            "np": 2,
+                            "cix": 2,
+                            "bm": 0,
+                            "ix": 11,
+                            "mn": "ADBE Vector Group",
+                            "hd": false
+                        }
+                    ],
+                    "ip": 0,
+                    "op": 300,
+                    "st": 0,
+                    "bm": 0
+                }
+            ]
+        },
+        {
+            "id": "comp_1",
+            "layers": [
+                {
+                    "ddd": 0,
+                    "ind": 1,
+                    "ty": 2,
+                    "nm": "Layer 1",
+                    "refId": "image_0",
+                    "sr": 1,
+                    "ks": {
+                        "o": {
+                            "a": 0,
+                            "k": 100,
+                            "ix": 11
+                        },
+                        "r": {
+                            "a": 0,
+                            "k": 0,
+                            "ix": 10
+                        },
+                        "p": {
+                            "a": 0,
+                            "k": [
+                                292.795,
+                                73.05,
+                                0
+                            ],
+                            "ix": 2
+                        },
+                        "a": {
+                            "a": 0,
+                            "k": [
+                                292.795,
+                                73.05,
+                                0
+                            ],
+                            "ix": 1
+                        },
+                        "s": {
+                            "a": 0,
+                            "k": [
+                                100,
+                                100,
+                                100
+                            ],
+                            "ix": 6
+                        }
+                    },
+                    "ao": 0,
+                    "ip": 0,
+                    "op": 300,
+                    "st": 0,
+                    "bm": 0
+                }
+            ]
+        }
+    ],
+    "layers": [
+        {
+            "ddd": 0,
+            "ind": 1,
+            "ty": 0,
+            "nm": "Dots",
+            "refId": "comp_0",
+            "sr": 1,
+            "ks": {
+                "o": {
+                    "a": 0,
+                    "k": 100,
+                    "ix": 11
+                },
+                "r": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 10
+                },
+                "p": {
+                    "a": 0,
+                    "k": [
+                        960,
+                        540,
+                        0
+                    ],
+                    "ix": 2
+                },
+                "a": {
+                    "a": 0,
+                    "k": [
+                        960,
+                        540,
+                        0
+                    ],
+                    "ix": 1
+                },
+                "s": {
+                    "a": 0,
+                    "k": [
+                        100,
+                        100,
+                        100
+                    ],
+                    "ix": 6
+                }
+            },
+            "ao": 0,
+            "w": 1920,
+            "h": 1080,
+            "ip": 0,
+            "op": 61,
+            "st": 0,
+            "bm": 0
+        },
+        {
+            "ddd": 0,
+            "ind": 2,
+            "ty": 0,
+            "nm": "LogoText",
+            "refId": "comp_1",
+            "sr": 1,
+            "ks": {
+                "o": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": {
+                                "x": [
+                                    0.833
+                                ],
+                                "y": [
+                                    0.833
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.167
+                                ],
+                                "y": [
+                                    0.167
+                                ]
+                            },
+                            "t": 0,
+                            "s": [
+                                0
+                            ]
+                        },
+                        {
+                            "i": {
+                                "x": [
+                                    0.667
+                                ],
+                                "y": [
+                                    1
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.167
+                                ],
+                                "y": [
+                                    0.167
+                                ]
+                            },
+                            "t": 48,
+                            "s": [
+                                0
+                            ]
+                        },
+                        {
+                            "t": 59,
+                            "s": [
+                                100
+                            ]
+                        }
+                    ],
+                    "ix": 11
+                },
+                "r": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 10
+                },
+                "p": {
+                    "a": 0,
+                    "k": [
+                        960,
+                        855,
+                        0
+                    ],
+                    "ix": 2
+                },
+                "a": {
+                    "a": 0,
+                    "k": [
+                        293,
+                        73.5,
+                        0
+                    ],
+                    "ix": 1
+                },
+                "s": {
+                    "a": 0,
+                    "k": [
+                        100,
+                        100,
+                        100
+                    ],
+                    "ix": 6
+                }
+            },
+            "ao": 0,
+            "w": 586,
+            "h": 147,
+            "ip": 0,
+            "op": 61,
+            "st": 0,
+            "bm": 0
+        }
+    ],
+    "markers": []
+}

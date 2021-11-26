@@ -1,0 +1,4257 @@
+{
+    "info": {
+        "year": 2021,
+        "version": "1.0",
+        "description": "VIA project exported to COCO format using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/)",
+        "contributor": "",
+        "url": "http://www.robots.ox.ac.uk/~vgg/software/via/",
+        "date_created": "Sat Oct 09 2021 09:03:28 GMT+0400 (Mauritius Standard Time)"
+    },
+    "images": [{
+        "id": 1,
+        "width": 192,
+        "height": 262,
+        "file_name": "boiled-noodles (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 2,
+        "width": 259,
+        "height": 194,
+        "file_name": "boiled-noodles (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 3,
+        "width": 299,
+        "height": 168,
+        "file_name": "boiled-noodles (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 4,
+        "width": 300,
+        "height": 168,
+        "file_name": "boiled-noodles (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 5,
+        "width": 275,
+        "height": 183,
+        "file_name": "boiled-noodles (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 6,
+        "width": 259,
+        "height": 194,
+        "file_name": "boiled-noodles (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 7,
+        "width": 192,
+        "height": 262,
+        "file_name": "boiled-noodles (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 8,
+        "width": 259,
+        "height": 194,
+        "file_name": "boiled-noodles (8).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 9,
+        "width": 275,
+        "height": 183,
+        "file_name": "bolrenverse (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 10,
+        "width": 259,
+        "height": 194,
+        "file_name": "bolrenverse (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 11,
+        "width": 263,
+        "height": 191,
+        "file_name": "bolrenverse (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 12,
+        "width": 259,
+        "height": 194,
+        "file_name": "bolrenverse (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 13,
+        "width": 201,
+        "height": 251,
+        "file_name": "bolrenverse (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 14,
+        "width": 275,
+        "height": 183,
+        "file_name": "bread (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 15,
+        "width": 225,
+        "height": 225,
+        "file_name": "bread (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 16,
+        "width": 236,
+        "height": 214,
+        "file_name": "bread (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 17,
+        "width": 183,
+        "height": 275,
+        "file_name": "bread (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 18,
+        "width": 259,
+        "height": 195,
+        "file_name": "bread (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 19,
+        "width": 300,
+        "height": 168,
+        "file_name": "bread (4).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 20,
+        "width": 257,
+        "height": 196,
+        "file_name": "bread (5).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 21,
+        "width": 259,
+        "height": 194,
+        "file_name": "briani (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 22,
+        "width": 259,
+        "height": 194,
+        "file_name": "briani (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 23,
+        "width": 259,
+        "height": 194,
+        "file_name": "briani (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 24,
+        "width": 259,
+        "height": 194,
+        "file_name": "briani (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 25,
+        "width": 300,
+        "height": 168,
+        "file_name": "briani (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 26,
+        "width": 275,
+        "height": 183,
+        "file_name": "briani (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 27,
+        "width": 275,
+        "height": 183,
+        "file_name": "briani (8).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 28,
+        "width": 259,
+        "height": 194,
+        "file_name": "briani (9).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 29,
+        "width": 225,
+        "height": 225,
+        "file_name": "brown rice (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 30,
+        "width": 183,
+        "height": 275,
+        "file_name": "brown rice (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 31,
+        "width": 300,
+        "height": 168,
+        "file_name": "brown rice (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 32,
+        "width": 275,
+        "height": 183,
+        "file_name": "brown rice (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 33,
+        "width": 300,
+        "height": 168,
+        "file_name": "brown rice (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 34,
+        "width": 300,
+        "height": 168,
+        "file_name": "brown rice (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 35,
+        "width": 300,
+        "height": 168,
+        "file_name": "brown rice (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 36,
+        "width": 225,
+        "height": 225,
+        "file_name": "brown rice (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 37,
+        "width": 259,
+        "height": 194,
+        "file_name": "daube (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 38,
+        "width": 214,
+        "height": 235,
+        "file_name": "daube (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 39,
+        "width": 275,
+        "height": 183,
+        "file_name": "daube (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 40,
+        "width": 225,
+        "height": 225,
+        "file_name": "daube (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 41,
+        "width": 225,
+        "height": 225,
+        "file_name": "daube (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 42,
+        "width": 345,
+        "height": 146,
+        "file_name": "daube (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 43,
+        "width": 194,
+        "height": 259,
+        "file_name": "daube (4).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 44,
+        "width": 247,
+        "height": 204,
+        "file_name": "daube (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 45,
+        "width": 201,
+        "height": 251,
+        "file_name": "daube (5).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 46,
+        "width": 196,
+        "height": 257,
+        "file_name": "daube (6).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 47,
+        "width": 206,
+        "height": 244,
+        "file_name": "daube (7).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 48,
+        "width": 266,
+        "height": 189,
+        "file_name": "daube (8).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 49,
+        "width": 225,
+        "height": 225,
+        "file_name": "dholl (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 50,
+        "width": 259,
+        "height": 194,
+        "file_name": "dholl (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 51,
+        "width": 294,
+        "height": 171,
+        "file_name": "dholl (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 52,
+        "width": 183,
+        "height": 275,
+        "file_name": "dholl (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 53,
+        "width": 201,
+        "height": 251,
+        "file_name": "dholl (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 54,
+        "width": 225,
+        "height": 225,
+        "file_name": "dholl (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 55,
+        "width": 194,
+        "height": 259,
+        "file_name": "dholl (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 56,
+        "width": 275,
+        "height": 183,
+        "file_name": "dholl-puri (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 57,
+        "width": 275,
+        "height": 183,
+        "file_name": "dholl-puri (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 58,
+        "width": 275,
+        "height": 183,
+        "file_name": "dholl-puri (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 59,
+        "width": 259,
+        "height": 194,
+        "file_name": "dholl-puri (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 60,
+        "width": 259,
+        "height": 194,
+        "file_name": "dholl-puri (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 61,
+        "width": 259,
+        "height": 194,
+        "file_name": "dholl-puri (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 62,
+        "width": 275,
+        "height": 183,
+        "file_name": "dholl-puri (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 63,
+        "width": 225,
+        "height": 225,
+        "file_name": "dholl-puri (4).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 64,
+        "width": 275,
+        "height": 183,
+        "file_name": "dholl-puri (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 65,
+        "width": 259,
+        "height": 194,
+        "file_name": "dholl-puri (6).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 66,
+        "width": 259,
+        "height": 194,
+        "file_name": "dholl-puri (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 67,
+        "width": 256,
+        "height": 197,
+        "file_name": "dholl-puri (10).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 68,
+        "width": 290,
+        "height": 174,
+        "file_name": "fried-chicken (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 69,
+        "width": 225,
+        "height": 225,
+        "file_name": "fried-chicken (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 70,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-chicken (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 71,
+        "width": 270,
+        "height": 187,
+        "file_name": "fried-chicken (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 72,
+        "width": 183,
+        "height": 275,
+        "file_name": "fried-chicken (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 73,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-chicken (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 74,
+        "width": 300,
+        "height": 168,
+        "file_name": "fried-chicken (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 75,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-chicken (8).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 76,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-chicken (9).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 77,
+        "width": 225,
+        "height": 225,
+        "file_name": "fried-chicken (10).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 78,
+        "width": 310,
+        "height": 162,
+        "file_name": "fried-chicken (11).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 79,
+        "width": 225,
+        "height": 225,
+        "file_name": "fried-chicken (12).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 80,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-noodles (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 81,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-noodles (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 82,
+        "width": 230,
+        "height": 219,
+        "file_name": "fried-noodles (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 83,
+        "width": 271,
+        "height": 186,
+        "file_name": "fried-noodles (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 84,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-noodles (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 85,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-noodles (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 86,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-noodles (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 87,
+        "width": 267,
+        "height": 189,
+        "file_name": "fried-noodles (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 88,
+        "width": 225,
+        "height": 225,
+        "file_name": "fried-noodles (8).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 89,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-noodles (9).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 90,
+        "width": 272,
+        "height": 186,
+        "file_name": "fried-noodles (10).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 91,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-noodles (11).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 92,
+        "width": 183,
+        "height": 275,
+        "file_name": "fried-noodles (15).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 93,
+        "width": 286,
+        "height": 176,
+        "file_name": "fried-rice (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 94,
+        "width": 225,
+        "height": 225,
+        "file_name": "fried-rice (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 95,
+        "width": 275,
+        "height": 183,
+        "file_name": "fried-rice (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 96,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-rice (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 97,
+        "width": 255,
+        "height": 198,
+        "file_name": "fried-rice (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 98,
+        "width": 194,
+        "height": 259,
+        "file_name": "fried-rice (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 99,
+        "width": 300,
+        "height": 168,
+        "file_name": "fried-rice (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 100,
+        "width": 262,
+        "height": 192,
+        "file_name": "fried-rice (8).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 101,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-rice (9).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 102,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-rice (10).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 103,
+        "width": 225,
+        "height": 225,
+        "file_name": "fried-rice (11).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 104,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-rice (12).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 105,
+        "width": 259,
+        "height": 194,
+        "file_name": "fried-rice (13).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 106,
+        "width": 275,
+        "height": 183,
+        "file_name": "fries (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 107,
+        "width": 259,
+        "height": 194,
+        "file_name": "fries (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 108,
+        "width": 620,
+        "height": 350,
+        "file_name": "fries (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 109,
+        "width": 259,
+        "height": 194,
+        "file_name": "fries (4).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 110,
+        "width": 224,
+        "height": 225,
+        "file_name": "fries (5).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 111,
+        "width": 300,
+        "height": 168,
+        "file_name": "fries (6).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 112,
+        "width": 259,
+        "height": 194,
+        "file_name": "fries (7).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 113,
+        "width": 650,
+        "height": 400,
+        "file_name": "fries (8).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 114,
+        "width": 183,
+        "height": 275,
+        "file_name": "image2.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 115,
+        "width": 259,
+        "height": 194,
+        "file_name": "image3.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 116,
+        "width": 275,
+        "height": 183,
+        "file_name": "image4.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 117,
+        "width": 205,
+        "height": 246,
+        "file_name": "image8.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 118,
+        "width": 183,
+        "height": 275,
+        "file_name": "image9.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 119,
+        "width": 275,
+        "height": 183,
+        "file_name": "image10.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 120,
+        "width": 201,
+        "height": 251,
+        "file_name": "image11.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 121,
+        "width": 183,
+        "height": 275,
+        "file_name": "image12.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 122,
+        "width": 225,
+        "height": 225,
+        "file_name": "image13.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 123,
+        "width": 183,
+        "height": 275,
+        "file_name": "image14.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 124,
+        "width": 183,
+        "height": 276,
+        "file_name": "image15.jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 125,
+        "width": 223,
+        "height": 226,
+        "file_name": "image31.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 126,
+        "width": 259,
+        "height": 194,
+        "file_name": "image34.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 127,
+        "width": 201,
+        "height": 251,
+        "file_name": "image35.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 128,
+        "width": 194,
+        "height": 259,
+        "file_name": "image36.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 129,
+        "width": 300,
+        "height": 168,
+        "file_name": "image37.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 130,
+        "width": 259,
+        "height": 194,
+        "file_name": "image38.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 131,
+        "width": 322,
+        "height": 156,
+        "file_name": "image39.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 132,
+        "width": 243,
+        "height": 207,
+        "file_name": "image40.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 133,
+        "width": 274,
+        "height": 184,
+        "file_name": "image42.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 134,
+        "width": 275,
+        "height": 183,
+        "file_name": "image44.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 135,
+        "width": 300,
+        "height": 168,
+        "file_name": "image47.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 136,
+        "width": 275,
+        "height": 183,
+        "file_name": "image48.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 137,
+        "width": 300,
+        "height": 168,
+        "file_name": "image49.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 138,
+        "width": 259,
+        "height": 194,
+        "file_name": "image52.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 139,
+        "width": 225,
+        "height": 225,
+        "file_name": "image53.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 140,
+        "width": 275,
+        "height": 183,
+        "file_name": "image55.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 141,
+        "width": 284,
+        "height": 177,
+        "file_name": "image56.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 142,
+        "width": 1024,
+        "height": 576,
+        "file_name": "image57.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 143,
+        "width": 300,
+        "height": 168,
+        "file_name": "image60.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 144,
+        "width": 218,
+        "height": 232,
+        "file_name": "image62.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 145,
+        "width": 275,
+        "height": 183,
+        "file_name": "image63.jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 146,
+        "width": 225,
+        "height": 225,
+        "file_name": "lentils (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 147,
+        "width": 225,
+        "height": 225,
+        "file_name": "lentils (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 148,
+        "width": 190,
+        "height": 266,
+        "file_name": "lentils (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 149,
+        "width": 225,
+        "height": 225,
+        "file_name": "lentils (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 150,
+        "width": 225,
+        "height": 225,
+        "file_name": "lentils (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 151,
+        "width": 190,
+        "height": 266,
+        "file_name": "lentils (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 152,
+        "width": 192,
+        "height": 262,
+        "file_name": "naan (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 153,
+        "width": 225,
+        "height": 225,
+        "file_name": "naan (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 154,
+        "width": 259,
+        "height": 194,
+        "file_name": "naan (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 155,
+        "width": 225,
+        "height": 225,
+        "file_name": "naan (4).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 156,
+        "width": 480,
+        "height": 480,
+        "file_name": "naan (5).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 157,
+        "width": 183,
+        "height": 275,
+        "file_name": "naan (6).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 158,
+        "width": 259,
+        "height": 194,
+        "file_name": "naan (7).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 159,
+        "width": 277,
+        "height": 182,
+        "file_name": "naan (8).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 160,
+        "width": 1000,
+        "height": 1000,
+        "file_name": "naan (9).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 161,
+        "width": 271,
+        "height": 186,
+        "file_name": "naan (10).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 162,
+        "width": 300,
+        "height": 168,
+        "file_name": "naan (11).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 163,
+        "width": 620,
+        "height": 350,
+        "file_name": "naan (12).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 164,
+        "width": 201,
+        "height": 251,
+        "file_name": "red-beans (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 165,
+        "width": 318,
+        "height": 159,
+        "file_name": "red-beans (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 166,
+        "width": 225,
+        "height": 225,
+        "file_name": "red-beans (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 167,
+        "width": 259,
+        "height": 194,
+        "file_name": "red-beans (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 168,
+        "width": 275,
+        "height": 183,
+        "file_name": "red-beans (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 169,
+        "width": 259,
+        "height": 194,
+        "file_name": "red-beans (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 170,
+        "width": 183,
+        "height": 275,
+        "file_name": "red-beans (9).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 171,
+        "width": 251,
+        "height": 201,
+        "file_name": "red-beans (10).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 172,
+        "width": 299,
+        "height": 168,
+        "file_name": "red-beans (11).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 173,
+        "width": 225,
+        "height": 225,
+        "file_name": "red-beans (12).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 174,
+        "width": 275,
+        "height": 183,
+        "file_name": "red-beans (13).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 175,
+        "width": 225,
+        "height": 225,
+        "file_name": "red-beans (14).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 176,
+        "width": 311,
+        "height": 162,
+        "file_name": "red-beans (15).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 177,
+        "width": 300,
+        "height": 168,
+        "file_name": "roti (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 178,
+        "width": 300,
+        "height": 168,
+        "file_name": "roti (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 179,
+        "width": 275,
+        "height": 183,
+        "file_name": "roti (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 180,
+        "width": 183,
+        "height": 275,
+        "file_name": "roti (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 181,
+        "width": 183,
+        "height": 275,
+        "file_name": "roti (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 182,
+        "width": 311,
+        "height": 162,
+        "file_name": "roti (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 183,
+        "width": 300,
+        "height": 168,
+        "file_name": "roti (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 184,
+        "width": 294,
+        "height": 171,
+        "file_name": "rougaille (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 185,
+        "width": 225,
+        "height": 225,
+        "file_name": "rougaille (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 186,
+        "width": 275,
+        "height": 183,
+        "file_name": "rougaille (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 187,
+        "width": 224,
+        "height": 224,
+        "file_name": "rougaille (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 188,
+        "width": 275,
+        "height": 183,
+        "file_name": "rougaille (3).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 189,
+        "width": 224,
+        "height": 224,
+        "file_name": "rougaille (4).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 190,
+        "width": 260,
+        "height": 194,
+        "file_name": "rougaille (5).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 191,
+        "width": 284,
+        "height": 178,
+        "file_name": "rougaille (6).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 192,
+        "width": 225,
+        "height": 225,
+        "file_name": "rougaille (7).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 193,
+        "width": 1024,
+        "height": 1024,
+        "file_name": "rougaille (8).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 194,
+        "width": 183,
+        "height": 275,
+        "file_name": "tandoori (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 195,
+        "width": 300,
+        "height": 168,
+        "file_name": "tandoori (1).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 196,
+        "width": 258,
+        "height": 195,
+        "file_name": "tandoori (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 197,
+        "width": 225,
+        "height": 225,
+        "file_name": "tandoori (2).jpg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 198,
+        "width": 225,
+        "height": 225,
+        "file_name": "white-rice (1).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 199,
+        "width": 217,
+        "height": 232,
+        "file_name": "white-rice (2).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 200,
+        "width": 224,
+        "height": 224,
+        "file_name": "white-rice (3).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 201,
+        "width": 234,
+        "height": 215,
+        "file_name": "white-rice (4).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 202,
+        "width": 183,
+        "height": 275,
+        "file_name": "white-rice (5).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 203,
+        "width": 183,
+        "height": 275,
+        "file_name": "white-rice (6).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 204,
+        "width": 183,
+        "height": 275,
+        "file_name": "white-rice (7).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 205,
+        "width": 225,
+        "height": 225,
+        "file_name": "white-rice (8).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 206,
+        "width": 300,
+        "height": 168,
+        "file_name": "white-rice (11).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }, {
+        "id": 207,
+        "width": 259,
+        "height": 194,
+        "file_name": "white-rice (16).jpeg",
+        "license": 0,
+        "date_captured": ""
+    }],
+    "annotations": [{
+        "segmentation": [
+            [35, 114, 52, 100, 86, 95, 124, 107, 160, 127, 165, 148, 147, 181, 97, 194, 54, 183, 34, 151, 28, 127]
+        ],
+        "area": 13563,
+        "bbox": [28, 95, 137, 99],
+        "iscrowd": 0,
+        "id": 1,
+        "image_id": 1,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [135, 179, 115, 177, 94, 168, 89, 148, 94, 130, 121, 121, 146, 120, 164, 149, 155, 173]
+        ],
+        "area": 4425,
+        "bbox": [89, 120, 75, 59],
+        "iscrowd": 0,
+        "id": 2,
+        "image_id": 1,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [88, 171, 46, 142, 35, 93, 67, 32, 120, 15, 187, 20, 242, 75, 249, 141, 198, 187, 130, 190]
+        ],
+        "area": 37450,
+        "bbox": [35, 15, 214, 175],
+        "iscrowd": 0,
+        "id": 3,
+        "image_id": 2,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [120, 152, 133, 124, 137, 71, 126, 50, 104, 19, 56, 46, 41, 80, 37, 120, 53, 151, 71, 167, 94, 164]
+        ],
+        "area": 14800,
+        "bbox": [37, 19, 100, 148],
+        "iscrowd": 0,
+        "id": 4,
+        "image_id": 2,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [21, 86, 52, 45, 101, 31, 165, 31, 236, 66, 241, 115, 205, 145, 116, 164, 45, 146, 18, 125, 16, 102]
+        ],
+        "area": 29925,
+        "bbox": [16, 31, 225, 133],
+        "iscrowd": 0,
+        "id": 5,
+        "image_id": 3,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [188, 112, 144, 125, 86, 126, 56, 112, 40, 85, 56, 53, 98, 37, 148, 37, 189, 48, 198, 90]
+        ],
+        "area": 14062,
+        "bbox": [40, 37, 158, 89],
+        "iscrowd": 0,
+        "id": 6,
+        "image_id": 3,
+        "category_id": 22
+    }, {
+        "segmentation": [
+            [29, 104, 38, 61, 64, 45, 93, 47, 122, 52, 153, 47, 174, 34, 191, 26, 222, 31, 251, 53, 257, 87, 248, 115, 199, 134, 124, 137, 75, 132]
+        ],
+        "area": 25308,
+        "bbox": [29, 26, 228, 111],
+        "iscrowd": 0,
+        "id": 7,
+        "image_id": 4,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [111, 78, 134, 63, 173, 58, 199, 75, 204, 107, 195, 139, 161, 153, 126, 148, 117, 135, 115, 124, 126, 124, 137, 116, 135, 109, 129, 108, 130, 100, 127, 92, 117, 87]
+        ],
+        "area": 8835,
+        "bbox": [111, 58, 93, 95],
+        "iscrowd": 0,
+        "id": 8,
+        "image_id": 5,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [22, 173, 0, 159, 0, 13, 65, 35, 147, 85, 183, 148, 193, 183, 187, 194, 99, 193, 65, 194]
+        ],
+        "area": 34933,
+        "bbox": [0, 13, 193, 181],
+        "iscrowd": 0,
+        "id": 9,
+        "image_id": 6,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [21, 162, 15, 105, 37, 66, 62, 43, 119, 44, 149, 82, 172, 123, 165, 160, 130, 181, 94, 187, 73, 192, 48, 184]
+        ],
+        "area": 23393,
+        "bbox": [15, 43, 157, 149],
+        "iscrowd": 0,
+        "id": 10,
+        "image_id": 7,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [0, 54, 41, 35, 113, 33, 189, 51, 235, 73, 258, 81, 258, 194, 1, 193]
+        ],
+        "area": 41538,
+        "bbox": [0, 33, 258, 161],
+        "iscrowd": 0,
+        "id": 11,
+        "image_id": 8,
+        "category_id": 2
+    }, {
+        "segmentation": [
+            [9, 145, 2, 133, 4, 104, 16, 44, 36, 20, 68, 6, 97, 3, 130, 8, 163, 33, 191, 83, 192, 126, 174, 153, 137, 173, 101, 179, 64, 179, 33, 170, 26, 163]
+        ],
+        "area": 33440,
+        "bbox": [2, 3, 190, 176],
+        "iscrowd": 0,
+        "id": 12,
+        "image_id": 9,
+        "category_id": 3
+    }, {
+        "segmentation": [
+            [86, 89, 110, 88, 149, 58, 152, 38, 151, 23, 134, 8, 109, 3, 75, 5, 47, 12, 24, 31, 21, 52, 32, 72, 64, 82]
+        ],
+        "area": 11266,
+        "bbox": [21, 3, 131, 86],
+        "iscrowd": 0,
+        "id": 13,
+        "image_id": 9,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [70, 152, 72, 117, 76, 92, 92, 69, 126, 61, 166, 62, 198, 86, 203, 109, 201, 121, 182, 126, 186, 142, 195, 161, 155, 168, 110, 168, 90, 164]
+        ],
+        "area": 14231,
+        "bbox": [70, 61, 133, 107],
+        "iscrowd": 0,
+        "id": 14,
+        "image_id": 10,
+        "category_id": 3
+    }, {
+        "segmentation": [
+            [142, 123, 105, 113, 78, 105, 71, 103, 89, 70, 112, 59, 147, 58, 181, 67, 210, 92, 209, 104, 181, 116, 164, 119]
+        ],
+        "area": 9035,
+        "bbox": [71, 58, 139, 65],
+        "iscrowd": 0,
+        "id": 15,
+        "image_id": 10,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [76, 98, 82, 62, 96, 38, 114, 26, 143, 18, 167, 15, 198, 28, 237, 65, 236, 91, 228, 125, 216, 149, 188, 156, 140, 163, 93, 146, 85, 128]
+        ],
+        "area": 23828,
+        "bbox": [76, 15, 161, 148],
+        "iscrowd": 0,
+        "id": 16,
+        "image_id": 11,
+        "category_id": 3
+    }, {
+        "segmentation": [
+            [184, 74, 181, 70, 147, 73, 122, 72, 95, 50, 110, 33, 170, 17, 202, 30, 219, 44, 211, 58, 191, 68]
+        ],
+        "area": 7068,
+        "bbox": [95, 17, 124, 57],
+        "iscrowd": 0,
+        "id": 17,
+        "image_id": 11,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [30, 146, 18, 123, 21, 83, 27, 44, 66, 12, 106, 4, 152, 3, 190, 7, 215, 26, 224, 65, 224, 120, 205, 152, 164, 169, 114, 174, 79, 169, 61, 160]
+        ],
+        "area": 35226,
+        "bbox": [18, 3, 206, 171],
+        "iscrowd": 0,
+        "id": 18,
+        "image_id": 12,
+        "category_id": 3
+    }, {
+        "segmentation": [
+            [141, 110, 161, 100, 211, 68, 215, 53, 216, 34, 180, 12, 137, 3, 107, 3, 85, 8, 57, 19, 32, 30, 28, 42, 32, 68, 36, 89, 64, 99, 90, 108, 121, 115]
+        ],
+        "area": 21056,
+        "bbox": [28, 3, 188, 112],
+        "iscrowd": 0,
+        "id": 19,
+        "image_id": 12,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [66, 156, 38, 140, 39, 116, 52, 70, 64, 40, 78, 34, 104, 31, 135, 34, 164, 45, 185, 65, 194, 94, 191, 126, 188, 149, 163, 157, 138, 167, 108, 168]
+        ],
+        "area": 21372,
+        "bbox": [38, 31, 156, 137],
+        "iscrowd": 0,
+        "id": 20,
+        "image_id": 13,
+        "category_id": 3
+    }, {
+        "segmentation": [
+            [97, 80, 111, 79, 135, 78, 169, 78, 187, 76, 182, 60, 152, 39, 134, 36, 102, 36, 85, 36, 68, 41, 62, 46, 64, 56, 76, 69]
+        ],
+        "area": 5500,
+        "bbox": [62, 36, 125, 44],
+        "iscrowd": 0,
+        "id": 21,
+        "image_id": 13,
+        "category_id": 21
+    }, {
+        "segmentation": [
+            [56, 111, 31, 100, 25, 74, 34, 59, 56, 55, 92, 66, 167, 87, 245, 116, 266, 128, 266, 146, 234, 162, 197, 167, 164, 161, 97, 127, 68, 117]
+        ],
+        "area": 26992,
+        "bbox": [25, 55, 241, 112],
+        "iscrowd": 0,
+        "id": 22,
+        "image_id": 14,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [206, 72, 200, 66, 202, 54, 207, 32, 211, 21, 217, 19, 233, 26, 238, 39, 237, 59, 222, 74]
+        ],
+        "area": 2090,
+        "bbox": [200, 19, 38, 55],
+        "iscrowd": 0,
+        "id": 23,
+        "image_id": 14,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [80, 203, 135, 208, 178, 192, 200, 163, 208, 134, 208, 105, 204, 81, 173, 39, 146, 25, 114, 21, 81, 21, 47, 34, 34, 61, 23, 73, 14, 107, 17, 145, 34, 170, 51, 190, 58, 195]
+        ],
+        "area": 36278,
+        "bbox": [14, 21, 194, 187],
+        "iscrowd": 0,
+        "id": 24,
+        "image_id": 15,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [101, 197, 64, 186, 43, 177, 28, 162, 18, 149, 37, 118, 115, 52, 140, 43, 189, 41, 220, 45, 234, 61, 235, 125, 172, 182, 138, 208]
+        ],
+        "area": 36239,
+        "bbox": [18, 41, 217, 167],
+        "iscrowd": 0,
+        "id": 25,
+        "image_id": 16,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [1, 122, 104, 139, 97, 161, 69, 165, 31, 161, 9, 155, 1, 151, 0, 149]
+        ],
+        "area": 4472,
+        "bbox": [0, 122, 104, 43],
+        "iscrowd": 0,
+        "id": 26,
+        "image_id": 17,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [33, 111, 43, 127, 104, 139, 100, 150, 111, 154, 130, 150, 155, 126, 182, 96, 182, 14, 161, 13, 134, 24, 93, 46, 67, 64, 42, 86, 35, 94]
+        ],
+        "area": 21009,
+        "bbox": [33, 13, 149, 141],
+        "iscrowd": 0,
+        "id": 27,
+        "image_id": 17,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [6, 125, 31, 113, 96, 104, 122, 102, 213, 102, 242, 108, 255, 116, 258, 129, 254, 143, 245, 152, 214, 159, 175, 160, 67, 162, 21, 162, 3, 149, 2, 134]
+        ],
+        "area": 15360,
+        "bbox": [2, 102, 256, 60],
+        "iscrowd": 0,
+        "id": 28,
+        "image_id": 18,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [135, 66, 228, 1, 90, 1, 74, 29, 68, 57, 74, 75, 89, 86, 107, 81]
+        ],
+        "area": 13600,
+        "bbox": [68, 1, 160, 85],
+        "iscrowd": 0,
+        "id": 29,
+        "image_id": 19,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [119, 75, 104, 101, 93, 118, 94, 134, 99, 148, 113, 156, 133, 157, 170, 144, 213, 106, 213, 90, 221, 78, 248, 68, 277, 46, 299, 25, 299, 1, 223, 1]
+        ],
+        "area": 32136,
+        "bbox": [93, 1, 206, 156],
+        "iscrowd": 0,
+        "id": 30,
+        "image_id": 19,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [31, 138, 23, 97, 22, 57, 35, 30, 48, 12, 67, 5, 92, 1, 128, 10, 143, 35, 149, 73, 155, 115, 157, 143, 143, 168, 131, 182, 105, 185, 73, 182, 49, 174, 41, 163]
+        ],
+        "area": 24840,
+        "bbox": [22, 1, 135, 184],
+        "iscrowd": 0,
+        "id": 31,
+        "image_id": 20,
+        "category_id": 4
+    }, {
+        "segmentation": [
+            [3, 73, 48, 2, 184, 1, 256, 76, 252, 154, 212, 192, 47, 192, 14, 159, 7, 122]
+        ],
+        "area": 48323,
+        "bbox": [3, 1, 253, 191],
+        "iscrowd": 0,
+        "id": 32,
+        "image_id": 21,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [20, 154, 12, 117, 14, 61, 31, 39, 107, 9, 155, 9, 199, 29, 231, 54, 242, 116, 226, 157, 196, 183, 138, 183, 63, 175]
+        ],
+        "area": 40020,
+        "bbox": [12, 9, 230, 174],
+        "iscrowd": 0,
+        "id": 33,
+        "image_id": 22,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [126, 83, 95, 80, 82, 69, 92, 38, 106, 34, 134, 40, 153, 49, 156, 78]
+        ],
+        "area": 3626,
+        "bbox": [82, 34, 74, 49],
+        "iscrowd": 0,
+        "id": 34,
+        "image_id": 22,
+        "category_id": 22
+    }, {
+        "segmentation": [
+            [2, 53, 65, 22, 104, 11, 153, 17, 212, 33, 243, 67, 258, 85, 256, 122, 250, 152, 217, 173, 160, 194, 7, 194, 0, 178, 1, 59]
+        ],
+        "area": 47214,
+        "bbox": [0, 11, 258, 183],
+        "iscrowd": 0,
+        "id": 35,
+        "image_id": 23,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [43, 150, 35, 111, 69, 46, 98, 10, 123, 3, 126, 34, 132, 48, 131, 51, 117, 43, 110, 49, 98, 55, 95, 60, 107, 68, 124, 71, 129, 71, 135, 73, 140, 85, 151, 91, 153, 88, 156, 75, 165, 77, 180, 79, 193, 73, 202, 70, 206, 88, 206, 119, 180, 169, 128, 193, 103, 193, 87, 184, 64, 175]
+        ],
+        "area": 32490,
+        "bbox": [35, 3, 171, 190],
+        "iscrowd": 0,
+        "id": 36,
+        "image_id": 24,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [22, 74, 33, 84, 52, 96, 64, 81, 95, 72, 97, 66, 92, 59, 102, 52, 117, 44, 126, 46, 129, 46, 125, 29, 126, 6, 117, 3, 99, 10, 93, 21, 90, 30, 80, 43, 71, 50, 60, 54, 44, 66, 38, 68]
+        ],
+        "area": 9951,
+        "bbox": [22, 3, 107, 93],
+        "iscrowd": 0,
+        "id": 37,
+        "image_id": 24,
+        "category_id": 20
+    }, {
+        "segmentation": [
+            [3, 50, 48, 3, 120, 2, 184, 4, 235, 11, 265, 25, 255, 34, 251, 38, 260, 43, 283, 57, 292, 77, 297, 93, 296, 132, 261, 167, 61, 167, 1, 142]
+        ],
+        "area": 48840,
+        "bbox": [1, 2, 296, 165],
+        "iscrowd": 0,
+        "id": 38,
+        "image_id": 25,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [1, 64, 42, 49, 69, 38, 97, 35, 123, 44, 163, 68, 249, 126, 251, 139, 223, 151, 94, 183, 2, 183]
+        ],
+        "area": 37000,
+        "bbox": [1, 35, 250, 148],
+        "iscrowd": 0,
+        "id": 39,
+        "image_id": 26,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [81, 21, 114, 1, 240, 2, 265, 50, 266, 89, 255, 120, 210, 149, 157, 159, 103, 147, 75, 129, 71, 109, 92, 67]
+        ],
+        "area": 30810,
+        "bbox": [71, 1, 195, 158],
+        "iscrowd": 0,
+        "id": 40,
+        "image_id": 27,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [38, 158, 19, 136, 10, 132, 5, 106, 17, 73, 32, 65, 68, 52, 78, 24, 71, 20, 64, 14, 65, 6, 74, 3, 98, 2, 121, 8, 124, 18, 123, 25, 152, 8, 156, 12, 167, 31, 159, 54, 171, 72, 183, 86, 212, 66, 222, 62, 241, 74, 241, 94, 246, 123, 249, 160, 229, 184, 204, 192, 121, 191, 83, 188, 47, 171]
+        ],
+        "area": 46360,
+        "bbox": [5, 2, 244, 190],
+        "iscrowd": 0,
+        "id": 41,
+        "image_id": 28,
+        "category_id": 1
+    }, {
+        "segmentation": [
+            [48, 138, 73, 105, 113, 25, 119, 13, 90, 3, 73, 2, 64, 8, 69, 18, 75, 27, 72, 52, 46, 60, 25, 66, 9, 78, 3, 100, 2, 123, 19, 138, 29, 138]
+        ],
+        "area": 15912,
+        "bbox": [2, 2, 117, 136],
+        "iscrowd": 0,
+        "id": 42,
+        "image_id": 28,
+        "category_id": 20
+    }, {
+        "segmentation": [
+            [1, 158, 84, 216, 132, 218, 216, 166, 223, 142, 222, 25, 132, 2, 18, 4, 9, 14, 2, 38]
+        ],
+        "area": 47952,
+        "bbox": [1, 2, 222, 216],
+        "iscrowd": 0,
+        "id": 43,
+        "image_id": 29,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [3, 76, 33, 36, 65, 30, 74, 34, 88, 87, 95, 210, 93, 246, 54, 243, 25, 226, 4, 208]
+        ],
+        "area": 19872,
+        "bbox": [3, 30, 92, 216],
+        "iscrowd": 0,
+        "id": 44,
+        "image_id": 30,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [29, 64, 72, 22, 95, 3, 179, 1, 211, 21, 235, 54, 245, 93, 200, 110, 157, 120, 94, 113, 42, 91, 36, 87]
+        ],
+        "area": 25704,
+        "bbox": [29, 1, 216, 119],
+        "iscrowd": 0,
+        "id": 45,
+        "image_id": 31,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [20, 118, 82, 139, 133, 146, 181, 146, 262, 88, 256, 55, 241, 39, 192, 39, 89, 20, 36, 56, 25, 72, 19, 90]
+        ],
+        "area": 30618,
+        "bbox": [19, 20, 243, 126],
+        "iscrowd": 0,
+        "id": 46,
+        "image_id": 32,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [55, 1, 24, 44, 24, 81, 37, 121, 42, 147, 48, 165, 240, 167, 267, 85, 247, 6, 236, 1]
+        ],
+        "area": 40338,
+        "bbox": [24, 1, 243, 166],
+        "iscrowd": 0,
+        "id": 47,
+        "image_id": 33,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [73, 141, 94, 168, 196, 166, 231, 121, 238, 82, 226, 41, 204, 18, 200, 15, 90, 17, 69, 44, 57, 80, 54, 111]
+        ],
+        "area": 28152,
+        "bbox": [54, 15, 184, 153],
+        "iscrowd": 0,
+        "id": 48,
+        "image_id": 34,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [12, 114, 27, 33, 47, 2, 225, 1, 277, 56, 281, 100, 258, 132, 226, 166, 84, 167, 62, 165, 40, 144]
+        ],
+        "area": 44654,
+        "bbox": [12, 1, 269, 166],
+        "iscrowd": 0,
+        "id": 49,
+        "image_id": 35,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [0, 187, 55, 131, 81, 135, 96, 145, 151, 114, 183, 56, 189, 52, 193, 75, 176, 115, 137, 148, 103, 157, 73, 152, 53, 182, 20, 207, 51, 203, 120, 182, 170, 152, 205, 121, 222, 93, 212, 2, 2, 1, 2, 183]
+        ],
+        "area": 45732,
+        "bbox": [0, 1, 222, 206],
+        "iscrowd": 0,
+        "id": 50,
+        "image_id": 36,
+        "category_id": 25
+    }, {
+        "segmentation": [
+            [208, 5, 178, 25, 167, 51, 162, 73, 168, 100, 187, 127, 227, 151, 252, 157, 258, 158, 255, 3]
+        ],
+        "area": 14880,
+        "bbox": [162, 3, 96, 155],
+        "iscrowd": 0,
+        "id": 51,
+        "image_id": 37,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [46, 182, 23, 136, 29, 94, 47, 75, 80, 59, 100, 53, 146, 63, 178, 79, 189, 112, 191, 144, 181, 171, 164, 191, 132, 207, 95, 211, 68, 202]
+        ],
+        "area": 26544,
+        "bbox": [23, 53, 168, 158],
+        "iscrowd": 0,
+        "id": 52,
+        "image_id": 38,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [36, 136, 15, 109, 30, 65, 49, 45, 130, 27, 172, 31, 219, 49, 236, 80, 242, 113, 213, 140, 154, 157, 94, 153]
+        ],
+        "area": 29510,
+        "bbox": [15, 27, 227, 130],
+        "iscrowd": 0,
+        "id": 53,
+        "image_id": 39,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [39, 170, 18, 134, 29, 76, 72, 40, 114, 34, 149, 46, 178, 69, 187, 102, 186, 145, 161, 178, 131, 195, 82, 198, 63, 190]
+        ],
+        "area": 27716,
+        "bbox": [18, 34, 169, 164],
+        "iscrowd": 0,
+        "id": 54,
+        "image_id": 40,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [65, 174, 45, 168, 36, 157, 40, 141, 57, 137, 74, 159, 90, 175, 106, 187, 105, 195, 90, 197, 76, 184, 71, 176]
+        ],
+        "area": 4200,
+        "bbox": [36, 137, 70, 60],
+        "iscrowd": 0,
+        "id": 55,
+        "image_id": 40,
+        "category_id": 20
+    }, {
+        "segmentation": [
+            [2, 168, 3, 107, 29, 138, 78, 138, 119, 134, 149, 113, 157, 86, 154, 56, 125, 18, 135, 13, 169, 14, 213, 41, 223, 58, 222, 175, 190, 202, 125, 206, 66, 204, 42, 196]
+        ],
+        "area": 42653,
+        "bbox": [2, 13, 221, 193],
+        "iscrowd": 0,
+        "id": 56,
+        "image_id": 41,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [1, 102, 0, 69, 12, 48, 38, 51, 55, 53, 71, 70, 86, 44, 78, 37, 92, 32, 107, 42, 126, 34, 131, 29, 142, 43, 151, 67, 146, 101, 135, 82, 119, 71, 108, 93, 123, 100, 117, 114, 93, 123, 79, 131, 53, 131, 14, 114]
+        ],
+        "area": 15402,
+        "bbox": [0, 29, 151, 102],
+        "iscrowd": 0,
+        "id": 57,
+        "image_id": 41,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [123, 110, 132, 125, 145, 141, 155, 143, 190, 144, 245, 144, 275, 140, 295, 113, 297, 78, 272, 45, 238, 34, 207, 28, 179, 28, 154, 33, 146, 37, 143, 50, 134, 83, 127, 99, 123, 100]
+        ],
+        "area": 20184,
+        "bbox": [123, 28, 174, 116],
+        "iscrowd": 0,
+        "id": 58,
+        "image_id": 42,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [18, 146, 26, 81, 61, 35, 103, 14, 144, 11, 176, 19, 190, 27, 191, 206, 43, 206, 29, 179]
+        ],
+        "area": 33735,
+        "bbox": [18, 11, 173, 195],
+        "iscrowd": 0,
+        "id": 59,
+        "image_id": 43,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [25, 135, 18, 93, 53, 27, 73, 13, 116, 5, 161, 12, 188, 27, 208, 64, 212, 108, 195, 167, 163, 189, 108, 196, 65, 187, 37, 164]
+        ],
+        "area": 37054,
+        "bbox": [18, 5, 194, 191],
+        "iscrowd": 0,
+        "id": 60,
+        "image_id": 44,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [51, 111, 42, 96, 46, 82, 63, 73, 88, 68, 108, 75, 129, 87, 130, 102, 124, 115, 101, 124, 75, 124, 63, 122]
+        ],
+        "area": 4928,
+        "bbox": [42, 68, 88, 56],
+        "iscrowd": 0,
+        "id": 61,
+        "image_id": 45,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [4, 176, 11, 139, 17, 108, 23, 92, 28, 94, 37, 115, 67, 132, 97, 148, 88, 159, 61, 164, 45, 173, 43, 182, 22, 187, 11, 185, 4, 185]
+        ],
+        "area": 8835,
+        "bbox": [4, 92, 93, 95],
+        "iscrowd": 0,
+        "id": 62,
+        "image_id": 45,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [47, 176, 27, 130, 37, 69, 96, 37, 135, 39, 171, 53, 190, 80, 195, 193, 155, 203, 84, 204, 61, 198]
+        ],
+        "area": 28056,
+        "bbox": [27, 37, 168, 167],
+        "iscrowd": 0,
+        "id": 63,
+        "image_id": 46,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [2, 71, 3, 181, 40, 205, 154, 206, 202, 155, 195, 77, 182, 57, 142, 32, 102, 24, 63, 28, 29, 41, 18, 48]
+        ],
+        "area": 36400,
+        "bbox": [2, 24, 200, 182],
+        "iscrowd": 0,
+        "id": 64,
+        "image_id": 47,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [21, 116, 20, 59, 51, 20, 92, 2, 179, 7, 232, 34, 260, 76, 249, 121, 204, 152, 159, 168, 98, 163, 58, 152]
+        ],
+        "area": 39840,
+        "bbox": [20, 2, 240, 166],
+        "iscrowd": 0,
+        "id": 65,
+        "image_id": 48,
+        "category_id": 5
+    }, {
+        "segmentation": [
+            [14, 108, 20, 99, 37, 71, 62, 49, 96, 38, 130, 39, 165, 47, 179, 66, 206, 111, 198, 140, 187, 158, 167, 184, 123, 202, 70, 196, 36, 171, 19, 134]
+        ],
+        "area": 31488,
+        "bbox": [14, 38, 192, 164],
+        "iscrowd": 0,
+        "id": 66,
+        "image_id": 49,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [37, 102, 48, 54, 75, 25, 115, 12, 150, 12, 189, 26, 205, 38, 183, 61, 186, 68, 210, 46, 227, 69, 230, 102, 219, 138, 180, 171, 110, 177, 77, 159, 58, 144, 47, 130]
+        ],
+        "area": 31845,
+        "bbox": [37, 12, 193, 165],
+        "iscrowd": 0,
+        "id": 67,
+        "image_id": 50,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [30, 81, 51, 34, 104, 10, 152, 12, 189, 30, 217, 56, 218, 99, 198, 136, 139, 161, 76, 153, 44, 127, 33, 102]
+        ],
+        "area": 28388,
+        "bbox": [30, 10, 188, 151],
+        "iscrowd": 0,
+        "id": 68,
+        "image_id": 51,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [19, 109, 38, 78, 75, 63, 118, 64, 142, 80, 159, 106, 170, 136, 161, 175, 148, 194, 120, 214, 64, 214, 33, 194, 19, 171, 12, 143, 15, 123]
+        ],
+        "area": 23858,
+        "bbox": [12, 63, 158, 151],
+        "iscrowd": 0,
+        "id": 69,
+        "image_id": 52,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [25, 148, 22, 104, 42, 80, 60, 67, 93, 58, 123, 59, 157, 78, 176, 123, 168, 149, 150, 174, 98, 190, 55, 176, 40, 169]
+        ],
+        "area": 20328,
+        "bbox": [22, 58, 154, 132],
+        "iscrowd": 0,
+        "id": 70,
+        "image_id": 53,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [11, 180, 1, 174, 2, 64, 41, 46, 68, 36, 122, 45, 150, 48, 170, 77, 184, 98, 175, 133, 170, 164, 150, 173, 116, 184, 95, 200, 80, 199, 57, 187, 41, 183]
+        ],
+        "area": 30012,
+        "bbox": [1, 36, 183, 164],
+        "iscrowd": 0,
+        "id": 71,
+        "image_id": 54,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [26, 131, 20, 100, 41, 68, 76, 55, 110, 64, 139, 86, 143, 128, 103, 156, 61, 155, 39, 145]
+        ],
+        "area": 12423,
+        "bbox": [20, 55, 123, 101],
+        "iscrowd": 0,
+        "id": 72,
+        "image_id": 55,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [32, 110, 21, 57, 29, 32, 52, 23, 67, 20, 80, 4, 91, 2, 103, 2, 257, 93, 275, 112, 272, 140, 262, 161, 243, 166, 206, 161, 179, 152, 143, 166, 99, 163, 62, 145]
+        ],
+        "area": 41656,
+        "bbox": [21, 2, 254, 164],
+        "iscrowd": 0,
+        "id": 73,
+        "image_id": 56,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [38, 145, 23, 99, 62, 17, 85, 7, 131, 7, 168, 15, 164, 31, 143, 47, 121, 71, 110, 123, 145, 146, 166, 122, 196, 104, 196, 74, 180, 40, 172, 24, 175, 19, 205, 36, 222, 68, 219, 116, 198, 158, 166, 179, 118, 181, 53, 163]
+        ],
+        "area": 34626,
+        "bbox": [23, 7, 199, 174],
+        "iscrowd": 0,
+        "id": 74,
+        "image_id": 57,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [95, 134, 74, 117, 88, 78, 91, 37, 99, 17, 130, 10, 152, 9, 174, 30, 174, 91, 175, 139, 151, 153, 116, 146]
+        ],
+        "area": 14544,
+        "bbox": [74, 9, 101, 144],
+        "iscrowd": 0,
+        "id": 75,
+        "image_id": 58,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [148, 157, 102, 151, 93, 132, 56, 91, 67, 72, 90, 67, 107, 77, 117, 94, 131, 100, 139, 91, 147, 78, 143, 59, 145, 52, 157, 64, 162, 72, 143, 89, 138, 115, 136, 133, 160, 137, 184, 127, 202, 123, 213, 143, 208, 161, 177, 166]
+        ],
+        "area": 17898,
+        "bbox": [56, 52, 157, 114],
+        "iscrowd": 0,
+        "id": 76,
+        "image_id": 59,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [38, 108, 77, 87, 152, 37, 196, 34, 191, 22, 153, 9, 102, 8, 52, 8, 5, 29]
+        ],
+        "area": 19100,
+        "bbox": [5, 8, 191, 100],
+        "iscrowd": 0,
+        "id": 77,
+        "image_id": 60,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [129, 144, 151, 123, 187, 94, 236, 36, 238, 24, 162, 27, 148, 47, 126, 71, 91, 111, 82, 133, 92, 143]
+        ],
+        "area": 18720,
+        "bbox": [82, 24, 156, 120],
+        "iscrowd": 0,
+        "id": 78,
+        "image_id": 61,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [28, 149, 2, 128, 2, 80, 35, 43, 117, 23, 183, 11, 229, 21, 247, 40, 251, 56, 256, 95, 239, 164, 179, 177, 107, 178]
+        ],
+        "area": 42418,
+        "bbox": [2, 11, 254, 167],
+        "iscrowd": 0,
+        "id": 79,
+        "image_id": 62,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [99, 225, 137, 181, 148, 154, 143, 133, 119, 110, 92, 92, 58, 90, 31, 96, 15, 117, 2, 129, 3, 206, 11, 225]
+        ],
+        "area": 19710,
+        "bbox": [2, 90, 146, 135],
+        "iscrowd": 0,
+        "id": 80,
+        "image_id": 63,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [72, 171, 35, 158, 3, 85, 26, 32, 55, 17, 93, 9, 140, 17, 176, 24, 224, 47, 252, 72, 269, 105, 270, 149, 224, 168, 155, 182, 106, 181]
+        ],
+        "area": 46191,
+        "bbox": [3, 9, 267, 173],
+        "iscrowd": 0,
+        "id": 81,
+        "image_id": 64,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [56, 183, 21, 159, 4, 143, 2, 109, 10, 63, 54, 45, 108, 28, 143, 20, 188, 22, 218, 39, 242, 83, 256, 122, 246, 163, 193, 182, 154, 194, 95, 194, 69, 192]
+        ],
+        "area": 44196,
+        "bbox": [2, 20, 254, 174],
+        "iscrowd": 0,
+        "id": 82,
+        "image_id": 65,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [1, 20, 22, 1, 250, 2, 236, 59, 198, 117, 131, 150, 83, 159, 46, 154, 11, 136, 2, 120]
+        ],
+        "area": 39342,
+        "bbox": [1, 1, 249, 158],
+        "iscrowd": 0,
+        "id": 83,
+        "image_id": 66,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [61, 190, 51, 131, 88, 113, 137, 106, 208, 94, 240, 91, 246, 120, 241, 144, 183, 168, 122, 177]
+        ],
+        "area": 19305,
+        "bbox": [51, 91, 195, 99],
+        "iscrowd": 0,
+        "id": 84,
+        "image_id": 67,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [34, 117, 12, 115, 10, 92, 7, 72, 35, 58, 76, 53, 148, 53, 213, 54, 232, 58, 238, 92, 220, 101, 125, 116, 79, 117]
+        ],
+        "area": 14784,
+        "bbox": [7, 53, 231, 64],
+        "iscrowd": 0,
+        "id": 85,
+        "image_id": 67,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [42, 64, 14, 57, 14, 39, 10, 20, 18, 5, 43, 4, 81, 13, 196, 25, 214, 27, 217, 49, 206, 64]
+        ],
+        "area": 12420,
+        "bbox": [10, 4, 207, 60],
+        "iscrowd": 0,
+        "id": 86,
+        "image_id": 67,
+        "category_id": 8
+    }, {
+        "segmentation": [
+            [133, 148, 140, 93, 148, 48, 173, 45, 203, 68, 211, 92, 211, 114, 164, 140, 143, 156]
+        ],
+        "area": 8658,
+        "bbox": [133, 45, 78, 111],
+        "iscrowd": 0,
+        "id": 87,
+        "image_id": 68,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [80, 155, 62, 148, 56, 124, 51, 95, 56, 81, 70, 78, 91, 97, 123, 80, 137, 79, 148, 90, 153, 111, 143, 143, 115, 164]
+        ],
+        "area": 8772,
+        "bbox": [51, 78, 102, 86],
+        "iscrowd": 0,
+        "id": 88,
+        "image_id": 68,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [101, 183, 77, 156, 68, 128, 66, 92, 84, 62, 111, 51, 141, 68, 154, 109, 158, 157, 150, 186, 154, 212, 145, 225, 105, 216, 105, 200, 104, 185]
+        ],
+        "area": 16008,
+        "bbox": [66, 51, 92, 174],
+        "iscrowd": 0,
+        "id": 89,
+        "image_id": 69,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [142, 115, 79, 102, 55, 76, 53, 32, 76, 4, 94, 4, 121, 17, 146, 58, 154, 76, 174, 82, 191, 94, 192, 106, 190, 122, 182, 133, 168, 131, 151, 117]
+        ],
+        "area": 17931,
+        "bbox": [53, 4, 139, 129],
+        "iscrowd": 0,
+        "id": 90,
+        "image_id": 70,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [11, 142, 47, 134, 67, 134, 114, 117, 138, 111, 179, 135, 179, 160, 170, 180, 62, 181, 39, 181, 18, 181, 9, 167]
+        ],
+        "area": 11900,
+        "bbox": [9, 111, 170, 70],
+        "iscrowd": 0,
+        "id": 91,
+        "image_id": 70,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [143, 160, 170, 180, 195, 182, 215, 176, 248, 147, 254, 111, 226, 97, 172, 100, 125, 133, 126, 146]
+        ],
+        "area": 10965,
+        "bbox": [125, 97, 129, 85],
+        "iscrowd": 0,
+        "id": 92,
+        "image_id": 71,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [48, 167, 93, 172, 126, 170, 126, 150, 49, 104, 25, 108, 16, 126, 17, 162]
+        ],
+        "area": 7480,
+        "bbox": [16, 104, 110, 68],
+        "iscrowd": 0,
+        "id": 93,
+        "image_id": 71,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [27, 104, 21, 106, 55, 99, 88, 106, 150, 90, 164, 91, 164, 71, 149, 31, 122, 13, 88, 11, 46, 17, 17, 36, 7, 56, 4, 86, 16, 100]
+        ],
+        "area": 15200,
+        "bbox": [4, 11, 160, 95],
+        "iscrowd": 0,
+        "id": 94,
+        "image_id": 71,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [169, 66, 167, 83, 182, 94, 223, 91, 251, 104, 263, 107, 269, 78, 264, 35, 233, 8, 202, 7, 185, 51, 177, 63]
+        ],
+        "area": 10200,
+        "bbox": [167, 7, 102, 100],
+        "iscrowd": 0,
+        "id": 95,
+        "image_id": 71,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [90, 156, 60, 141, 55, 117, 85, 90, 104, 91, 125, 100, 152, 113, 176, 113, 181, 117, 182, 145, 167, 149, 112, 156]
+        ],
+        "area": 8382,
+        "bbox": [55, 90, 127, 66],
+        "iscrowd": 0,
+        "id": 96,
+        "image_id": 72,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [173, 113, 136, 86, 118, 52, 129, 27, 151, 15, 177, 19, 200, 42, 233, 66, 258, 88, 257, 139, 216, 106, 193, 110]
+        ],
+        "area": 17360,
+        "bbox": [118, 15, 140, 124],
+        "iscrowd": 0,
+        "id": 97,
+        "image_id": 73,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [102, 135, 136, 116, 173, 109, 189, 112, 227, 73, 191, 33, 151, 20, 128, 22, 109, 38, 111, 60, 95, 84, 82, 90, 61, 101, 52, 127, 55, 135, 88, 140]
+        ],
+        "area": 21000,
+        "bbox": [52, 20, 175, 120],
+        "iscrowd": 0,
+        "id": 98,
+        "image_id": 74,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [133, 118, 127, 100, 103, 99, 95, 78, 101, 58, 121, 52, 133, 68, 169, 88, 213, 133, 193, 149, 161, 164, 134, 143]
+        ],
+        "area": 13216,
+        "bbox": [95, 52, 118, 112],
+        "iscrowd": 0,
+        "id": 99,
+        "image_id": 75,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [126, 56, 114, 106, 98, 150, 82, 174, 61, 185, 41, 181, 32, 159, 72, 60, 81, 46, 99, 33, 121, 37]
+        ],
+        "area": 14288,
+        "bbox": [32, 33, 94, 152],
+        "iscrowd": 0,
+        "id": 100,
+        "image_id": 76,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [103, 124, 108, 109, 117, 96, 125, 84, 125, 71, 121, 57, 108, 57, 91, 68, 81, 83, 81, 109, 77, 126, 78, 141, 92, 137, 99, 129]
+        ],
+        "area": 4032,
+        "bbox": [77, 57, 48, 84],
+        "iscrowd": 0,
+        "id": 101,
+        "image_id": 77,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [34, 96, 51, 104, 76, 111, 82, 104, 83, 89, 81, 81, 62, 74, 44, 73, 27, 64, 15, 61, 10, 68, 8, 79, 20, 83, 29, 88]
+        ],
+        "area": 3750,
+        "bbox": [8, 61, 75, 50],
+        "iscrowd": 0,
+        "id": 102,
+        "image_id": 77,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [148, 131, 131, 106, 133, 66, 115, 28, 123, 8, 131, 6, 147, 5, 167, 10, 170, 26, 168, 42, 185, 65, 205, 83, 209, 108, 207, 128, 196, 146, 181, 153, 158, 149, 152, 140]
+        ],
+        "area": 13912,
+        "bbox": [115, 5, 94, 148],
+        "iscrowd": 0,
+        "id": 103,
+        "image_id": 78,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [105, 132, 70, 139, 59, 128, 55, 100, 42, 65, 51, 39, 60, 28, 82, 21, 103, 20, 113, 23, 121, 40, 130, 53, 137, 71, 134, 111, 124, 125]
+        ],
+        "area": 11305,
+        "bbox": [42, 20, 95, 119],
+        "iscrowd": 0,
+        "id": 104,
+        "image_id": 78,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [67, 110, 99, 107, 136, 105, 186, 78, 190, 58, 178, 45, 140, 40, 55, 26, 43, 28, 33, 40, 25, 71, 14, 89, 25, 103, 48, 105]
+        ],
+        "area": 14784,
+        "bbox": [14, 26, 176, 84],
+        "iscrowd": 0,
+        "id": 105,
+        "image_id": 79,
+        "category_id": 10
+    }, {
+        "segmentation": [
+            [51, 141, 108, 149, 170, 149, 208, 136, 237, 128, 248, 113, 223, 90, 196, 76, 150, 62, 103, 65, 67, 79, 45, 96, 17, 112, 19, 122, 27, 129]
+        ],
+        "area": 20097,
+        "bbox": [17, 62, 231, 87],
+        "iscrowd": 0,
+        "id": 106,
+        "image_id": 80,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [81, 176, 42, 156, 7, 134, 11, 59, 68, 23, 113, 6, 156, 6, 222, 17, 251, 43, 262, 100, 248, 158, 209, 179, 168, 182]
+        ],
+        "area": 44880,
+        "bbox": [7, 6, 255, 176],
+        "iscrowd": 0,
+        "id": 107,
+        "image_id": 81,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [4, 41, 23, 29, 52, 30, 89, 46, 105, 68, 110, 97, 125, 107, 138, 105, 138, 122, 128, 154, 108, 178, 53, 204, 26, 205, 2, 199]
+        ],
+        "area": 23936,
+        "bbox": [2, 29, 136, 176],
+        "iscrowd": 0,
+        "id": 108,
+        "image_id": 82,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [69, 185, 25, 96, 44, 73, 74, 56, 124, 48, 158, 45, 201, 87, 225, 122, 162, 157, 128, 177, 99, 186]
+        ],
+        "area": 28200,
+        "bbox": [25, 45, 200, 141],
+        "iscrowd": 0,
+        "id": 109,
+        "image_id": 83,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [66, 180, 19, 74, 28, 29, 87, 2, 195, 1, 225, 19, 253, 45, 270, 71, 272, 113, 144, 182]
+        ],
+        "area": 45793,
+        "bbox": [19, 1, 253, 181],
+        "iscrowd": 0,
+        "id": 110,
+        "image_id": 84,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [18, 78, 34, 178, 52, 183, 229, 138, 175, 52, 133, 38, 67, 45, 36, 58]
+        ],
+        "area": 30595,
+        "bbox": [18, 38, 211, 145],
+        "iscrowd": 0,
+        "id": 111,
+        "image_id": 85,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [89, 178, 26, 85, 50, 63, 91, 44, 153, 39, 177, 48, 207, 73, 242, 115, 103, 180]
+        ],
+        "area": 30456,
+        "bbox": [26, 39, 216, 141],
+        "iscrowd": 0,
+        "id": 112,
+        "image_id": 86,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [47, 185, 11, 92, 23, 15, 39, 2, 197, 2, 257, 67, 253, 136, 250, 183]
+        ],
+        "area": 45018,
+        "bbox": [11, 2, 246, 183],
+        "iscrowd": 0,
+        "id": 113,
+        "image_id": 87,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [44, 177, 7, 167, 1, 120, 23, 64, 67, 33, 100, 26, 155, 26, 195, 46, 211, 90, 212, 130, 189, 172, 172, 199, 110, 196]
+        ],
+        "area": 36503,
+        "bbox": [1, 26, 211, 173],
+        "iscrowd": 0,
+        "id": 114,
+        "image_id": 88,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [9, 117, 131, 180, 159, 182, 246, 91, 206, 51, 154, 34, 120, 34, 69, 52, 45, 79, 22, 99]
+        ],
+        "area": 35076,
+        "bbox": [9, 34, 237, 148],
+        "iscrowd": 0,
+        "id": 115,
+        "image_id": 89,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [74, 147, 151, 146, 224, 92, 207, 55, 150, 33, 91, 35, 61, 57, 38, 87, 40, 117]
+        ],
+        "area": 21204,
+        "bbox": [38, 33, 186, 114],
+        "iscrowd": 0,
+        "id": 116,
+        "image_id": 90,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [104, 160, 189, 155, 253, 129, 255, 99, 167, 48, 106, 43, 68, 58, 32, 79, 7, 88, 10, 130, 50, 148]
+        ],
+        "area": 29016,
+        "bbox": [7, 43, 248, 117],
+        "iscrowd": 0,
+        "id": 117,
+        "image_id": 91,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [3, 207, 113, 241, 180, 118, 89, 68, 19, 66, 0, 73]
+        ],
+        "area": 31500,
+        "bbox": [0, 66, 180, 175],
+        "iscrowd": 0,
+        "id": 118,
+        "image_id": 92,
+        "category_id": 11
+    }, {
+        "segmentation": [
+            [79, 143, 191, 154, 246, 143, 263, 124, 245, 69, 187, 49, 127, 48, 88, 67, 75, 88, 74, 116]
+        ],
+        "area": 20034,
+        "bbox": [74, 48, 189, 106],
+        "iscrowd": 0,
+        "id": 119,
+        "image_id": 93,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [104, 164, 53, 135, 33, 91, 38, 58, 54, 53, 89, 54, 131, 83, 157, 117, 166, 154, 124, 165]
+        ],
+        "area": 14896,
+        "bbox": [33, 53, 133, 112],
+        "iscrowd": 0,
+        "id": 120,
+        "image_id": 94,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [42, 120, 50, 145, 88, 154, 137, 163, 198, 154, 237, 126, 239, 101, 167, 59, 127, 51, 93, 63]
+        ],
+        "area": 22064,
+        "bbox": [42, 51, 197, 112],
+        "iscrowd": 0,
+        "id": 121,
+        "image_id": 95,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [43, 131, 27, 96, 29, 75, 80, 32, 108, 23, 150, 30, 184, 49, 202, 80, 200, 110, 176, 130, 139, 153, 93, 154, 76, 146]
+        ],
+        "area": 22925,
+        "bbox": [27, 23, 175, 131],
+        "iscrowd": 0,
+        "id": 122,
+        "image_id": 96,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [65, 170, 40, 121, 84, 16, 112, 9, 170, 8, 211, 20, 244, 44, 252, 90, 253, 172, 221, 191, 128, 195, 93, 193]
+        ],
+        "area": 39831,
+        "bbox": [40, 8, 213, 187],
+        "iscrowd": 0,
+        "id": 123,
+        "image_id": 97,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [63, 204, 5, 132, 16, 100, 90, 68, 113, 77, 168, 132, 169, 155, 115, 181, 99, 200]
+        ],
+        "area": 22304,
+        "bbox": [5, 68, 164, 136],
+        "iscrowd": 0,
+        "id": 124,
+        "image_id": 98,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [1, 62, 66, 1, 263, 2, 285, 57, 238, 143, 194, 166, 5, 167]
+        ],
+        "area": 47144,
+        "bbox": [1, 1, 284, 166],
+        "iscrowd": 0,
+        "id": 125,
+        "image_id": 99,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [3, 172, 2, 16, 37, 3, 181, 0, 260, 53, 257, 151, 223, 170]
+        ],
+        "area": 44376,
+        "bbox": [2, 0, 258, 172],
+        "iscrowd": 0,
+        "id": 126,
+        "image_id": 100,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [16, 157, 74, 187, 147, 176, 249, 115, 248, 61, 174, 15, 121, 15, 57, 41, 28, 79, 10, 104, 7, 137]
+        ],
+        "area": 41624,
+        "bbox": [7, 15, 242, 172],
+        "iscrowd": 0,
+        "id": 127,
+        "image_id": 101,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [41, 170, 11, 136, 27, 71, 79, 22, 132, 16, 181, 18, 219, 35, 244, 75, 251, 136, 235, 172, 207, 187, 58, 185]
+        ],
+        "area": 41040,
+        "bbox": [11, 16, 240, 171],
+        "iscrowd": 0,
+        "id": 128,
+        "image_id": 102,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [67, 188, 42, 150, 44, 93, 71, 62, 122, 49, 198, 108, 186, 165, 148, 194, 104, 197]
+        ],
+        "area": 23088,
+        "bbox": [42, 49, 156, 148],
+        "iscrowd": 0,
+        "id": 129,
+        "image_id": 103,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [69, 178, 20, 144, 42, 58, 95, 13, 165, 10, 230, 74, 218, 138, 194, 175, 163, 190, 116, 190, 83, 187]
+        ],
+        "area": 37800,
+        "bbox": [20, 10, 210, 180],
+        "iscrowd": 0,
+        "id": 130,
+        "image_id": 104,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [5, 88, 60, 57, 123, 59, 166, 68, 210, 88, 220, 116, 216, 146, 205, 176, 187, 192, 2, 194]
+        ],
+        "area": 29866,
+        "bbox": [2, 57, 218, 137],
+        "iscrowd": 0,
+        "id": 131,
+        "image_id": 105,
+        "category_id": 12
+    }, {
+        "segmentation": [
+            [6, 135, 27, 39, 48, 82, 99, 87, 115, 65, 117, 39, 274, 33, 273, 180, 10, 182]
+        ],
+        "area": 39932,
+        "bbox": [6, 33, 268, 149],
+        "iscrowd": 0,
+        "id": 132,
+        "image_id": 106,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [56, 34, 52, 101, 55, 164, 92, 187, 138, 193, 214, 191, 254, 164, 258, 52, 231, 33, 185, 35, 160, 119, 75, 100, 94, 31]
+        ],
+        "area": 33372,
+        "bbox": [52, 31, 206, 162],
+        "iscrowd": 0,
+        "id": 133,
+        "image_id": 107,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [85, 133, 129, 187, 148, 243, 204, 311, 261, 319, 359, 284, 384, 249, 313, 128, 282, 75, 117, 40, 98, 61, 88, 94]
+        ],
+        "area": 83421,
+        "bbox": [85, 40, 299, 279],
+        "iscrowd": 0,
+        "id": 134,
+        "image_id": 108,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [2, 34, 156, 33, 171, 54, 164, 84, 176, 128, 194, 155, 217, 172, 209, 193, 94, 194, 52, 175, 31, 166, 13, 155, 3, 144, 3, 111]
+        ],
+        "area": 34615,
+        "bbox": [2, 33, 215, 161],
+        "iscrowd": 0,
+        "id": 135,
+        "image_id": 109,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [62, 173, 36, 144, 28, 97, 45, 64, 63, 48, 97, 39, 137, 35, 135, 65, 140, 90, 152, 96, 168, 98, 182, 96, 197, 106, 203, 126, 193, 130, 185, 128, 183, 153, 192, 167, 180, 184, 164, 181, 139, 194, 102, 205, 82, 193]
+        ],
+        "area": 29750,
+        "bbox": [28, 35, 175, 170],
+        "iscrowd": 0,
+        "id": 136,
+        "image_id": 110,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [4, 65, 72, 32, 236, 32, 278, 88, 279, 130, 247, 157, 199, 167, 132, 167, 124, 156, 97, 156, 69, 152, 55, 153, 34, 140, 34, 109, 18, 114, 7, 106, 4, 95, 13, 93, 7, 84, 1, 66]
+        ],
+        "area": 37530,
+        "bbox": [1, 32, 278, 135],
+        "iscrowd": 0,
+        "id": 137,
+        "image_id": 111,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [50, 182, 25, 171, 19, 133, 13, 109, 71, 76, 110, 52, 116, 32, 258, 33, 258, 189, 104, 192, 55, 189]
+        ],
+        "area": 39200,
+        "bbox": [13, 32, 245, 160],
+        "iscrowd": 0,
+        "id": 138,
+        "image_id": 112,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [211, 302, 117, 268, 79, 226, 99, 218, 134, 224, 128, 210, 124, 198, 140, 192, 86, 162, 86, 115, 109, 122, 159, 166, 134, 115, 164, 108, 183, 127, 189, 115, 189, 98, 198, 92, 212, 90, 235, 100, 266, 87, 275, 66, 319, 63, 321, 34, 359, 34, 358, 56, 364, 49, 371, 48, 393, 59, 479, 109, 482, 134, 485, 161, 537, 187, 522, 208, 511, 204, 532, 216, 535, 226, 309, 348, 273, 359, 249, 358, 230, 330, 222, 312]
+        ],
+        "area": 148850,
+        "bbox": [79, 34, 458, 325],
+        "iscrowd": 0,
+        "id": 139,
+        "image_id": 113,
+        "category_id": 9
+    }, {
+        "segmentation": [
+            [180, 209, 141, 224, 98, 224, 58, 207, 38, 191, 22, 158, 17, 129, 36, 84, 62, 70, 115, 49, 152, 58, 180, 69]
+        ],
+        "area": 28525,
+        "bbox": [17, 49, 163, 175],
+        "iscrowd": 0,
+        "id": 140,
+        "image_id": 114,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [50, 34, 145, 34, 171, 57, 183, 85, 133, 72, 118, 61, 104, 51, 86, 57, 98, 64, 116, 76, 123, 93, 179, 103, 163, 151, 121, 176, 71, 176, 17, 114, 25, 78, 38, 54]
+        ],
+        "area": 23572,
+        "bbox": [17, 34, 166, 142],
+        "iscrowd": 0,
+        "id": 141,
+        "image_id": 115,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [67, 84, 78, 52, 101, 38, 110, 32, 196, 31, 217, 47, 243, 67, 243, 98, 231, 126, 197, 147, 161, 154, 121, 148, 89, 134, 74, 112, 67, 100]
+        ],
+        "area": 21648,
+        "bbox": [67, 31, 176, 123],
+        "iscrowd": 0,
+        "id": 142,
+        "image_id": 116,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [16, 143, 15, 107, 40, 80, 76, 60, 125, 60, 170, 78, 184, 95, 184, 124, 169, 139, 161, 147, 141, 152, 131, 166, 116, 191, 112, 197, 53, 186, 32, 167]
+        ],
+        "area": 23153,
+        "bbox": [15, 60, 169, 137],
+        "iscrowd": 0,
+        "id": 143,
+        "image_id": 117,
+        "category_id": 7
+    }, {
+        "segmentation": [
+            [162, 217, 145, 159, 156, 148, 161, 169, 177, 202, 180, 95, 156, 67, 128, 53, 93, 51, 48, 60, 13, 82, 4, 99, 2, 173, 12, 194, 52, 217, 107, 231, 145, 222]
+        ],
+        "area": 32040,
+        "bbox": [2, 51, 178, 180],
+        "iscrowd": 0,
+        "id": 144,
+        "image_id": 118,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [140, 153, 104, 145, 77, 126, 73, 94, 70, 62, 88, 42, 123, 32, 157, 32, 178, 46, 197, 70, 198, 104, 190, 116, 167, 123, 158, 135]
+        ],
+        "area": 15488,
+        "bbox": [70, 32, 128, 121],
+        "iscrowd": 0,
+        "id": 145,
+        "image_id": 119,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [6, 142, 35, 146, 59, 150, 69, 161, 82, 174, 119, 168, 142, 155, 154, 140, 154, 125, 151, 110, 140, 98, 116, 86, 97, 80, 77, 75, 44, 81, 27, 89, 5, 102, 2, 121]
+        ],
+        "area": 15048,
+        "bbox": [2, 75, 152, 99],
+        "iscrowd": 0,
+        "id": 146,
+        "image_id": 120,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [11, 151, 18, 118, 33, 100, 46, 96, 66, 117, 62, 139, 69, 145, 74, 144, 73, 125, 75, 114, 70, 98, 64, 92, 80, 85, 106, 86, 141, 95, 163, 111, 181, 138, 180, 181, 167, 193, 139, 205, 105, 211, 83, 213, 53, 204, 27, 188, 18, 171]
+        ],
+        "area": 21760,
+        "bbox": [11, 85, 170, 128],
+        "iscrowd": 0,
+        "id": 147,
+        "image_id": 121,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [42, 166, 30, 136, 28, 108, 37, 77, 60, 50, 82, 40, 93, 35, 154, 37, 184, 61, 186, 87, 181, 107, 172, 112, 177, 140, 180, 151, 170, 174, 140, 192, 101, 193, 79, 192, 59, 185]
+        ],
+        "area": 24964,
+        "bbox": [28, 35, 158, 158],
+        "iscrowd": 0,
+        "id": 148,
+        "image_id": 122,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [31, 131, 43, 110, 60, 91, 83, 85, 102, 84, 117, 94, 123, 106, 127, 119, 135, 126, 148, 138, 126, 192, 108, 201, 74, 206, 44, 191, 32, 161, 31, 148]
+        ],
+        "area": 14274,
+        "bbox": [31, 84, 117, 122],
+        "iscrowd": 0,
+        "id": 149,
+        "image_id": 123,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [25, 166, 23, 123, 37, 83, 67, 67, 101, 62, 126, 71, 165, 109, 173, 132, 167, 151, 149, 179, 119, 200, 81, 203, 56, 196]
+        ],
+        "area": 21150,
+        "bbox": [23, 62, 150, 141],
+        "iscrowd": 0,
+        "id": 150,
+        "image_id": 124,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [67, 151, 35, 133, 23, 110, 43, 69, 110, 46, 151, 55, 176, 67, 196, 89, 201, 112, 193, 134, 159, 156, 126, 160, 99, 161]
+        ],
+        "area": 20470,
+        "bbox": [23, 46, 178, 115],
+        "iscrowd": 0,
+        "id": 151,
+        "image_id": 125,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [106, 161, 119, 152, 122, 138, 113, 131, 102, 122, 91, 127, 87, 138, 85, 148, 91, 159]
+        ],
+        "area": 1443,
+        "bbox": [85, 122, 37, 39],
+        "iscrowd": 0,
+        "id": 152,
+        "image_id": 126,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [137, 154, 126, 140, 130, 122, 143, 117, 155, 118, 168, 130, 167, 141, 160, 151, 149, 156]
+        ],
+        "area": 1638,
+        "bbox": [126, 117, 42, 39],
+        "iscrowd": 0,
+        "id": 153,
+        "image_id": 126,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [109, 100, 110, 94, 120, 79, 133, 77, 143, 89, 148, 103, 138, 111, 127, 119, 112, 112, 110, 104]
+        ],
+        "area": 1638,
+        "bbox": [109, 77, 39, 42],
+        "iscrowd": 0,
+        "id": 154,
+        "image_id": 126,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [102, 177, 66, 145, 63, 122, 73, 89, 94, 77, 108, 72, 160, 89, 174, 111, 182, 153, 165, 170, 125, 183]
+        ],
+        "area": 13209,
+        "bbox": [63, 72, 119, 111],
+        "iscrowd": 0,
+        "id": 155,
+        "image_id": 127,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [115, 194, 123, 175, 137, 169, 153, 172, 165, 185, 165, 201, 159, 216, 143, 223, 115, 212]
+        ],
+        "area": 2700,
+        "bbox": [115, 169, 50, 54],
+        "iscrowd": 0,
+        "id": 156,
+        "image_id": 128,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [117, 149, 125, 122, 144, 103, 175, 106, 196, 117, 203, 148, 195, 166, 130, 167]
+        ],
+        "area": 5504,
+        "bbox": [117, 103, 86, 64],
+        "iscrowd": 0,
+        "id": 157,
+        "image_id": 129,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [216, 106, 234, 88, 258, 84, 278, 89, 286, 110, 285, 132, 266, 153, 231, 154, 214, 133, 214, 117]
+        ],
+        "area": 5040,
+        "bbox": [214, 84, 72, 70],
+        "iscrowd": 0,
+        "id": 158,
+        "image_id": 129,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [107, 85, 100, 77, 85, 63, 88, 48, 115, 31, 144, 40, 153, 59, 148, 77, 120, 87]
+        ],
+        "area": 3808,
+        "bbox": [85, 31, 68, 56],
+        "iscrowd": 0,
+        "id": 159,
+        "image_id": 129,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [51, 193, 47, 156, 56, 134, 95, 114, 135, 96, 153, 102, 183, 118, 197, 159, 197, 192]
+        ],
+        "area": 14550,
+        "bbox": [47, 96, 150, 97],
+        "iscrowd": 0,
+        "id": 160,
+        "image_id": 130,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [149, 118, 156, 105, 169, 100, 182, 102, 198, 111, 203, 129, 203, 144, 192, 154, 176, 154, 159, 152, 154, 138]
+        ],
+        "area": 2916,
+        "bbox": [149, 100, 54, 54],
+        "iscrowd": 0,
+        "id": 161,
+        "image_id": 131,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [103, 135, 112, 113, 123, 101, 136, 102, 154, 108, 160, 124, 156, 149, 131, 156, 115, 150]
+        ],
+        "area": 3135,
+        "bbox": [103, 101, 57, 55],
+        "iscrowd": 0,
+        "id": 162,
+        "image_id": 131,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [244, 120, 237, 102, 256, 78, 272, 79, 298, 95, 293, 113, 278, 126, 263, 129]
+        ],
+        "area": 3111,
+        "bbox": [237, 78, 61, 51],
+        "iscrowd": 0,
+        "id": 163,
+        "image_id": 131,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [153, 83, 163, 67, 173, 56, 180, 57, 197, 65, 207, 83, 211, 101, 202, 110, 189, 115, 163, 111, 155, 94]
+        ],
+        "area": 3422,
+        "bbox": [153, 56, 58, 59],
+        "iscrowd": 0,
+        "id": 164,
+        "image_id": 131,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [96, 96, 98, 78, 106, 70, 129, 61, 152, 64, 157, 86, 155, 106, 139, 116, 114, 111]
+        ],
+        "area": 3355,
+        "bbox": [96, 61, 61, 55],
+        "iscrowd": 0,
+        "id": 165,
+        "image_id": 131,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [81, 90, 87, 86, 100, 89, 114, 95, 117, 113, 114, 128, 97, 138, 84, 133, 72, 123, 72, 111]
+        ],
+        "area": 2340,
+        "bbox": [72, 86, 45, 52],
+        "iscrowd": 0,
+        "id": 166,
+        "image_id": 131,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [134, 172, 123, 138, 123, 110, 145, 97, 178, 104, 207, 125, 207, 158, 167, 202, 139, 203, 135, 186]
+        ],
+        "area": 8904,
+        "bbox": [123, 97, 84, 106],
+        "iscrowd": 0,
+        "id": 167,
+        "image_id": 132,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [88, 161, 60, 147, 46, 124, 55, 67, 76, 62, 111, 73, 133, 92, 134, 131, 124, 169, 111, 174]
+        ],
+        "area": 9856,
+        "bbox": [46, 62, 88, 112],
+        "iscrowd": 0,
+        "id": 168,
+        "image_id": 132,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [158, 92, 157.886, 94.615, 157.544, 97.209, 156.978, 99.765, 156.191, 102.261, 155.189, 104.679, 153.981, 107, 152.575, 109.207, 150.981, 111.284, 149.213, 113.213, 147.284, 114.981, 145.207, 116.575, 143, 117.981, 140.679, 119.189, 138.261, 120.191, 135.765, 120.978, 133.209, 121.544, 130.615, 121.886, 128, 122, 125.385, 121.886, 122.791, 121.544, 120.235, 120.978, 117.739, 120.191, 115.321, 119.189, 113, 117.981, 110.793, 116.575, 108.716, 114.981, 106.787, 113.213, 105.019, 111.284, 103.425, 109.207, 102.019, 107, 100.811, 104.679, 99.809, 102.261, 99.022, 99.765, 98.456, 97.209, 98.114, 94.615, 98, 92, 98.114, 89.385, 98.456, 86.791, 99.022, 84.235, 99.809, 81.739, 100.811, 79.321, 102.019, 77, 103.425, 74.793, 105.019, 72.716, 106.787, 70.787, 108.716, 69.019, 110.793, 67.425, 113, 66.019, 115.321, 64.811, 117.739, 63.809, 120.235, 63.022, 122.791, 62.456, 125.385, 62.114, 128, 62, 130.615, 62.114, 133.209, 62.456, 135.765, 63.022, 138.261, 63.809, 140.679, 64.811, 143, 66.019, 145.207, 67.425, 147.284, 69.019, 149.213, 70.787, 150.981, 72.716, 152.575, 74.793, 153.981, 77, 155.189, 79.321, 156.191, 81.739, 156.978, 84.235, 157.544, 86.791, 157.886, 89.385]
+        ],
+        "area": 3600,
+        "bbox": [98, 62, 60, 60],
+        "iscrowd": 0,
+        "id": 169,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [201, 97, 200.909, 99.092, 200.635, 101.168, 200.182, 103.212, 199.553, 105.208, 198.751, 107.143, 197.785, 109, 196.66, 110.766, 195.385, 112.427, 193.971, 113.971, 192.427, 115.385, 190.766, 116.66, 189, 117.785, 187.143, 118.751, 185.208, 119.553, 183.212, 120.182, 181.168, 120.635, 179.092, 120.909, 177, 121, 174.908, 120.909, 172.832, 120.635, 170.788, 120.182, 168.792, 119.553, 166.857, 118.751, 165, 117.785, 163.234, 116.66, 161.573, 115.385, 160.029, 113.971, 158.615, 112.427, 157.34, 110.766, 156.215, 109, 155.249, 107.143, 154.447, 105.208, 153.818, 103.212, 153.365, 101.168, 153.091, 99.092, 153, 97, 153.091, 94.908, 153.365, 92.832, 153.818, 90.788, 154.447, 88.792, 155.249, 86.857, 156.215, 85, 157.34, 83.234, 158.615, 81.573, 160.029, 80.029, 161.573, 78.615, 163.234, 77.34, 165, 76.215, 166.857, 75.249, 168.792, 74.447, 170.788, 73.818, 172.832, 73.365, 174.908, 73.091, 177, 73, 179.092, 73.091, 181.168, 73.365, 183.212, 73.818, 185.208, 74.447, 187.143, 75.249, 189, 76.215, 190.766, 77.34, 192.427, 78.615, 193.971, 80.029, 195.385, 81.573, 196.66, 83.234, 197.785, 85, 198.751, 86.857, 199.553, 88.792, 200.182, 90.788, 200.635, 92.832, 200.909, 94.908]
+        ],
+        "area": 2304,
+        "bbox": [153, 73, 48, 48],
+        "iscrowd": 0,
+        "id": 170,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [175, 132, 174.905, 134.179, 174.62, 136.341, 174.148, 138.47, 173.492, 140.551, 172.658, 142.565, 171.651, 144.5, 170.479, 146.339, 169.151, 148.07, 167.678, 149.678, 166.07, 151.151, 164.339, 152.479, 162.5, 153.651, 160.565, 154.658, 158.551, 155.492, 156.47, 156.148, 154.341, 156.62, 152.179, 156.905, 150, 157, 147.821, 156.905, 145.659, 156.62, 143.53, 156.148, 141.449, 155.492, 139.435, 154.658, 137.5, 153.651, 135.661, 152.479, 133.93, 151.151, 132.322, 149.678, 130.849, 148.07, 129.521, 146.339, 128.349, 144.5, 127.342, 142.565, 126.508, 140.551, 125.852, 138.47, 125.38, 136.341, 125.095, 134.179, 125, 132, 125.095, 129.821, 125.38, 127.659, 125.852, 125.53, 126.508, 123.449, 127.342, 121.435, 128.349, 119.5, 129.521, 117.661, 130.849, 115.93, 132.322, 114.322, 133.93, 112.849, 135.661, 111.521, 137.5, 110.349, 139.435, 109.342, 141.449, 108.508, 143.53, 107.852, 145.659, 107.38, 147.821, 107.095, 150, 107, 152.179, 107.095, 154.341, 107.38, 156.47, 107.852, 158.551, 108.508, 160.565, 109.342, 162.5, 110.349, 164.339, 111.521, 166.07, 112.849, 167.678, 114.322, 169.151, 115.93, 170.479, 117.661, 171.651, 119.5, 172.658, 121.435, 173.492, 123.449, 174.148, 125.53, 174.62, 127.659, 174.905, 129.821]
+        ],
+        "area": 2500,
+        "bbox": [125, 107, 50, 50],
+        "iscrowd": 0,
+        "id": 171,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [117.519, 128, 117.418, 130.311, 117.116, 132.605, 116.615, 134.864, 115.92, 137.07, 115.034, 139.207, 113.966, 141.26, 112.723, 143.211, 111.315, 145.046, 109.752, 146.752, 108.046, 148.315, 106.211, 149.723, 104.26, 150.966, 102.207, 152.034, 100.07, 152.92, 97.864, 153.615, 95.605, 154.116, 93.311, 154.418, 91, 154.519, 88.689, 154.418, 86.395, 154.116, 84.136, 153.615, 81.93, 152.92, 79.793, 152.034, 77.741, 150.966, 75.789, 149.723, 73.954, 148.315, 72.248, 146.752, 70.685, 145.046, 69.277, 143.211, 68.034, 141.26, 66.966, 139.207, 66.08, 137.07, 65.385, 134.864, 64.884, 132.605, 64.582, 130.311, 64.481, 128, 64.582, 125.689, 64.884, 123.395, 65.385, 121.136, 66.08, 118.93, 66.966, 116.793, 68.034, 114.74, 69.277, 112.789, 70.685, 110.954, 72.248, 109.248, 73.954, 107.685, 75.789, 106.277, 77.74, 105.034, 79.793, 103.966, 81.93, 103.08, 84.136, 102.385, 86.395, 101.884, 88.689, 101.582, 91, 101.481, 93.311, 101.582, 95.605, 101.884, 97.864, 102.385, 100.07, 103.08, 102.207, 103.966, 104.26, 105.034, 106.211, 106.277, 108.046, 107.685, 109.752, 109.248, 111.315, 110.954, 112.723, 112.789, 113.966, 114.74, 115.034, 116.793, 115.92, 118.93, 116.615, 121.136, 117.116, 123.395, 117.418, 125.689]
+        ],
+        "area": 2813.029444000001,
+        "bbox": [64.481, 101.481, 53.03800000000001, 53.03800000000001],
+        "iscrowd": 0,
+        "id": 172,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [60.436, 145, 60.347, 147.043, 60.08, 149.07, 59.637, 151.066, 59.023, 153.016, 58.24, 154.904, 57.296, 156.718, 56.198, 158.442, 54.953, 160.064, 53.572, 161.572, 52.064, 162.953, 50.442, 164.198, 48.718, 165.296, 46.904, 166.24, 45.016, 167.023, 43.066, 167.637, 41.07, 168.08, 39.043, 168.347, 37, 168.436, 34.957, 168.347, 32.93, 168.08, 30.934, 167.637, 28.984, 167.023, 27.096, 166.24, 25.282, 165.296, 23.558, 164.198, 21.936, 162.953, 20.428, 161.572, 19.047, 160.064, 17.802, 158.442, 16.704, 156.718, 15.76, 154.904, 14.977, 153.016, 14.363, 151.066, 13.92, 149.07, 13.653, 147.043, 13.564, 145, 13.653, 142.957, 13.92, 140.93, 14.363, 138.934, 14.977, 136.984, 15.76, 135.096, 16.704, 133.282, 17.802, 131.558, 19.047, 129.936, 20.428, 128.428, 21.936, 127.047, 23.558, 125.802, 25.282, 124.704, 27.096, 123.76, 28.984, 122.977, 30.934, 122.363, 32.93, 121.92, 34.957, 121.653, 37, 121.564, 39.043, 121.653, 41.07, 121.92, 43.066, 122.363, 45.016, 122.977, 46.904, 123.76, 48.718, 124.704, 50.442, 125.802, 52.064, 127.047, 53.572, 128.428, 54.953, 129.936, 56.198, 131.558, 57.296, 133.282, 58.24, 135.096, 59.023, 136.984, 59.637, 138.934, 60.08, 140.93, 60.347, 142.957]
+        ],
+        "area": 2196.984384000001,
+        "bbox": [13.564, 121.564, 46.872, 46.872000000000014],
+        "iscrowd": 0,
+        "id": 173,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [92.613, 81, 92.508, 83.407, 92.193, 85.795, 91.672, 88.147, 90.948, 90.444, 90.026, 92.67, 88.914, 94.806, 87.619, 96.838, 86.153, 98.749, 84.525, 100.525, 82.749, 102.153, 80.838, 103.619, 78.806, 104.914, 76.67, 106.026, 74.444, 106.948, 72.147, 107.672, 69.795, 108.193, 67.407, 108.508, 65, 108.613, 62.593, 108.508, 60.205, 108.193, 57.853, 107.672, 55.556, 106.948, 53.33, 106.026, 51.194, 104.914, 49.162, 103.619, 47.251, 102.153, 45.475, 100.525, 43.847, 98.749, 42.381, 96.838, 41.086, 94.806, 39.974, 92.67, 39.052, 90.444, 38.328, 88.147, 37.807, 85.795, 37.492, 83.407, 37.387, 81, 37.492, 78.593, 37.807, 76.205, 38.328, 73.853, 39.052, 71.556, 39.974, 69.33, 41.086, 67.194, 42.381, 65.162, 43.847, 63.251, 45.475, 61.475, 47.251, 59.847, 49.162, 58.381, 51.193, 57.086, 53.33, 55.974, 55.556, 55.052, 57.853, 54.328, 60.205, 53.807, 62.593, 53.492, 65, 53.387, 67.407, 53.492, 69.795, 53.807, 72.147, 54.328, 74.444, 55.052, 76.67, 55.974, 78.806, 57.086, 80.838, 58.381, 82.749, 59.847, 84.525, 61.475, 86.153, 63.251, 87.619, 65.162, 88.914, 67.193, 90.026, 69.33, 90.948, 71.556, 91.672, 73.853, 92.193, 76.205, 92.508, 78.593]
+        ],
+        "area": 3049.911076,
+        "bbox": [37.387, 53.387, 55.226, 55.226],
+        "iscrowd": 0,
+        "id": 174,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [214, 158, 213.897, 160.353, 213.59, 162.689, 213.08, 164.988, 212.372, 167.235, 211.47, 169.411, 210.383, 171.5, 209.117, 173.487, 207.683, 175.355, 206.092, 177.092, 204.355, 178.683, 202.487, 180.117, 200.5, 181.383, 198.411, 182.47, 196.235, 183.372, 193.988, 184.08, 191.689, 184.59, 189.353, 184.897, 187, 185, 184.647, 184.897, 182.311, 184.59, 180.012, 184.08, 177.765, 183.372, 175.589, 182.47, 173.5, 181.383, 171.513, 180.117, 169.645, 178.683, 167.908, 177.092, 166.317, 175.355, 164.883, 173.487, 163.617, 171.5, 162.53, 169.411, 161.628, 167.235, 160.92, 164.988, 160.41, 162.689, 160.103, 160.353, 160, 158, 160.103, 155.647, 160.41, 153.311, 160.92, 151.012, 161.628, 148.765, 162.53, 146.589, 163.617, 144.5, 164.883, 142.513, 166.317, 140.645, 167.908, 138.908, 169.645, 137.317, 171.513, 135.883, 173.5, 134.617, 175.589, 133.53, 177.765, 132.628, 180.012, 131.92, 182.311, 131.41, 184.647, 131.103, 187, 131, 189.353, 131.103, 191.689, 131.41, 193.988, 131.92, 196.235, 132.628, 198.411, 133.53, 200.5, 134.617, 202.487, 135.883, 204.355, 137.317, 206.092, 138.908, 207.683, 140.645, 209.117, 142.513, 210.383, 144.5, 211.47, 146.589, 212.372, 148.765, 213.08, 151.012, 213.59, 153.311, 213.897, 155.647]
+        ],
+        "area": 2916,
+        "bbox": [160, 131, 54, 54],
+        "iscrowd": 0,
+        "id": 175,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [252, 136, 251.909, 138.092, 251.635, 140.168, 251.182, 142.212, 250.553, 144.208, 249.751, 146.143, 248.785, 148, 247.66, 149.766, 246.385, 151.427, 244.971, 152.971, 243.427, 154.385, 241.766, 155.66, 240, 156.785, 238.143, 157.751, 236.208, 158.553, 234.212, 159.182, 232.168, 159.635, 230.092, 159.909, 228, 160, 225.908, 159.909, 223.832, 159.635, 221.788, 159.182, 219.792, 158.553, 217.857, 157.751, 216, 156.785, 214.234, 155.66, 212.573, 154.385, 211.029, 152.971, 209.615, 151.427, 208.34, 149.766, 207.215, 148, 206.249, 146.143, 205.447, 144.208, 204.818, 142.212, 204.365, 140.168, 204.091, 138.092, 204, 136, 204.091, 133.908, 204.365, 131.832, 204.818, 129.788, 205.447, 127.792, 206.249, 125.857, 207.215, 124, 208.34, 122.234, 209.615, 120.573, 211.029, 119.029, 212.573, 117.615, 214.234, 116.34, 216, 115.215, 217.857, 114.249, 219.792, 113.447, 221.788, 112.818, 223.832, 112.365, 225.908, 112.091, 228, 112, 230.092, 112.091, 232.168, 112.365, 234.212, 112.818, 236.208, 113.447, 238.143, 114.249, 240, 115.215, 241.766, 116.34, 243.427, 117.615, 244.971, 119.029, 246.385, 120.573, 247.66, 122.234, 248.785, 124, 249.751, 125.857, 250.553, 127.792, 251.182, 129.788, 251.635, 131.832, 251.909, 133.908]
+        ],
+        "area": 2304,
+        "bbox": [204, 112, 48, 48],
+        "iscrowd": 0,
+        "id": 176,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [262, 86, 261.905, 88.179, 261.62, 90.341, 261.148, 92.47, 260.492, 94.551, 259.658, 96.565, 258.651, 98.5, 257.479, 100.339, 256.151, 102.07, 254.678, 103.678, 253.07, 105.151, 251.339, 106.479, 249.5, 107.651, 247.565, 108.658, 245.551, 109.492, 243.47, 110.148, 241.341, 110.62, 239.179, 110.905, 237, 111, 234.821, 110.905, 232.659, 110.62, 230.53, 110.148, 228.449, 109.492, 226.435, 108.658, 224.5, 107.651, 222.661, 106.479, 220.93, 105.151, 219.322, 103.678, 217.849, 102.07, 216.521, 100.339, 215.349, 98.5, 214.342, 96.565, 213.508, 94.551, 212.852, 92.47, 212.38, 90.341, 212.095, 88.179, 212, 86, 212.095, 83.821, 212.38, 81.659, 212.852, 79.53, 213.508, 77.449, 214.342, 75.435, 215.349, 73.5, 216.521, 71.661, 217.849, 69.93, 219.322, 68.322, 220.93, 66.849, 222.661, 65.521, 224.5, 64.349, 226.435, 63.342, 228.449, 62.508, 230.53, 61.852, 232.659, 61.38, 234.821, 61.095, 237, 61, 239.179, 61.095, 241.341, 61.38, 243.47, 61.852, 245.551, 62.508, 247.565, 63.342, 249.5, 64.349, 251.339, 65.521, 253.07, 66.849, 254.678, 68.322, 256.151, 69.93, 257.479, 71.661, 258.651, 73.5, 259.658, 75.435, 260.492, 77.449, 261.148, 79.53, 261.62, 81.659, 261.905, 83.821]
+        ],
+        "area": 2500,
+        "bbox": [212, 61, 50, 50],
+        "iscrowd": 0,
+        "id": 177,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [192.506, 64, 192.424, 65.874, 192.179, 67.734, 191.773, 69.566, 191.209, 71.355, 190.491, 73.089, 189.625, 74.753, 188.617, 76.335, 187.475, 77.824, 186.207, 79.207, 184.824, 80.475, 183.335, 81.617, 181.753, 82.625, 180.089, 83.491, 178.355, 84.209, 176.566, 84.773, 174.734, 85.179, 172.874, 85.424, 171, 85.506, 169.126, 85.424, 167.266, 85.179, 165.434, 84.773, 163.645, 84.209, 161.911, 83.491, 160.247, 82.625, 158.665, 81.617, 157.176, 80.475, 155.793, 79.207, 154.525, 77.824, 153.383, 76.335, 152.375, 74.753, 151.509, 73.089, 150.791, 71.355, 150.227, 69.566, 149.821, 67.734, 149.576, 65.874, 149.494, 64, 149.576, 62.126, 149.821, 60.266, 150.227, 58.434, 150.791, 56.645, 151.509, 54.911, 152.375, 53.247, 153.383, 51.665, 154.525, 50.176, 155.793, 48.793, 157.176, 47.525, 158.665, 46.383, 160.247, 45.375, 161.911, 44.509, 163.645, 43.791, 165.434, 43.227, 167.266, 42.821, 169.126, 42.576, 171, 42.494, 172.874, 42.576, 174.734, 42.821, 176.566, 43.227, 178.355, 43.791, 180.089, 44.509, 181.753, 45.375, 183.335, 46.383, 184.824, 47.525, 186.207, 48.793, 187.475, 50.176, 188.617, 51.665, 189.625, 53.247, 190.491, 54.911, 191.209, 56.645, 191.773, 58.434, 192.179, 60.266, 192.424, 62.126]
+        ],
+        "area": 1850.032144,
+        "bbox": [149.494, 42.494, 43.012, 43.012],
+        "iscrowd": 0,
+        "id": 178,
+        "image_id": 133,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [59, 137, 34, 126, 64, 59, 78, 37, 111, 37, 140, 58, 111, 127, 84, 146]
+        ],
+        "area": 11554,
+        "bbox": [34, 37, 106, 109],
+        "iscrowd": 0,
+        "id": 179,
+        "image_id": 134,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [171, 98, 124, 97, 107, 68, 133, 25, 198, 44, 203, 68, 196, 94]
+        ],
+        "area": 7008,
+        "bbox": [107, 25, 96, 73],
+        "iscrowd": 0,
+        "id": 180,
+        "image_id": 136,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [151, 100, 141, 67, 143, 41, 161, 34, 198, 36, 228, 79, 220, 107, 181, 115]
+        ],
+        "area": 7047,
+        "bbox": [141, 34, 87, 81],
+        "iscrowd": 0,
+        "id": 181,
+        "image_id": 137,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [163.853, 105, 163.743, 107.515, 163.415, 110.01, 162.87, 112.468, 162.113, 114.868, 161.15, 117.194, 159.987, 119.427, 158.635, 121.549, 157.103, 123.546, 155.402, 125.402, 153.546, 127.103, 151.549, 128.635, 149.427, 129.987, 147.194, 131.15, 144.868, 132.113, 142.468, 132.87, 140.01, 133.415, 137.515, 133.743, 135, 133.853, 132.485, 133.743, 129.99, 133.415, 127.532, 132.87, 125.132, 132.113, 122.806, 131.15, 120.574, 129.987, 118.451, 128.635, 116.454, 127.103, 114.598, 125.402, 112.897, 123.546, 111.365, 121.549, 110.013, 119.427, 108.85, 117.194, 107.887, 114.868, 107.13, 112.468, 106.585, 110.01, 106.257, 107.515, 106.147, 105, 106.257, 102.485, 106.585, 99.99, 107.13, 97.532, 107.887, 95.132, 108.85, 92.806, 110.013, 90.573, 111.365, 88.451, 112.897, 86.454, 114.598, 84.598, 116.454, 82.897, 118.451, 81.365, 120.573, 80.013, 122.806, 78.85, 125.132, 77.887, 127.532, 77.13, 129.99, 76.585, 132.485, 76.257, 135, 76.147, 137.515, 76.257, 140.01, 76.585, 142.468, 77.13, 144.868, 77.887, 147.194, 78.85, 149.427, 80.013, 151.549, 81.365, 153.546, 82.897, 155.402, 84.598, 157.103, 86.454, 158.635, 88.451, 159.987, 90.573, 161.15, 92.806, 162.113, 95.132, 162.87, 97.532, 163.415, 99.99, 163.743, 102.485]
+        ],
+        "area": 3329.9824360000002,
+        "bbox": [106.147, 76.147, 57.706, 57.706],
+        "iscrowd": 0,
+        "id": 182,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [120.504, 79, 120.396, 81.484, 120.071, 83.95, 119.533, 86.377, 118.785, 88.749, 117.833, 91.046, 116.685, 93.252, 115.349, 95.349, 113.835, 97.322, 112.155, 99.155, 110.322, 100.835, 108.349, 102.349, 106.252, 103.685, 104.046, 104.833, 101.749, 105.785, 99.377, 106.533, 96.95, 107.071, 94.484, 107.396, 92, 107.504, 89.516, 107.396, 87.05, 107.071, 84.623, 106.533, 82.251, 105.785, 79.954, 104.833, 77.748, 103.685, 75.651, 102.349, 73.678, 100.835, 71.845, 99.155, 70.165, 97.322, 68.651, 95.349, 67.315, 93.252, 66.167, 91.046, 65.215, 88.749, 64.467, 86.377, 63.929, 83.95, 63.604, 81.484, 63.496, 79, 63.604, 76.516, 63.929, 74.05, 64.467, 71.623, 65.215, 69.251, 66.167, 66.954, 67.315, 64.748, 68.651, 62.651, 70.165, 60.678, 71.845, 58.845, 73.678, 57.165, 75.651, 55.651, 77.748, 54.315, 79.954, 53.167, 82.251, 52.215, 84.623, 51.467, 87.05, 50.929, 89.516, 50.604, 92, 50.496, 94.484, 50.604, 96.95, 50.929, 99.377, 51.467, 101.749, 52.215, 104.046, 53.167, 106.252, 54.315, 108.349, 55.651, 110.322, 57.165, 112.155, 58.845, 113.835, 60.678, 115.349, 62.651, 116.685, 64.748, 117.833, 66.954, 118.785, 69.251, 119.533, 71.623, 120.071, 74.05, 120.396, 76.516]
+        ],
+        "area": 3249.912064,
+        "bbox": [63.496, 50.496, 57.008, 57.008],
+        "iscrowd": 0,
+        "id": 183,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [87.101, 135, 86.983, 137.711, 86.629, 140.401, 86.041, 143.05, 85.225, 145.637, 84.187, 148.144, 82.934, 150.55, 81.476, 152.839, 79.825, 154.991, 77.992, 156.992, 75.991, 158.825, 73.839, 160.476, 71.55, 161.934, 69.144, 163.187, 66.637, 164.225, 64.05, 165.041, 61.401, 165.629, 58.711, 165.983, 56, 166.101, 53.289, 165.983, 50.599, 165.629, 47.95, 165.041, 45.363, 164.225, 42.856, 163.187, 40.45, 161.934, 38.161, 160.476, 36.009, 158.825, 34.008, 156.992, 32.175, 154.991, 30.524, 152.839, 29.066, 150.55, 27.813, 148.144, 26.775, 145.637, 25.959, 143.05, 25.371, 140.401, 25.017, 137.711, 24.899, 135, 25.017, 132.289, 25.371, 129.599, 25.959, 126.95, 26.775, 124.363, 27.813, 121.856, 29.066, 119.45, 30.524, 117.161, 32.175, 115.009, 34.008, 113.008, 36.009, 111.175, 38.161, 109.524, 40.449, 108.066, 42.856, 106.813, 45.363, 105.775, 47.95, 104.959, 50.599, 104.371, 53.289, 104.017, 56, 103.899, 58.711, 104.017, 61.401, 104.371, 64.05, 104.959, 66.637, 105.775, 69.144, 106.813, 71.55, 108.066, 73.839, 109.524, 75.991, 111.175, 77.992, 113.008, 79.825, 115.009, 81.476, 117.161, 82.934, 119.449, 84.187, 121.856, 85.225, 124.363, 86.041, 126.95, 86.629, 129.599, 86.983, 132.289]
+        ],
+        "area": 3869.088804,
+        "bbox": [24.899, 103.899, 62.202, 62.202],
+        "iscrowd": 0,
+        "id": 184,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [195.43, 164, 195.295, 167.088, 194.892, 170.152, 194.223, 173.17, 193.293, 176.118, 192.11, 178.973, 190.683, 181.715, 189.023, 184.322, 187.141, 186.774, 185.053, 189.053, 182.774, 191.141, 180.322, 193.023, 177.715, 194.683, 174.973, 196.11, 172.118, 197.293, 169.17, 198.223, 166.152, 198.892, 163.088, 199.295, 160, 199.43, 156.912, 199.295, 153.848, 198.892, 150.83, 198.223, 147.882, 197.293, 145.027, 196.11, 142.285, 194.683, 139.678, 193.023, 137.226, 191.141, 134.947, 189.053, 132.859, 186.774, 130.977, 184.322, 129.317, 181.715, 127.89, 178.973, 126.707, 176.118, 125.777, 173.17, 125.108, 170.152, 124.705, 167.088, 124.57, 164, 124.705, 160.912, 125.108, 157.848, 125.777, 154.83, 126.707, 151.882, 127.89, 149.027, 129.317, 146.285, 130.977, 143.678, 132.859, 141.226, 134.947, 138.947, 137.226, 136.859, 139.678, 134.977, 142.285, 133.317, 145.027, 131.89, 147.882, 130.707, 150.83, 129.777, 153.848, 129.108, 156.912, 128.705, 160, 128.57, 163.088, 128.705, 166.152, 129.108, 169.17, 129.777, 172.118, 130.707, 174.973, 131.89, 177.715, 133.317, 180.322, 134.977, 182.774, 136.859, 185.053, 138.947, 187.141, 141.226, 189.023, 143.678, 190.683, 146.285, 192.11, 149.027, 193.293, 151.882, 194.223, 154.83, 194.892, 157.848, 195.295, 160.912]
+        ],
+        "area": 5021.139600000002,
+        "bbox": [124.57, 128.57, 70.86000000000001, 70.86000000000001],
+        "iscrowd": 0,
+        "id": 185,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [250.871, 151, 250.742, 153.952, 250.356, 156.882, 249.717, 159.766, 248.828, 162.585, 247.698, 165.315, 246.333, 167.935, 244.745, 170.428, 242.947, 172.772, 240.95, 174.95, 238.772, 176.947, 236.428, 178.745, 233.935, 180.333, 231.315, 181.698, 228.585, 182.828, 225.766, 183.717, 222.882, 184.356, 219.952, 184.742, 217, 184.871, 214.048, 184.742, 211.118, 184.356, 208.234, 183.717, 205.415, 182.828, 202.685, 181.698, 200.065, 180.333, 197.572, 178.745, 195.228, 176.947, 193.05, 174.95, 191.053, 172.772, 189.255, 170.428, 187.667, 167.935, 186.302, 165.315, 185.172, 162.585, 184.283, 159.766, 183.644, 156.882, 183.258, 153.952, 183.129, 151, 183.258, 148.048, 183.644, 145.118, 184.283, 142.234, 185.172, 139.415, 186.302, 136.685, 187.667, 134.065, 189.255, 131.572, 191.053, 129.228, 193.05, 127.05, 195.228, 125.053, 197.572, 123.255, 200.064, 121.667, 202.685, 120.302, 205.415, 119.172, 208.234, 118.283, 211.118, 117.644, 214.048, 117.258, 217, 117.129, 219.952, 117.258, 222.882, 117.644, 225.766, 118.283, 228.585, 119.172, 231.315, 120.302, 233.935, 121.667, 236.428, 123.255, 238.772, 125.053, 240.95, 127.05, 242.947, 129.228, 244.745, 131.572, 246.333, 134.064, 247.698, 136.685, 248.828, 139.415, 249.717, 142.234, 250.356, 145.118, 250.742, 148.048]
+        ],
+        "area": 4588.978564000002,
+        "bbox": [183.129, 117.129, 67.74200000000002, 67.742],
+        "iscrowd": 0,
+        "id": 186,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [212, 99, 211.893, 101.44, 211.575, 103.862, 211.046, 106.247, 210.311, 108.577, 209.377, 110.833, 208.249, 113, 206.936, 115.06, 205.449, 116.998, 203.799, 118.799, 201.998, 120.449, 200.06, 121.936, 198, 123.249, 195.833, 124.377, 193.577, 125.311, 191.247, 126.046, 188.862, 126.575, 186.44, 126.893, 184, 127, 181.56, 126.893, 179.138, 126.575, 176.753, 126.046, 174.423, 125.311, 172.167, 124.377, 170, 123.249, 167.94, 121.936, 166.002, 120.449, 164.201, 118.799, 162.551, 116.998, 161.064, 115.06, 159.751, 113, 158.623, 110.833, 157.689, 108.577, 156.954, 106.247, 156.425, 103.862, 156.107, 101.44, 156, 99, 156.107, 96.56, 156.425, 94.138, 156.954, 91.753, 157.689, 89.423, 158.623, 87.167, 159.751, 85, 161.064, 82.94, 162.551, 81.002, 164.201, 79.201, 166.002, 77.551, 167.94, 76.064, 170, 74.751, 172.167, 73.623, 174.423, 72.689, 176.753, 71.954, 179.138, 71.425, 181.56, 71.107, 184, 71, 186.44, 71.107, 188.862, 71.425, 191.247, 71.954, 193.577, 72.689, 195.833, 73.623, 198, 74.751, 200.06, 76.064, 201.998, 77.551, 203.799, 79.201, 205.449, 81.002, 206.936, 82.94, 208.249, 85, 209.377, 87.167, 210.311, 89.423, 211.046, 91.753, 211.575, 94.138, 211.893, 96.56]
+        ],
+        "area": 3136,
+        "bbox": [156, 71, 56, 56],
+        "iscrowd": 0,
+        "id": 187,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [63, 50, 62.893, 52.44, 62.575, 54.862, 62.046, 57.247, 61.311, 59.577, 60.377, 61.833, 59.249, 64, 57.936, 66.06, 56.449, 67.998, 54.799, 69.799, 52.998, 71.449, 51.06, 72.936, 49, 74.249, 46.833, 75.377, 44.577, 76.311, 42.247, 77.046, 39.862, 77.575, 37.44, 77.893, 35, 78, 32.56, 77.893, 30.138, 77.575, 27.753, 77.046, 25.423, 76.311, 23.167, 75.377, 21, 74.249, 18.94, 72.936, 17.002, 71.449, 15.201, 69.799, 13.551, 67.998, 12.064, 66.06, 10.751, 64, 9.623, 61.833, 8.689, 59.577, 7.954, 57.247, 7.425, 54.862, 7.107, 52.44, 7, 50, 7.107, 47.56, 7.425, 45.138, 7.954, 42.753, 8.689, 40.423, 9.623, 38.167, 10.751, 36, 12.064, 33.94, 13.551, 32.002, 15.201, 30.201, 17.002, 28.551, 18.94, 27.064, 21, 25.751, 23.167, 24.623, 25.423, 23.689, 27.753, 22.954, 30.138, 22.425, 32.56, 22.107, 35, 22, 37.44, 22.107, 39.862, 22.425, 42.247, 22.954, 44.577, 23.689, 46.833, 24.623, 49, 25.751, 51.06, 27.064, 52.998, 28.551, 54.799, 30.201, 56.449, 32.002, 57.936, 33.94, 59.249, 36, 60.377, 38.167, 61.311, 40.423, 62.046, 42.753, 62.575, 45.138, 62.893, 47.56]
+        ],
+        "area": 3136,
+        "bbox": [7, 22, 56, 56],
+        "iscrowd": 0,
+        "id": 188,
+        "image_id": 138,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [159, 112, 158.878, 114.789, 158.514, 117.557, 157.91, 120.282, 157.07, 122.945, 156.002, 125.524, 154.713, 128, 153.213, 130.354, 151.513, 132.569, 149.627, 134.627, 147.569, 136.513, 145.354, 138.213, 143, 139.713, 140.524, 141.002, 137.945, 142.07, 135.282, 142.91, 132.557, 143.514, 129.789, 143.878, 127, 144, 124.211, 143.878, 121.443, 143.514, 118.718, 142.91, 116.055, 142.07, 113.476, 141.002, 111, 139.713, 108.646, 138.213, 106.431, 136.513, 104.373, 134.627, 102.487, 132.569, 100.787, 130.354, 99.287, 128, 97.998, 125.524, 96.93, 122.945, 96.09, 120.282, 95.486, 117.557, 95.122, 114.789, 95, 112, 95.122, 109.211, 95.486, 106.443, 96.09, 103.718, 96.93, 101.055, 97.998, 98.476, 99.287, 96, 100.787, 93.646, 102.487, 91.431, 104.373, 89.373, 106.431, 87.487, 108.646, 85.787, 111, 84.287, 113.476, 82.998, 116.055, 81.93, 118.718, 81.09, 121.443, 80.486, 124.211, 80.122, 127, 80, 129.789, 80.122, 132.557, 80.486, 135.282, 81.09, 137.945, 81.93, 140.524, 82.998, 143, 84.287, 145.354, 85.787, 147.569, 87.487, 149.627, 89.373, 151.513, 91.431, 153.213, 93.646, 154.713, 96, 156.002, 98.476, 157.07, 101.055, 157.91, 103.718, 158.514, 106.443, 158.878, 109.211]
+        ],
+        "area": 4096,
+        "bbox": [95, 80, 64, 64],
+        "iscrowd": 0,
+        "id": 189,
+        "image_id": 139,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [137.63, 165, 137.498, 168.018, 137.104, 171.013, 136.45, 173.963, 135.542, 176.844, 134.385, 179.635, 132.99, 182.315, 131.367, 184.863, 129.528, 187.26, 127.487, 189.487, 125.26, 191.528, 122.863, 193.367, 120.315, 194.99, 117.635, 196.385, 114.844, 197.542, 111.963, 198.45, 109.013, 199.104, 106.018, 199.498, 103, 199.63, 99.982, 199.498, 96.987, 199.104, 94.037, 198.45, 91.156, 197.542, 88.365, 196.385, 85.685, 194.99, 83.137, 193.367, 80.74, 191.528, 78.513, 189.487, 76.472, 187.26, 74.633, 184.863, 73.01, 182.315, 71.615, 179.635, 70.458, 176.844, 69.55, 173.963, 68.896, 171.013, 68.502, 168.018, 68.37, 165, 68.502, 161.982, 68.896, 158.987, 69.55, 156.037, 70.458, 153.156, 71.615, 150.365, 73.01, 147.685, 74.633, 145.137, 76.472, 142.74, 78.513, 140.513, 80.74, 138.472, 83.137, 136.633, 85.685, 135.01, 88.365, 133.615, 91.156, 132.458, 94.037, 131.55, 96.987, 130.896, 99.982, 130.502, 103, 130.37, 106.018, 130.502, 109.013, 130.896, 111.963, 131.55, 114.844, 132.458, 117.635, 133.615, 120.315, 135.01, 122.863, 136.633, 125.26, 138.472, 127.487, 140.513, 129.528, 142.74, 131.367, 145.137, 132.99, 147.685, 134.385, 150.365, 135.542, 153.156, 136.45, 156.037, 137.104, 158.987, 137.498, 161.982]
+        ],
+        "area": 4796.947599999999,
+        "bbox": [68.37, 130.37, 69.25999999999999, 69.25999999999999],
+        "iscrowd": 0,
+        "id": 190,
+        "image_id": 139,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [104, 93, 103.89, 95.528, 103.559, 98.036, 103.012, 100.506, 102.251, 102.919, 101.283, 105.256, 100.115, 107.5, 98.755, 109.634, 97.215, 111.641, 95.506, 113.506, 93.641, 115.215, 91.634, 116.755, 89.5, 118.115, 87.256, 119.283, 84.919, 120.251, 82.506, 121.012, 80.036, 121.559, 77.528, 121.89, 75, 122, 72.472, 121.89, 69.964, 121.559, 67.494, 121.012, 65.081, 120.251, 62.744, 119.283, 60.5, 118.115, 58.366, 116.755, 56.359, 115.215, 54.494, 113.506, 52.785, 111.641, 51.245, 109.634, 49.885, 107.5, 48.717, 105.256, 47.749, 102.919, 46.988, 100.506, 46.441, 98.036, 46.11, 95.528, 46, 93, 46.11, 90.472, 46.441, 87.964, 46.988, 85.494, 47.749, 83.081, 48.717, 80.744, 49.885, 78.5, 51.245, 76.366, 52.785, 74.359, 54.494, 72.494, 56.359, 70.785, 58.366, 69.245, 60.5, 67.885, 62.744, 66.717, 65.081, 65.749, 67.494, 64.988, 69.964, 64.441, 72.472, 64.11, 75, 64, 77.528, 64.11, 80.036, 64.441, 82.506, 64.988, 84.919, 65.749, 87.256, 66.717, 89.5, 67.885, 91.634, 69.245, 93.641, 70.785, 95.506, 72.494, 97.215, 74.359, 98.755, 76.366, 100.115, 78.5, 101.283, 80.744, 102.251, 83.081, 103.012, 85.494, 103.559, 87.964, 103.89, 90.472]
+        ],
+        "area": 3364,
+        "bbox": [46, 64, 58, 58],
+        "iscrowd": 0,
+        "id": 191,
+        "image_id": 139,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [171.26, 117, 171.038, 122.078, 170.375, 127.117, 169.275, 132.079, 167.746, 136.926, 165.801, 141.622, 163.455, 146.13, 160.724, 150.417, 157.63, 154.449, 154.196, 158.196, 150.449, 161.63, 146.417, 164.724, 142.13, 167.455, 137.622, 169.801, 132.926, 171.746, 128.079, 173.275, 123.117, 174.375, 118.078, 175.038, 113, 175.26, 107.922, 175.038, 102.883, 174.375, 97.921, 173.275, 93.074, 171.746, 88.378, 169.801, 83.87, 167.455, 79.583, 164.724, 75.551, 161.63, 71.804, 158.196, 68.37, 154.449, 65.276, 150.417, 62.545, 146.13, 60.199, 141.622, 58.254, 136.926, 56.725, 132.079, 55.625, 127.117, 54.962, 122.078, 54.74, 117, 54.962, 111.922, 55.625, 106.883, 56.725, 101.921, 58.254, 97.074, 60.199, 92.378, 62.545, 87.87, 65.276, 83.583, 68.37, 79.551, 71.804, 75.804, 75.551, 72.37, 79.583, 69.276, 83.87, 66.545, 88.378, 64.199, 93.074, 62.254, 97.921, 60.725, 102.883, 59.625, 107.922, 58.962, 113, 58.74, 118.078, 58.962, 123.117, 59.625, 128.079, 60.725, 132.926, 62.254, 137.622, 64.199, 142.13, 66.545, 146.417, 69.276, 150.449, 72.37, 154.196, 75.804, 157.63, 79.551, 160.724, 83.583, 163.455, 87.87, 165.801, 92.378, 167.746, 97.074, 169.275, 101.921, 170.375, 106.883, 171.038, 111.922]
+        ],
+        "area": 13576.910399999995,
+        "bbox": [54.74, 58.74, 116.51999999999998, 116.51999999999998],
+        "iscrowd": 0,
+        "id": 192,
+        "image_id": 140,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [203, 125, 202.73, 131.188, 201.921, 137.329, 200.581, 143.376, 198.718, 149.283, 196.348, 155.006, 193.488, 160.5, 190.16, 165.724, 186.389, 170.638, 182.205, 175.205, 177.638, 179.389, 172.724, 183.16, 167.5, 186.488, 162.006, 189.348, 156.283, 191.718, 150.376, 193.581, 144.329, 194.921, 138.188, 195.73, 132, 196, 125.812, 195.73, 119.671, 194.921, 113.624, 193.581, 107.717, 191.718, 101.994, 189.348, 96.5, 186.488, 91.276, 183.16, 86.362, 179.389, 81.795, 175.205, 77.611, 170.638, 73.84, 165.724, 70.512, 160.5, 67.652, 155.006, 65.282, 149.283, 63.419, 143.376, 62.079, 137.329, 61.27, 131.188, 61, 125, 61.27, 118.812, 62.079, 112.671, 63.419, 106.624, 65.282, 100.717, 67.652, 94.994, 70.512, 89.5, 73.84, 84.276, 77.611, 79.362, 81.795, 74.795, 86.362, 70.611, 91.276, 66.84, 96.5, 63.512, 101.994, 60.652, 107.717, 58.282, 113.624, 56.419, 119.671, 55.079, 125.812, 54.27, 132, 54, 138.188, 54.27, 144.329, 55.079, 150.376, 56.419, 156.283, 58.282, 162.006, 60.652, 167.5, 63.512, 172.724, 66.84, 177.638, 70.611, 182.205, 74.795, 186.389, 79.362, 190.16, 84.276, 193.488, 89.5, 196.348, 94.994, 198.718, 100.717, 200.581, 106.624, 201.921, 112.671, 202.73, 118.812]
+        ],
+        "area": 20164,
+        "bbox": [61, 54, 142, 142],
+        "iscrowd": 0,
+        "id": 193,
+        "image_id": 141,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [470, 196, 469.684, 203.234, 468.739, 210.413, 467.172, 217.482, 464.994, 224.388, 462.224, 231.077, 458.88, 237.5, 454.99, 243.607, 450.582, 249.351, 445.69, 254.69, 440.351, 259.582, 434.607, 263.99, 428.5, 267.88, 422.077, 271.224, 415.388, 273.994, 408.482, 276.172, 401.413, 277.739, 394.234, 278.684, 387, 279, 379.766, 278.684, 372.587, 277.739, 365.518, 276.172, 358.612, 273.994, 351.923, 271.224, 345.5, 267.88, 339.393, 263.99, 333.649, 259.582, 328.31, 254.69, 323.418, 249.351, 319.01, 243.607, 315.12, 237.5, 311.776, 231.077, 309.006, 224.388, 306.828, 217.482, 305.261, 210.413, 304.316, 203.234, 304, 196, 304.316, 188.766, 305.261, 181.587, 306.828, 174.518, 309.006, 167.612, 311.776, 160.923, 315.12, 154.5, 319.01, 148.393, 323.418, 142.649, 328.31, 137.31, 333.649, 132.418, 339.393, 128.01, 345.5, 124.12, 351.923, 120.776, 358.612, 118.006, 365.518, 115.828, 372.587, 114.261, 379.766, 113.316, 387, 113, 394.234, 113.316, 401.413, 114.261, 408.482, 115.828, 415.388, 118.006, 422.077, 120.776, 428.5, 124.12, 434.607, 128.01, 440.351, 132.418, 445.69, 137.31, 450.582, 142.649, 454.99, 148.393, 458.88, 154.5, 462.224, 160.923, 464.994, 167.612, 467.172, 174.518, 468.739, 181.587, 469.684, 188.766]
+        ],
+        "area": 27556,
+        "bbox": [304, 113, 166, 166],
+        "iscrowd": 0,
+        "id": 194,
+        "image_id": 142,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [338, 166, 337.654, 173.931, 336.618, 181.802, 334.899, 189.553, 332.512, 197.124, 329.474, 204.458, 325.808, 211.5, 321.543, 218.195, 316.71, 224.494, 311.347, 230.347, 305.494, 235.71, 299.195, 240.543, 292.5, 244.808, 285.458, 248.474, 278.124, 251.512, 270.553, 253.899, 262.802, 255.618, 254.931, 256.654, 247, 257, 239.069, 256.654, 231.198, 255.618, 223.447, 253.899, 215.876, 251.512, 208.542, 248.474, 201.5, 244.808, 194.805, 240.543, 188.506, 235.71, 182.653, 230.347, 177.29, 224.494, 172.457, 218.195, 168.192, 211.5, 164.526, 204.458, 161.488, 197.124, 159.101, 189.553, 157.382, 181.802, 156.346, 173.931, 156, 166, 156.346, 158.069, 157.382, 150.198, 159.101, 142.447, 161.488, 134.876, 164.526, 127.542, 168.192, 120.5, 172.457, 113.805, 177.29, 107.506, 182.653, 101.653, 188.506, 96.29, 194.805, 91.457, 201.5, 87.192, 208.542, 83.526, 215.876, 80.488, 223.447, 78.101, 231.198, 76.382, 239.069, 75.346, 247, 75, 254.931, 75.346, 262.802, 76.382, 270.553, 78.101, 278.124, 80.488, 285.458, 83.526, 292.5, 87.192, 299.195, 91.457, 305.494, 96.29, 311.347, 101.653, 316.71, 107.506, 321.543, 113.805, 325.808, 120.5, 329.474, 127.542, 332.512, 134.876, 334.899, 142.447, 336.618, 150.198, 337.654, 158.069]
+        ],
+        "area": 33124,
+        "bbox": [156, 75, 182, 182],
+        "iscrowd": 0,
+        "id": 195,
+        "image_id": 142,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [182, 142, 181.855, 145.312, 181.423, 148.599, 180.705, 151.835, 179.708, 154.997, 178.44, 158.059, 176.909, 161, 175.128, 163.796, 173.11, 166.426, 170.87, 168.87, 168.426, 171.11, 165.796, 173.128, 163, 174.909, 160.059, 176.44, 156.997, 177.708, 153.835, 178.705, 150.599, 179.423, 147.312, 179.855, 144, 180, 140.688, 179.855, 137.401, 179.423, 134.165, 178.705, 131.003, 177.708, 127.941, 176.44, 125, 174.909, 122.204, 173.128, 119.574, 171.11, 117.13, 168.87, 114.89, 166.426, 112.872, 163.796, 111.091, 161, 109.56, 158.059, 108.292, 154.997, 107.295, 151.835, 106.577, 148.599, 106.145, 145.312, 106, 142, 106.145, 138.688, 106.577, 135.401, 107.295, 132.165, 108.292, 129.003, 109.56, 125.941, 111.091, 123, 112.872, 120.204, 114.89, 117.574, 117.13, 115.13, 119.574, 112.89, 122.204, 110.872, 125, 109.091, 127.941, 107.56, 131.003, 106.292, 134.165, 105.295, 137.401, 104.577, 140.688, 104.145, 144, 104, 147.312, 104.145, 150.599, 104.577, 153.835, 105.295, 156.997, 106.292, 160.059, 107.56, 163, 109.091, 165.796, 110.872, 168.426, 112.89, 170.87, 115.13, 173.11, 117.574, 175.128, 120.204, 176.909, 123, 178.44, 125.941, 179.708, 129.003, 180.705, 132.165, 181.423, 135.401, 181.855, 138.688]
+        ],
+        "area": 5776,
+        "bbox": [106, 104, 76, 76],
+        "iscrowd": 0,
+        "id": 196,
+        "image_id": 143,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [284.539, 149, 284.343, 153.492, 283.756, 157.95, 282.783, 162.339, 281.431, 166.627, 279.71, 170.781, 277.634, 174.769, 275.218, 178.562, 272.481, 182.129, 269.444, 185.444, 266.129, 188.481, 262.562, 191.218, 258.769, 193.634, 254.781, 195.71, 250.627, 197.431, 246.339, 198.783, 241.95, 199.756, 237.492, 200.343, 233, 200.539, 228.508, 200.343, 224.05, 199.756, 219.661, 198.783, 215.373, 197.431, 211.219, 195.71, 207.231, 193.634, 203.438, 191.218, 199.871, 188.481, 196.556, 185.444, 193.519, 182.129, 190.782, 178.562, 188.366, 174.769, 186.29, 170.781, 184.569, 166.627, 183.217, 162.339, 182.244, 157.95, 181.657, 153.492, 181.461, 149, 181.657, 144.508, 182.244, 140.05, 183.217, 135.661, 184.569, 131.373, 186.29, 127.219, 188.366, 123.23, 190.782, 119.438, 193.519, 115.871, 196.556, 112.556, 199.871, 109.519, 203.438, 106.782, 207.23, 104.366, 211.219, 102.29, 215.373, 100.569, 219.661, 99.217, 224.05, 98.244, 228.508, 97.657, 233, 97.461, 237.492, 97.657, 241.95, 98.244, 246.339, 99.217, 250.627, 100.569, 254.781, 102.29, 258.769, 104.366, 262.562, 106.782, 266.129, 109.519, 269.444, 112.556, 272.481, 115.871, 275.218, 119.438, 277.634, 123.23, 279.71, 127.219, 281.431, 131.373, 282.783, 135.661, 283.756, 140.05, 284.343, 144.508]
+        ],
+        "area": 10625.074083999996,
+        "bbox": [181.461, 97.461, 103.07799999999997, 103.07799999999999],
+        "iscrowd": 0,
+        "id": 197,
+        "image_id": 143,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [259, 87, 258.852, 90.399, 258.408, 93.772, 257.671, 97.094, 256.648, 100.339, 255.346, 103.482, 253.775, 106.5, 251.947, 109.369, 249.876, 112.069, 247.577, 114.577, 245.069, 116.876, 242.369, 118.947, 239.5, 120.775, 236.482, 122.346, 233.339, 123.648, 230.094, 124.671, 226.772, 125.408, 223.399, 125.852, 220, 126, 216.601, 125.852, 213.228, 125.408, 209.906, 124.671, 206.661, 123.648, 203.518, 122.346, 200.5, 120.775, 197.631, 118.947, 194.931, 116.876, 192.423, 114.577, 190.124, 112.069, 188.053, 109.369, 186.225, 106.5, 184.654, 103.482, 183.352, 100.339, 182.329, 97.094, 181.592, 93.772, 181.148, 90.399, 181, 87, 181.148, 83.601, 181.592, 80.228, 182.329, 76.906, 183.352, 73.661, 184.654, 70.518, 186.225, 67.5, 188.053, 64.631, 190.124, 61.931, 192.423, 59.423, 194.931, 57.124, 197.631, 55.053, 200.5, 53.225, 203.518, 51.654, 206.661, 50.352, 209.906, 49.329, 213.228, 48.592, 216.601, 48.148, 220, 48, 223.399, 48.148, 226.772, 48.592, 230.094, 49.329, 233.339, 50.352, 236.482, 51.654, 239.5, 53.225, 242.369, 55.053, 245.069, 57.124, 247.577, 59.423, 249.876, 61.931, 251.947, 64.631, 253.775, 67.5, 255.346, 70.518, 256.648, 73.661, 257.671, 76.906, 258.408, 80.228, 258.852, 83.601]
+        ],
+        "area": 6084,
+        "bbox": [181, 48, 78, 78],
+        "iscrowd": 0,
+        "id": 198,
+        "image_id": 143,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [180, 87, 179.901, 89.266, 179.605, 91.515, 179.114, 93.729, 178.432, 95.893, 177.564, 97.988, 176.517, 100, 175.298, 101.913, 173.917, 103.712, 172.385, 105.385, 170.712, 106.917, 168.913, 108.298, 167, 109.517, 164.988, 110.564, 162.893, 111.432, 160.729, 112.114, 158.515, 112.605, 156.266, 112.901, 154, 113, 151.734, 112.901, 149.485, 112.605, 147.271, 112.114, 145.107, 111.432, 143.012, 110.564, 141, 109.517, 139.087, 108.298, 137.288, 106.917, 135.615, 105.385, 134.083, 103.712, 132.702, 101.913, 131.483, 100, 130.436, 97.988, 129.568, 95.893, 128.886, 93.729, 128.395, 91.515, 128.099, 89.266, 128, 87, 128.099, 84.734, 128.395, 82.485, 128.886, 80.271, 129.568, 78.107, 130.436, 76.012, 131.483, 74, 132.702, 72.087, 134.083, 70.288, 135.615, 68.615, 137.288, 67.083, 139.087, 65.702, 141, 64.483, 143.012, 63.436, 145.107, 62.568, 147.271, 61.886, 149.485, 61.395, 151.734, 61.099, 154, 61, 156.266, 61.099, 158.515, 61.395, 160.729, 61.886, 162.893, 62.568, 164.988, 63.436, 167, 64.483, 168.913, 65.702, 170.712, 67.083, 172.385, 68.615, 173.917, 70.288, 175.298, 72.087, 176.517, 74, 177.564, 76.012, 178.432, 78.107, 179.114, 80.271, 179.605, 82.485, 179.901, 84.734]
+        ],
+        "area": 2704,
+        "bbox": [128, 61, 52, 52],
+        "iscrowd": 0,
+        "id": 199,
+        "image_id": 143,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [143, 197, 142.836, 200.748, 142.347, 204.467, 141.535, 208.129, 140.407, 211.707, 138.971, 215.173, 137.239, 218.5, 135.224, 221.664, 132.94, 224.64, 130.406, 227.406, 127.64, 229.94, 124.664, 232.224, 121.5, 234.239, 118.173, 235.971, 114.707, 237.407, 111.129, 238.535, 107.467, 239.347, 103.748, 239.836, 100, 240, 96.252, 239.836, 92.533, 239.347, 88.871, 238.535, 85.293, 237.407, 81.827, 235.971, 78.5, 234.239, 75.336, 232.224, 72.36, 229.94, 69.594, 227.406, 67.06, 224.64, 64.776, 221.664, 62.761, 218.5, 61.029, 215.173, 59.593, 211.707, 58.465, 208.129, 57.653, 204.467, 57.164, 200.748, 57, 197, 57.164, 193.252, 57.653, 189.533, 58.465, 185.871, 59.593, 182.293, 61.029, 178.827, 62.761, 175.5, 64.776, 172.336, 67.06, 169.36, 69.594, 166.594, 72.36, 164.06, 75.336, 161.776, 78.5, 159.761, 81.827, 158.029, 85.293, 156.593, 88.871, 155.465, 92.533, 154.653, 96.252, 154.164, 100, 154, 103.748, 154.164, 107.467, 154.653, 111.129, 155.465, 114.707, 156.593, 118.173, 158.029, 121.5, 159.761, 124.664, 161.776, 127.64, 164.06, 130.406, 166.594, 132.94, 169.36, 135.224, 172.336, 137.239, 175.5, 138.971, 178.827, 140.407, 182.293, 141.535, 185.871, 142.347, 189.533, 142.836, 193.252]
+        ],
+        "area": 7396,
+        "bbox": [57, 154, 86, 86],
+        "iscrowd": 0,
+        "id": 200,
+        "image_id": 144,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [233, 181, 232.825, 185.009, 232.301, 188.988, 231.433, 192.906, 230.226, 196.733, 228.69, 200.44, 226.837, 204, 224.681, 207.385, 222.238, 210.568, 219.527, 213.527, 216.568, 216.238, 213.385, 218.681, 210, 220.837, 206.44, 222.69, 202.733, 224.226, 198.906, 225.433, 194.988, 226.301, 191.009, 226.825, 187, 227, 182.991, 226.825, 179.012, 226.301, 175.094, 225.433, 171.267, 224.226, 167.56, 222.69, 164, 220.837, 160.615, 218.681, 157.432, 216.238, 154.473, 213.527, 151.762, 210.568, 149.319, 207.385, 147.163, 204, 145.31, 200.44, 143.774, 196.733, 142.567, 192.906, 141.699, 188.988, 141.175, 185.009, 141, 181, 141.175, 176.991, 141.699, 173.012, 142.567, 169.094, 143.774, 165.267, 145.31, 161.56, 147.163, 158, 149.319, 154.615, 151.762, 151.432, 154.473, 148.473, 157.432, 145.762, 160.615, 143.319, 164, 141.163, 167.56, 139.31, 171.267, 137.774, 175.094, 136.567, 179.012, 135.699, 182.991, 135.175, 187, 135, 191.009, 135.175, 194.988, 135.699, 198.906, 136.567, 202.733, 137.774, 206.44, 139.31, 210, 141.163, 213.385, 143.319, 216.568, 145.762, 219.527, 148.473, 222.238, 151.432, 224.681, 154.615, 226.837, 158, 228.69, 161.56, 230.226, 165.267, 231.433, 169.094, 232.301, 173.012, 232.825, 176.991]
+        ],
+        "area": 8464,
+        "bbox": [141, 135, 92, 92],
+        "iscrowd": 0,
+        "id": 201,
+        "image_id": 144,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [152, 134, 151.836, 137.748, 151.347, 141.467, 150.535, 145.129, 149.407, 148.707, 147.971, 152.173, 146.239, 155.5, 144.224, 158.664, 141.94, 161.64, 139.406, 164.406, 136.64, 166.94, 133.664, 169.224, 130.5, 171.239, 127.173, 172.971, 123.707, 174.407, 120.129, 175.535, 116.467, 176.347, 112.748, 176.836, 109, 177, 105.252, 176.836, 101.533, 176.347, 97.871, 175.535, 94.293, 174.407, 90.827, 172.971, 87.5, 171.239, 84.336, 169.224, 81.36, 166.94, 78.594, 164.406, 76.06, 161.64, 73.776, 158.664, 71.761, 155.5, 70.029, 152.173, 68.593, 148.707, 67.465, 145.129, 66.653, 141.467, 66.164, 137.748, 66, 134, 66.164, 130.252, 66.653, 126.533, 67.465, 122.871, 68.593, 119.293, 70.029, 115.827, 71.761, 112.5, 73.776, 109.336, 76.06, 106.36, 78.594, 103.594, 81.36, 101.06, 84.336, 98.776, 87.5, 96.761, 90.827, 95.029, 94.293, 93.593, 97.871, 92.465, 101.533, 91.653, 105.252, 91.164, 109, 91, 112.748, 91.164, 116.467, 91.653, 120.129, 92.465, 123.707, 93.593, 127.173, 95.029, 130.5, 96.761, 133.664, 98.776, 136.64, 101.06, 139.406, 103.594, 141.94, 106.36, 144.224, 109.336, 146.239, 112.5, 147.971, 115.827, 149.407, 119.293, 150.535, 122.871, 151.347, 126.533, 151.836, 130.252]
+        ],
+        "area": 7396,
+        "bbox": [66, 91, 86, 86],
+        "iscrowd": 0,
+        "id": 202,
+        "image_id": 144,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [168, 52, 167.836, 55.748, 167.347, 59.467, 166.535, 63.129, 165.407, 66.707, 163.971, 70.173, 162.239, 73.5, 160.224, 76.664, 157.94, 79.64, 155.406, 82.406, 152.64, 84.94, 149.664, 87.224, 146.5, 89.239, 143.173, 90.971, 139.707, 92.407, 136.129, 93.535, 132.467, 94.347, 128.748, 94.836, 125, 95, 121.252, 94.836, 117.533, 94.347, 113.871, 93.535, 110.293, 92.407, 106.827, 90.971, 103.5, 89.239, 100.336, 87.224, 97.36, 84.94, 94.594, 82.406, 92.06, 79.64, 89.776, 76.664, 87.761, 73.5, 86.029, 70.173, 84.593, 66.707, 83.465, 63.129, 82.653, 59.467, 82.164, 55.748, 82, 52, 82.164, 48.252, 82.653, 44.533, 83.465, 40.871, 84.593, 37.293, 86.029, 33.827, 87.761, 30.5, 89.776, 27.336, 92.06, 24.36, 94.594, 21.594, 97.36, 19.06, 100.336, 16.776, 103.5, 14.761, 106.827, 13.029, 110.293, 11.593, 113.871, 10.465, 117.533, 9.653, 121.252, 9.164, 125, 9, 128.748, 9.164, 132.467, 9.653, 136.129, 10.465, 139.707, 11.593, 143.173, 13.029, 146.5, 14.761, 149.664, 16.776, 152.64, 19.06, 155.406, 21.594, 157.94, 24.36, 160.224, 27.336, 162.239, 30.5, 163.971, 33.827, 165.407, 37.293, 166.535, 40.871, 167.347, 44.533, 167.836, 48.252]
+        ],
+        "area": 7396,
+        "bbox": [82, 9, 86, 86],
+        "iscrowd": 0,
+        "id": 203,
+        "image_id": 144,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [104, 78, 103.852, 81.399, 103.408, 84.772, 102.671, 88.094, 101.648, 91.339, 100.346, 94.482, 98.775, 97.5, 96.947, 100.369, 94.876, 103.069, 92.577, 105.577, 90.069, 107.876, 87.369, 109.947, 84.5, 111.775, 81.482, 113.346, 78.339, 114.648, 75.094, 115.671, 71.772, 116.408, 68.399, 116.852, 65, 117, 61.601, 116.852, 58.228, 116.408, 54.906, 115.671, 51.661, 114.648, 48.518, 113.346, 45.5, 111.775, 42.631, 109.947, 39.931, 107.876, 37.423, 105.577, 35.124, 103.069, 33.053, 100.369, 31.225, 97.5, 29.654, 94.482, 28.352, 91.339, 27.329, 88.094, 26.592, 84.772, 26.148, 81.399, 26, 78, 26.148, 74.601, 26.592, 71.228, 27.329, 67.906, 28.352, 64.661, 29.654, 61.518, 31.225, 58.5, 33.053, 55.631, 35.124, 52.931, 37.423, 50.423, 39.931, 48.124, 42.631, 46.053, 45.5, 44.225, 48.518, 42.654, 51.661, 41.352, 54.906, 40.329, 58.228, 39.592, 61.601, 39.148, 65, 39, 68.399, 39.148, 71.772, 39.592, 75.094, 40.329, 78.339, 41.352, 81.482, 42.654, 84.5, 44.225, 87.369, 46.053, 90.069, 48.124, 92.577, 50.423, 94.876, 52.931, 96.947, 55.631, 98.775, 58.5, 100.346, 61.518, 101.648, 64.661, 102.671, 67.906, 103.408, 71.228, 103.852, 74.601]
+        ],
+        "area": 6084,
+        "bbox": [26, 39, 78, 78],
+        "iscrowd": 0,
+        "id": 204,
+        "image_id": 144,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [76, 143, 75.855, 146.312, 75.423, 149.599, 74.705, 152.835, 73.708, 155.997, 72.44, 159.059, 70.909, 162, 69.128, 164.796, 67.11, 167.426, 64.87, 169.87, 62.426, 172.11, 59.796, 174.128, 57, 175.909, 54.059, 177.44, 50.997, 178.708, 47.835, 179.705, 44.599, 180.423, 41.312, 180.855, 38, 181, 34.688, 180.855, 31.401, 180.423, 28.165, 179.705, 25.003, 178.708, 21.941, 177.44, 19, 175.909, 16.204, 174.128, 13.574, 172.11, 11.13, 169.87, 8.89, 167.426, 6.872, 164.796, 5.091, 162, 3.56, 159.059, 2.292, 155.997, 1.295, 152.835, 0.577, 149.599, 0.145, 146.312, 0, 143, 0.145, 139.688, 0.577, 136.401, 1.295, 133.165, 2.292, 130.003, 3.56, 126.941, 5.091, 124, 6.872, 121.204, 8.89, 118.574, 11.13, 116.13, 13.574, 113.89, 16.204, 111.872, 19, 110.091, 21.941, 108.56, 25.003, 107.292, 28.165, 106.295, 31.401, 105.577, 34.688, 105.145, 38, 105, 41.312, 105.145, 44.599, 105.577, 47.835, 106.295, 50.997, 107.292, 54.059, 108.56, 57, 110.091, 59.796, 111.872, 62.426, 113.89, 64.87, 116.13, 67.11, 118.574, 69.128, 121.204, 70.909, 124, 72.44, 126.941, 73.708, 130.003, 74.705, 133.165, 75.423, 136.401, 75.855, 139.688]
+        ],
+        "area": 5776,
+        "bbox": [0, 105, 76, 76],
+        "iscrowd": 0,
+        "id": 205,
+        "image_id": 144,
+        "category_id": 13
+    }, {
+        "segmentation": [
+            [236.001, 122.466, 235.397, 128.638, 233.999, 134.736, 231.817, 140.714, 228.867, 146.527, 225.173, 152.131, 220.762, 157.483, 215.668, 162.541, 209.93, 167.268, 203.59, 171.628, 196.699, 175.588, 189.307, 179.116, 181.472, 182.187, 173.252, 184.778, 164.711, 186.867, 155.913, 188.441, 146.926, 189.485, 137.818, 189.993, 128.657, 189.961, 119.515, 189.389, 110.46, 188.281, 101.561, 186.646, 92.886, 184.496, 84.502, 181.848, 76.471, 178.721, 68.855, 175.14, 61.712, 171.131, 55.097, 166.726, 49.059, 161.958, 43.645, 156.862, 38.895, 151.479, 34.847, 145.848, 31.53, 140.013, 28.971, 134.018, 27.188, 127.909, 26.195, 121.732, 25.999, 115.534, 26.603, 109.362, 28.001, 103.264, 30.183, 97.286, 33.133, 91.473, 36.827, 85.869, 41.238, 80.517, 46.332, 75.459, 52.07, 70.732, 58.41, 66.372, 65.301, 62.412, 72.693, 58.884, 80.528, 55.813, 88.748, 53.222, 97.289, 51.133, 106.087, 49.559, 115.074, 48.515, 124.182, 48.007, 133.343, 48.039, 142.485, 48.611, 151.54, 49.719, 160.439, 51.354, 169.114, 53.504, 177.498, 56.152, 185.529, 59.279, 193.145, 62.86, 200.288, 66.869, 206.903, 71.274, 212.941, 76.042, 218.355, 81.138, 223.105, 86.521, 227.153, 92.152, 230.47, 97.987, 233.029, 103.982, 234.812, 110.091, 235.805, 116.268]
+        ],
+        "area": 29817.343972,
+        "bbox": [25.999, 48.007, 210.002, 141.986],
+        "iscrowd": 0,
+        "id": 206,
+        "image_id": 145,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [197, 110, 196.665, 118.193, 195.663, 126.323, 194.001, 134.329, 191.693, 142.15, 188.755, 149.726, 185.21, 157, 181.085, 163.916, 176.412, 170.422, 171.225, 176.468, 165.565, 182.008, 159.475, 187, 153, 191.406, 146.19, 195.193, 139.098, 198.331, 131.776, 200.797, 124.281, 202.572, 116.67, 203.642, 109, 204, 101.33, 203.642, 93.719, 202.572, 86.224, 200.797, 78.902, 198.331, 71.81, 195.193, 65, 191.406, 58.525, 187, 52.435, 182.008, 46.775, 176.468, 41.588, 170.422, 36.915, 163.916, 32.79, 157, 29.245, 149.726, 26.307, 142.15, 23.999, 134.329, 22.337, 126.323, 21.335, 118.193, 21, 110, 21.335, 101.807, 22.337, 93.677, 23.999, 85.671, 26.307, 77.85, 29.245, 70.274, 32.79, 63, 36.915, 56.084, 41.588, 49.578, 46.775, 43.532, 52.435, 37.992, 58.525, 33, 65, 28.594, 71.81, 24.807, 78.902, 21.669, 86.224, 19.203, 93.719, 17.428, 101.33, 16.358, 109, 16, 116.67, 16.358, 124.281, 17.428, 131.776, 19.203, 139.098, 21.669, 146.19, 24.807, 153, 28.594, 159.475, 33, 165.565, 37.992, 171.225, 43.532, 176.412, 49.578, 181.085, 56.084, 185.21, 63, 188.755, 70.274, 191.693, 77.85, 194.001, 85.671, 195.663, 93.677, 196.665, 101.807]
+        ],
+        "area": 33088,
+        "bbox": [21, 16, 176, 188],
+        "iscrowd": 0,
+        "id": 207,
+        "image_id": 146,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [1, 1, 144, 1, 92, 56, 110, 106, 127, 116, 148, 116, 181, 90, 204, 49, 211, 40, 212, 84, 195, 122, 170, 151, 121, 172, 68, 182, 25, 187, 4, 182]
+        ],
+        "area": 39246,
+        "bbox": [1, 1, 211, 186],
+        "iscrowd": 0,
+        "id": 208,
+        "image_id": 147,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [2, 45, 70, 35, 113, 49, 129, 59, 99, 77, 83, 106, 77, 136, 110, 161, 149, 122, 165, 103, 171, 111, 167, 160, 102, 213, 59, 215, 15, 216, 5, 217]
+        ],
+        "area": 30758,
+        "bbox": [2, 35, 169, 182],
+        "iscrowd": 0,
+        "id": 209,
+        "image_id": 148,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [8, 56, 49, 38, 92, 32, 157, 46, 181, 69, 197, 99, 199, 140, 181, 172, 148, 199, 97, 212, 45, 210, 8, 191, 2, 149, 7, 134, 49, 149, 95, 116, 99, 102, 77, 86, 46, 75]
+        ],
+        "area": 35460,
+        "bbox": [2, 32, 197, 180],
+        "iscrowd": 0,
+        "id": 210,
+        "image_id": 149,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [222.1, 114, 221.715, 122.811, 220.564, 131.556, 218.655, 140.167, 216.003, 148.578, 212.628, 156.727, 208.555, 164.55, 203.816, 171.989, 198.447, 178.986, 192.488, 185.488, 185.986, 191.447, 178.989, 196.816, 171.55, 201.555, 163.727, 205.628, 155.578, 209.003, 147.167, 211.655, 138.556, 213.564, 129.811, 214.715, 121, 215.1, 112.189, 214.715, 103.444, 213.564, 94.833, 211.655, 86.422, 209.003, 78.273, 205.628, 70.45, 201.555, 63.011, 196.816, 56.014, 191.447, 49.512, 185.488, 43.553, 178.986, 38.184, 171.989, 33.445, 164.55, 29.372, 156.727, 25.997, 148.578, 23.345, 140.167, 21.436, 131.556, 20.285, 122.811, 19.9, 114, 20.285, 105.189, 21.436, 96.444, 23.345, 87.833, 25.997, 79.422, 29.372, 71.273, 33.445, 63.45, 38.184, 56.011, 43.553, 49.014, 49.512, 42.512, 56.014, 36.553, 63.011, 31.184, 70.45, 26.445, 78.273, 22.372, 86.422, 18.997, 94.833, 16.345, 103.444, 14.436, 112.189, 13.285, 121, 12.9, 129.811, 13.285, 138.556, 14.436, 147.167, 16.345, 155.578, 18.997, 163.727, 22.372, 171.55, 26.445, 178.989, 31.184, 185.986, 36.553, 192.488, 42.512, 198.447, 49.014, 203.816, 56.011, 208.555, 63.45, 212.628, 71.273, 216.003, 79.422, 218.655, 87.833, 220.564, 96.444, 221.715, 105.189]
+        ],
+        "area": 40884.84,
+        "bbox": [19.9, 12.9, 202.2, 202.2],
+        "iscrowd": 0,
+        "id": 211,
+        "image_id": 150,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [200, 114, 199.68, 121.321, 198.724, 128.586, 197.138, 135.741, 194.934, 142.73, 192.13, 149.5, 188.746, 156, 184.809, 162.18, 180.348, 167.994, 175.397, 173.397, 169.994, 178.348, 164.18, 182.809, 158, 186.746, 151.5, 190.13, 144.73, 192.934, 137.741, 195.138, 130.586, 196.724, 123.321, 197.68, 116, 198, 108.679, 197.68, 101.414, 196.724, 94.259, 195.138, 87.27, 192.934, 80.5, 190.13, 74, 186.746, 67.82, 182.809, 62.006, 178.348, 56.603, 173.397, 51.652, 167.994, 47.191, 162.18, 43.254, 156, 39.87, 149.5, 37.066, 142.73, 34.862, 135.741, 33.276, 128.586, 32.32, 121.321, 32, 114, 32.32, 106.679, 33.276, 99.414, 34.862, 92.259, 37.066, 85.27, 39.87, 78.5, 43.254, 72, 47.191, 65.82, 51.652, 60.006, 56.603, 54.603, 62.006, 49.652, 67.82, 45.191, 74, 41.254, 80.5, 37.87, 87.27, 35.066, 94.259, 32.862, 101.414, 31.276, 108.679, 30.32, 116, 30, 123.321, 30.32, 130.586, 31.276, 137.741, 32.862, 144.73, 35.066, 151.5, 37.87, 158, 41.254, 164.18, 45.191, 169.994, 49.652, 175.397, 54.603, 180.348, 60.006, 184.809, 65.82, 188.746, 72, 192.13, 78.5, 194.934, 85.27, 197.138, 92.259, 198.724, 99.414, 199.68, 106.679]
+        ],
+        "area": 28224,
+        "bbox": [32, 30, 168, 168],
+        "iscrowd": 0,
+        "id": 212,
+        "image_id": 151,
+        "category_id": 15
+    }, {
+        "segmentation": [
+            [61, 141, 71, 115, 93, 107, 122, 99, 166, 117, 168, 139, 148, 180, 119, 203, 88, 194, 64, 174]
+        ],
+        "area": 11128,
+        "bbox": [61, 99, 107, 104],
+        "iscrowd": 0,
+        "id": 213,
+        "image_id": 152,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [79, 105, 74, 80, 92, 66, 127, 57, 149, 67, 168, 93, 181, 112, 177, 128, 147, 114, 124, 99, 97, 100, 82, 116]
+        ],
+        "area": 7597,
+        "bbox": [74, 57, 107, 71],
+        "iscrowd": 0,
+        "id": 214,
+        "image_id": 152,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [57, 169, 31, 114, 24, 80, 29, 50, 62, 34, 92, 31, 143, 31, 167, 63, 177, 116, 176, 162, 165, 190, 135, 200, 108, 205, 82, 201]
+        ],
+        "area": 26622,
+        "bbox": [24, 31, 153, 174],
+        "iscrowd": 0,
+        "id": 215,
+        "image_id": 153,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [70, 144, 37, 132, 13, 81, 16, 52, 54, 31, 102, 21, 158, 20, 205, 28, 238, 48, 250, 84, 241, 125, 148, 161, 120, 162]
+        ],
+        "area": 33654,
+        "bbox": [13, 20, 237, 142],
+        "iscrowd": 0,
+        "id": 216,
+        "image_id": 154,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [79, 208, 66, 166, 66, 116, 59, 73, 94, 34, 135, 24, 171, 34, 184, 65, 193, 107, 198, 148, 188, 191, 170, 213, 139, 224, 94, 221]
+        ],
+        "area": 27800,
+        "bbox": [59, 24, 139, 200],
+        "iscrowd": 0,
+        "id": 217,
+        "image_id": 155,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [60, 201, 94, 115, 221, 12, 284, 21, 340, 55, 416, 102, 470, 140, 473, 182, 466, 240, 453, 302, 94, 304, 48, 258]
+        ],
+        "area": 124100,
+        "bbox": [48, 12, 425, 292],
+        "iscrowd": 0,
+        "id": 218,
+        "image_id": 156,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [89, 194, 40, 179, 5, 153, 4, 100, 34, 80, 74, 70, 115, 68, 143, 70, 174, 90, 181, 100, 182, 188, 136, 197]
+        ],
+        "area": 22962,
+        "bbox": [4, 68, 178, 129],
+        "iscrowd": 0,
+        "id": 219,
+        "image_id": 157,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [94, 139, 73, 117, 75, 77, 85, 46, 105, 18, 127, 12, 148, 13, 178, 27, 196, 46, 200, 71, 194, 105, 167, 126, 133, 142, 114, 146]
+        ],
+        "area": 17018,
+        "bbox": [73, 12, 127, 134],
+        "iscrowd": 0,
+        "id": 220,
+        "image_id": 158,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [65, 85, 49, 72, 35, 56, 20, 45, 33, 12, 53, 1, 198, 3, 223, 27, 239, 57, 236, 93, 219, 117, 173, 126, 128, 118]
+        ],
+        "area": 27375,
+        "bbox": [20, 1, 219, 125],
+        "iscrowd": 0,
+        "id": 221,
+        "image_id": 159,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [196, 162, 285, 64, 461, 27, 641, 85, 784, 154, 894, 302, 941, 455, 912, 618, 880, 753, 708, 906, 596, 967, 475, 977, 406, 968, 319, 908, 265, 835, 128, 616, 88, 463, 95, 344]
+        ],
+        "area": 810350,
+        "bbox": [88, 27, 853, 950],
+        "iscrowd": 0,
+        "id": 222,
+        "image_id": 160,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [48, 48, 69, 1, 270, 1, 265, 106, 167, 121, 106, 125, 64, 104, 43, 82]
+        ],
+        "area": 28148,
+        "bbox": [43, 1, 227, 124],
+        "iscrowd": 0,
+        "id": 223,
+        "image_id": 161,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [162, 136, 133, 113, 115, 73, 135, 39, 172, 24, 212, 22, 267, 50, 295, 64, 295, 97, 297, 122, 288, 144, 225, 151, 190, 148]
+        ],
+        "area": 23478,
+        "bbox": [115, 22, 182, 129],
+        "iscrowd": 0,
+        "id": 224,
+        "image_id": 162,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [95, 254, 56, 173, 64, 141, 122, 113, 209, 87, 337, 70, 417, 70, 503, 36, 535, 28, 596, 35, 601, 82, 590, 147, 507, 195, 445, 260, 413, 329, 184, 331, 132, 296]
+        ],
+        "area": 165135,
+        "bbox": [56, 28, 545, 303],
+        "iscrowd": 0,
+        "id": 225,
+        "image_id": 163,
+        "category_id": 16
+    }, {
+        "segmentation": [
+            [86, 210, 31, 190, 7, 155, 11, 76, 35, 48, 78, 35, 125, 34, 166, 57, 187, 98, 195, 140, 182, 184, 138, 209]
+        ],
+        "area": 33088,
+        "bbox": [7, 34, 188, 176],
+        "iscrowd": 0,
+        "id": 226,
+        "image_id": 164,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [105, 213, 51, 191, 27, 158, 3, 161, 2, 94, 36, 76, 71, 59, 138, 59, 202, 75, 219, 110, 219, 145, 215, 173]
+        ],
+        "area": 33418,
+        "bbox": [2, 59, 217, 154],
+        "iscrowd": 0,
+        "id": 227,
+        "image_id": 166,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [106, 129, 77, 122, 52, 106, 45, 87, 53, 62, 80, 41, 109, 34, 140, 34, 169, 46, 187, 65, 187, 93, 173, 115, 144, 125]
+        ],
+        "area": 13490,
+        "bbox": [45, 34, 142, 95],
+        "iscrowd": 0,
+        "id": 228,
+        "image_id": 167,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [2, 6, 269, 6, 269, 179, 2, 179]
+        ],
+        "area": 46191,
+        "bbox": [2, 6, 267, 173],
+        "iscrowd": 0,
+        "id": 229,
+        "image_id": 168,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [2, 133, 0, 54, 26, 33, 65, 14, 110, 21, 171, 29, 195, 78, 192, 112, 166, 127, 94, 153, 39, 144]
+        ],
+        "area": 27105,
+        "bbox": [0, 14, 195, 139],
+        "iscrowd": 0,
+        "id": 230,
+        "image_id": 169,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [68, 203, 25, 171, 16, 133, 27, 100, 63, 74, 91, 67, 135, 73, 159, 94, 164, 129, 154, 180, 114, 203, 93, 210]
+        ],
+        "area": 21164,
+        "bbox": [16, 67, 148, 143],
+        "iscrowd": 0,
+        "id": 231,
+        "image_id": 170,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [99, 142, 50, 143, 20, 120, 6, 99, 32, 82, 77, 67, 134, 73, 201, 87, 230, 84, 231, 117, 221, 138, 139, 144, 111, 149]
+        ],
+        "area": 18450,
+        "bbox": [6, 67, 225, 82],
+        "iscrowd": 0,
+        "id": 232,
+        "image_id": 171,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [143, 147, 92, 140, 59, 125, 36, 102, 62, 35, 117, 11, 167, 11, 224, 28, 242, 64, 238, 101, 193, 135]
+        ],
+        "area": 28016,
+        "bbox": [36, 11, 206, 136],
+        "iscrowd": 0,
+        "id": 233,
+        "image_id": 172,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [4, 33, 222, 33, 222, 196, 4, 196]
+        ],
+        "area": 35534,
+        "bbox": [4, 33, 218, 163],
+        "iscrowd": 0,
+        "id": 234,
+        "image_id": 173,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [47, 175, 50, 113, 66, 57, 102, 16, 130, 2, 271, 2, 268, 180]
+        ],
+        "area": 39872,
+        "bbox": [47, 2, 224, 178],
+        "iscrowd": 0,
+        "id": 235,
+        "image_id": 174,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [4, 3, 223, 3, 223, 221, 4, 221]
+        ],
+        "area": 47742,
+        "bbox": [4, 3, 219, 218],
+        "iscrowd": 0,
+        "id": 236,
+        "image_id": 175,
+        "category_id": 18
+    }, {
+        "segmentation": [
+            [4, 117, 62, 158, 85, 165, 166, 42, 185, 6, 118, 9, 25, 44, 4, 65]
+        ],
+        "area": 28779,
+        "bbox": [4, 6, 181, 159],
+        "iscrowd": 0,
+        "id": 237,
+        "image_id": 177,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [99, 153, 176, 18, 207, 37, 206, 129, 147, 150]
+        ],
+        "area": 14580,
+        "bbox": [99, 18, 108, 135],
+        "iscrowd": 0,
+        "id": 238,
+        "image_id": 177,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [110, 119, 113, 72, 193, 65, 248, 65, 257, 84, 249, 97, 200, 118, 151, 127, 128, 132, 110, 136]
+        ],
+        "area": 10437,
+        "bbox": [110, 65, 147, 71],
+        "iscrowd": 0,
+        "id": 239,
+        "image_id": 178,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [5, 165, 42, 173, 81, 168, 96, 152, 131, 97, 141, 73, 136, 45, 118, 32, 69, 21, 52, 43, 24, 94, 2, 125, 1, 160]
+        ],
+        "area": 21280,
+        "bbox": [1, 21, 140, 152],
+        "iscrowd": 0,
+        "id": 240,
+        "image_id": 179,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [60, 206, 70, 136, 79, 92, 92, 81, 113, 81, 133, 87, 136, 137, 139, 190, 142, 224, 140, 237, 117, 239, 96, 231, 78, 224]
+        ],
+        "area": 12956,
+        "bbox": [60, 81, 82, 158],
+        "iscrowd": 0,
+        "id": 241,
+        "image_id": 180,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [35, 159, 51, 83, 78, 82, 125, 89, 182, 84, 181, 260, 107, 262, 55, 252, 35, 221]
+        ],
+        "area": 26460,
+        "bbox": [35, 82, 147, 180],
+        "iscrowd": 0,
+        "id": 242,
+        "image_id": 181,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [96, 143, 72, 103, 74, 62, 101, 7, 108, 2, 213, 3, 240, 47, 256, 83, 252, 129, 229, 151, 204, 161, 118, 159]
+        ],
+        "area": 29256,
+        "bbox": [72, 2, 184, 159],
+        "iscrowd": 0,
+        "id": 243,
+        "image_id": 182,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [78, 74, 115, 78, 103, 115, 99, 133, 129, 142, 165, 137, 266, 96, 279, 57, 271, 28, 258, 11, 224, 10, 172, 10, 103, 10, 65, 35, 64, 50]
+        ],
+        "area": 28380,
+        "bbox": [64, 10, 215, 132],
+        "iscrowd": 0,
+        "id": 244,
+        "image_id": 183,
+        "category_id": 17
+    }, {
+        "segmentation": [
+            [104, 63, 69, 50, 50, 43, 54, 12, 91, 9, 135, 14, 151, 35, 147, 57, 116, 61]
+        ],
+        "area": 5454,
+        "bbox": [50, 9, 101, 54],
+        "iscrowd": 0,
+        "id": 245,
+        "image_id": 184,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [118, 117, 152, 105, 150, 102, 177, 69, 173, 42, 200, 35, 252, 53, 262, 106, 239, 140, 221, 168, 105, 167, 65, 148, 81, 118]
+        ],
+        "area": 26201,
+        "bbox": [65, 35, 197, 133],
+        "iscrowd": 0,
+        "id": 246,
+        "image_id": 184,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [32, 118, 111, 122, 164, 101, 189, 84, 185, 55, 153, 36, 100, 26, 49, 28, 10, 52, 2, 71, 4, 106]
+        ],
+        "area": 17952,
+        "bbox": [2, 26, 187, 96],
+        "iscrowd": 0,
+        "id": 247,
+        "image_id": 185,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [104, 109, 85, 87, 126, 26, 171, 22, 201, 32, 207, 65, 200, 90, 199, 127, 155, 142, 139, 155, 108, 141, 123, 115]
+        ],
+        "area": 16226,
+        "bbox": [85, 22, 122, 133],
+        "iscrowd": 0,
+        "id": 248,
+        "image_id": 186,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [143, 219, 188, 165, 134, 112, 91, 110, 39, 110, 3, 110, 9, 218]
+        ],
+        "area": 20165,
+        "bbox": [3, 110, 185, 109],
+        "iscrowd": 0,
+        "id": 249,
+        "image_id": 187,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [131, 151, 92, 163, 78, 146, 91, 66, 186, 40, 211, 59, 223, 100, 202, 133, 166, 152]
+        ],
+        "area": 17835,
+        "bbox": [78, 40, 145, 123],
+        "iscrowd": 0,
+        "id": 250,
+        "image_id": 188,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [73, 167, 30, 145, 43, 89, 90, 42, 128, 34, 164, 41, 182, 78, 183, 121, 164, 160, 132, 180, 94, 190]
+        ],
+        "area": 23868,
+        "bbox": [30, 34, 153, 156],
+        "iscrowd": 0,
+        "id": 251,
+        "image_id": 189,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [117, 141, 76, 129, 101, 52, 128, 46, 173, 63, 186, 94, 187, 120, 145, 138]
+        ],
+        "area": 10545,
+        "bbox": [76, 46, 111, 95],
+        "iscrowd": 0,
+        "id": 252,
+        "image_id": 190,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [134, 125, 88, 101, 61, 88, 73, 59, 109, 26, 157, 37, 191, 55, 215, 81, 222, 109, 198, 137, 185, 146, 159, 141]
+        ],
+        "area": 19320,
+        "bbox": [61, 26, 161, 120],
+        "iscrowd": 0,
+        "id": 253,
+        "image_id": 191,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [110, 196, 61, 174, 26, 111, 94, 21, 146, 67, 182, 117, 203, 153, 214, 186, 191, 203, 148, 203]
+        ],
+        "area": 34216,
+        "bbox": [26, 21, 188, 182],
+        "iscrowd": 0,
+        "id": 254,
+        "image_id": 192,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [379, 791, 750, 561, 916, 307, 890, 230, 736, 201, 580, 201, 444, 216, 340, 271, 334, 338, 270, 330, 192, 355, 153, 448, 236, 488, 322, 539, 307, 615, 247, 677, 234, 717, 240, 777, 300, 817, 355, 802]
+        ],
+        "area": 470008,
+        "bbox": [153, 201, 763, 616],
+        "iscrowd": 0,
+        "id": 255,
+        "image_id": 193,
+        "category_id": 19
+    }, {
+        "segmentation": [
+            [17, 193, 59, 153, 79, 115, 96, 83, 125, 71, 161, 71, 162, 137, 150, 167, 86, 193, 54, 211, 31, 236, 11, 244, 1, 220]
+        ],
+        "area": 27853,
+        "bbox": [1, 71, 161, 173],
+        "iscrowd": 0,
+        "id": 256,
+        "image_id": 194,
+        "category_id": 6
+    }, {
+        "segmentation": [
+            [93, 145, 53, 95, 22, 71, 15, 31, 27, 12, 59, 5, 119, 20, 147, 29, 149, 69, 175, 102, 220, 102, 266, 81, 283, 89, 290, 135, 227, 149, 137, 159]
+        ],
+        "area": 42350,
+        "bbox": [15, 5, 275, 154],
+        "iscrowd": 0,
+        "id": 257,
+        "image_id": 195,
+        "category_id": 6
+    }, {
+        "segmentation": [
+            [44, 179, 99, 155, 101, 110, 109, 97, 157, 88, 219, 83, 225, 53, 110, 9, 59, 22, 14, 46, 3, 91, 7, 159]
+        ],
+        "area": 37740,
+        "bbox": [3, 9, 222, 170],
+        "iscrowd": 0,
+        "id": 258,
+        "image_id": 196,
+        "category_id": 6
+    }, {
+        "segmentation": [
+            [54, 145, 85, 119, 123, 105, 172, 67, 154, 53, 126, 44, 67, 69, 64, 96, 55, 112, 33, 123, 26, 134, 31, 148, 41, 147]
+        ],
+        "area": 15184,
+        "bbox": [26, 44, 146, 104],
+        "iscrowd": 0,
+        "id": 259,
+        "image_id": 197,
+        "category_id": 6
+    }, {
+        "segmentation": [
+            [97, 153, 74, 157, 57, 155, 44, 159, 46, 177, 55, 187, 78, 186, 94, 182, 149, 199, 171, 194, 202, 161, 189, 137, 163, 129, 121, 135, 93, 149]
+        ],
+        "area": 11060,
+        "bbox": [44, 129, 158, 70],
+        "iscrowd": 0,
+        "id": 260,
+        "image_id": 197,
+        "category_id": 6
+    }, {
+        "segmentation": [
+            [85, 186, 73, 193, 39, 156, 28, 111, 65, 49, 103, 32, 158, 29, 197, 86, 200, 132, 173, 168, 138, 191, 111, 203]
+        ],
+        "area": 29928,
+        "bbox": [28, 29, 172, 174],
+        "iscrowd": 0,
+        "id": 261,
+        "image_id": 198,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [191.204, 106.309, 191.286, 113.706, 190.719, 121.083, 189.507, 128.382, 187.66, 135.55, 185.191, 142.53, 182.119, 149.271, 178.469, 155.72, 174.266, 161.829, 169.544, 167.551, 164.339, 172.843, 158.689, 177.664, 152.639, 181.978, 146.233, 185.752, 139.522, 188.956, 132.555, 191.568, 125.386, 193.566, 118.07, 194.936, 110.661, 195.667, 103.218, 195.753, 95.795, 195.195, 88.45, 193.996, 81.239, 192.165, 74.216, 189.717, 67.435, 186.669, 60.947, 183.046, 54.803, 178.874, 49.048, 174.185, 43.726, 169.016, 38.879, 163.405, 34.542, 157.396, 30.749, 151.033, 27.529, 144.366, 24.906, 137.444, 22.9, 130.322, 21.527, 123.052, 20.796, 115.691, 20.714, 108.294, 21.281, 100.917, 22.493, 93.618, 24.34, 86.45, 26.809, 79.47, 29.881, 72.729, 33.531, 66.28, 37.734, 60.171, 42.456, 54.449, 47.661, 49.157, 53.311, 44.336, 59.361, 40.022, 65.767, 36.248, 72.478, 33.044, 79.445, 30.432, 86.614, 28.434, 93.93, 27.064, 101.339, 26.333, 108.782, 26.247, 116.205, 26.805, 123.55, 28.004, 130.761, 29.835, 137.784, 32.283, 144.565, 35.331, 151.053, 38.954, 157.197, 43.126, 162.952, 47.815, 168.274, 52.984, 173.121, 58.595, 177.458, 64.604, 181.251, 70.967, 184.471, 77.634, 187.094, 84.556, 189.1, 91.678, 190.473, 98.948]
+        ],
+        "area": 28912.977431999996,
+        "bbox": [20.714, 26.247, 170.572, 169.50599999999997],
+        "iscrowd": 0,
+        "id": 262,
+        "image_id": 199,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [189, 115, 188.707, 118.225, 187.83, 121.425, 186.376, 124.576, 184.356, 127.655, 181.786, 130.637, 178.684, 133.5, 175.075, 136.222, 170.985, 138.783, 166.447, 141.163, 161.495, 143.344, 156.165, 145.309, 150.5, 147.043, 144.542, 148.533, 138.336, 149.769, 131.929, 150.739, 125.371, 151.438, 118.711, 151.859, 112, 152, 105.289, 151.859, 98.629, 151.438, 92.071, 150.739, 85.664, 149.769, 79.458, 148.533, 73.5, 147.043, 67.835, 145.309, 62.505, 143.344, 57.553, 141.163, 53.015, 138.783, 48.925, 136.222, 45.316, 133.5, 42.214, 130.637, 39.644, 127.655, 37.624, 124.576, 36.17, 121.425, 35.293, 118.225, 35, 115, 35.293, 111.775, 36.17, 108.575, 37.624, 105.424, 39.644, 102.345, 42.214, 99.363, 45.316, 96.5, 48.925, 93.778, 53.015, 91.217, 57.553, 88.837, 62.505, 86.656, 67.835, 84.691, 73.5, 82.957, 79.458, 81.467, 85.664, 80.231, 92.071, 79.261, 98.629, 78.562, 105.289, 78.141, 112, 78, 118.711, 78.141, 125.371, 78.562, 131.929, 79.261, 138.336, 80.231, 144.542, 81.467, 150.5, 82.957, 156.165, 84.691, 161.495, 86.656, 166.447, 88.837, 170.985, 91.217, 175.075, 93.778, 178.684, 96.5, 181.786, 99.363, 184.356, 102.345, 186.376, 105.424, 187.83, 108.575, 188.707, 111.775]
+        ],
+        "area": 11396,
+        "bbox": [35, 78, 154, 74],
+        "iscrowd": 0,
+        "id": 263,
+        "image_id": 200,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [247.818, 83.619, 247.744, 89.803, 246.82, 95.987, 245.052, 102.126, 242.454, 108.173, 239.046, 114.082, 234.853, 119.807, 229.909, 125.305, 224.25, 130.535, 217.919, 135.456, 210.964, 140.031, 203.439, 144.226, 195.401, 148.007, 186.911, 151.348, 178.033, 154.221, 168.836, 156.606, 159.388, 158.484, 149.763, 159.84, 140.032, 160.665, 130.271, 160.952, 120.554, 160.699, 110.954, 159.909, 101.545, 158.586, 92.398, 156.741, 83.583, 154.388, 75.167, 151.545, 67.214, 148.234, 59.784, 144.479, 52.934, 140.31, 46.717, 135.758, 41.179, 130.858, 36.362, 125.647, 32.304, 120.165, 29.036, 114.453, 26.581, 108.554, 24.959, 102.515, 24.182, 96.381, 24.256, 90.197, 25.18, 84.013, 26.948, 77.874, 29.546, 71.827, 32.954, 65.918, 37.147, 60.193, 42.091, 54.695, 47.75, 49.465, 54.081, 44.544, 61.036, 39.969, 68.561, 35.774, 76.599, 31.993, 85.089, 28.652, 93.967, 25.779, 103.164, 23.394, 112.612, 21.516, 122.237, 20.16, 131.968, 19.335, 141.729, 19.048, 151.446, 19.301, 161.046, 20.091, 170.455, 21.414, 179.602, 23.259, 188.417, 25.612, 196.833, 28.455, 204.786, 31.766, 212.216, 35.521, 219.066, 39.69, 225.283, 44.242, 230.821, 49.142, 235.638, 54.353, 239.696, 59.835, 242.964, 65.547, 245.419, 71.446, 247.041, 77.485]
+        ],
+        "area": 31734.842944000004,
+        "bbox": [24.182, 19.048, 223.63600000000002, 141.904],
+        "iscrowd": 0,
+        "id": 264,
+        "image_id": 201,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [-38.621, 148.671, -37.926, 140.142, -36.319, 131.704, -33.811, 123.42, -30.422, 115.354, -26.177, 107.567, -21.109, 100.118, -15.256, 93.063, -8.663, 86.457, -1.379, 80.35, 6.538, 74.789, 15.03, 69.815, 24.032, 65.466, 33.475, 61.776, 43.287, 58.773, 53.394, 56.479, 63.718, 54.912, 74.182, 54.084, 84.705, 54.001, 95.207, 54.664, 105.609, 56.068, 115.832, 58.202, 125.796, 61.05, 135.428, 64.59, 144.653, 68.795, 153.401, 73.634, 161.606, 79.069, 169.205, 85.058, 176.14, 91.558, 182.358, 98.517, 187.813, 105.884, 192.463, 113.601, 196.272, 121.611, 199.211, 129.852, 201.258, 138.261, 202.398, 146.775, 202.621, 155.329, 201.926, 163.858, 200.319, 172.296, 197.811, 180.58, 194.422, 188.646, 190.177, 196.433, 185.109, 203.882, 179.256, 210.937, 172.663, 217.543, 165.379, 223.65, 157.462, 229.211, 148.97, 234.185, 139.968, 238.534, 130.525, 242.224, 120.713, 245.227, 110.606, 247.521, 100.282, 249.088, 89.818, 249.916, 79.295, 249.999, 68.793, 249.336, 58.391, 247.932, 48.168, 245.798, 38.204, 242.95, 28.572, 239.41, 19.347, 235.205, 10.599, 230.366, 2.394, 224.931, -5.205, 218.942, -12.14, 212.442, -18.358, 205.483, -23.813, 198.116, -28.463, 190.399, -32.272, 182.389, -35.211, 174.148, -37.258, 165.739, -38.398, 157.225]
+        ],
+        "area": 47282.949516,
+        "bbox": [-38.621, 54.001, 241.24200000000002, 195.998],
+        "iscrowd": 0,
+        "id": 265,
+        "image_id": 202,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [190, 129, 189.635, 136.583, 188.542, 144.107, 186.729, 151.517, 184.21, 158.756, 181.006, 165.768, 177.138, 172.5, 172.639, 178.901, 167.54, 184.923, 161.882, 190.518, 155.708, 195.646, 149.063, 200.266, 142, 204.344, 134.571, 207.849, 126.834, 210.753, 118.847, 213.036, 110.67, 214.678, 102.367, 215.669, 94, 216, 85.633, 215.669, 77.33, 214.678, 69.153, 213.036, 61.166, 210.753, 53.429, 207.849, 46, 204.344, 38.937, 200.266, 32.292, 195.646, 26.118, 190.518, 20.46, 184.923, 15.361, 178.901, 10.862, 172.5, 6.994, 165.768, 3.79, 158.756, 1.271, 151.517, -0.542, 144.107, -1.635, 136.583, -2, 129, -1.635, 121.417, -0.542, 113.893, 1.271, 106.483, 3.79, 99.244, 6.994, 92.232, 10.862, 85.5, 15.361, 79.099, 20.46, 73.077, 26.118, 67.482, 32.292, 62.354, 38.937, 57.734, 46, 53.656, 53.429, 50.151, 61.166, 47.247, 69.153, 44.964, 77.33, 43.322, 85.633, 42.331, 94, 42, 102.367, 42.331, 110.67, 43.322, 118.847, 44.964, 126.834, 47.247, 134.571, 50.151, 142, 53.656, 149.063, 57.734, 155.708, 62.354, 161.882, 67.482, 167.54, 73.077, 172.639, 79.099, 177.138, 85.5, 181.006, 92.232, 184.21, 99.244, 186.729, 106.483, 188.542, 113.893, 189.635, 121.417]
+        ],
+        "area": 33408,
+        "bbox": [-2, 42, 192, 174],
+        "iscrowd": 0,
+        "id": 266,
+        "image_id": 203,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [150.334, 134.674, 150.801, 140.356, 150.721, 146.065, 150.095, 151.759, 148.929, 157.393, 147.23, 162.926, 145.012, 168.314, 142.291, 173.518, 139.089, 178.497, 135.429, 183.213, 131.341, 187.631, 126.853, 191.717, 122.002, 195.44, 116.823, 198.771, 111.356, 201.685, 105.643, 204.161, 99.728, 206.178, 93.654, 207.722, 87.469, 208.782, 81.22, 209.348, 74.954, 209.417, 68.718, 208.988, 62.561, 208.065, 56.529, 206.654, 50.668, 204.766, 45.022, 202.415, 39.635, 199.62, 34.548, 196.402, 29.799, 192.785, 25.424, 188.797, 21.458, 184.467, 17.929, 179.83, 14.865, 174.92, 12.289, 169.775, 10.22, 164.434, 8.676, 158.937, 7.666, 153.326, 7.199, 147.644, 7.279, 141.935, 7.905, 136.241, 9.071, 130.607, 10.77, 125.074, 12.988, 119.686, 15.709, 114.482, 18.911, 109.503, 22.571, 104.787, 26.659, 100.369, 31.147, 96.283, 35.998, 92.56, 41.177, 89.229, 46.644, 86.315, 52.357, 83.839, 58.272, 81.822, 64.346, 80.278, 70.531, 79.218, 76.78, 78.652, 83.046, 78.583, 89.282, 79.012, 95.439, 79.935, 101.471, 81.346, 107.332, 83.234, 112.978, 85.585, 118.365, 88.38, 123.452, 91.598, 128.201, 95.215, 132.576, 99.203, 136.542, 103.533, 140.071, 108.17, 143.135, 113.08, 145.711, 118.225, 147.78, 123.566, 149.324, 129.063]
+        ],
+        "area": 18788.024068,
+        "bbox": [7.199, 78.583, 143.60199999999998, 130.834],
+        "iscrowd": 0,
+        "id": 267,
+        "image_id": 204,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [200.659, 87.644, 202.538, 95.088, 203.758, 102.668, 204.309, 110.327, 204.189, 118.006, 203.398, 125.647, 201.941, 133.191, 199.831, 140.582, 197.082, 147.764, 193.716, 154.68, 189.759, 161.279, 185.241, 167.511, 180.195, 173.328, 174.661, 178.686, 168.681, 183.544, 162.299, 187.865, 155.565, 191.617, 148.531, 194.77, 141.248, 197.3, 133.773, 199.189, 126.164, 200.423, 118.476, 200.99, 110.77, 200.888, 103.104, 200.118, 95.536, 198.684, 88.123, 196.598, 80.923, 193.876, 73.99, 190.538, 67.376, 186.611, 61.133, 182.123, 55.307, 177.109, 49.943, 171.607, 45.081, 165.659, 40.76, 159.31, 37.011, 152.609, 33.863, 145.606, 31.341, 138.356, 29.462, 130.912, 28.242, 123.332, 27.691, 115.673, 27.811, 107.994, 28.602, 100.353, 30.059, 92.809, 32.169, 85.418, 34.918, 78.236, 38.284, 71.32, 42.241, 64.721, 46.759, 58.489, 51.805, 52.672, 57.339, 47.314, 63.319, 42.456, 69.701, 38.135, 76.435, 34.383, 83.469, 31.23, 90.752, 28.7, 98.227, 26.811, 105.836, 25.577, 113.524, 25.01, 121.23, 25.112, 128.896, 25.882, 136.464, 27.316, 143.877, 29.402, 151.077, 32.124, 158.01, 35.462, 164.624, 39.389, 170.867, 43.877, 176.693, 48.891, 182.057, 54.393, 186.919, 60.341, 191.24, 66.69, 194.989, 73.391, 198.137, 80.394]
+        ],
+        "area": 31081.235640000003,
+        "bbox": [27.691, 25.01, 176.618, 175.98000000000002],
+        "iscrowd": 0,
+        "id": 268,
+        "image_id": 205,
+        "category_id": 24
+    }, {
+        "segmentation": [
+            [291, 76, 290.574, 82.537, 289.298, 89.024, 287.184, 95.411, 284.246, 101.652, 280.506, 107.696, 275.995, 113.5, 270.745, 119.018, 264.797, 124.209, 258.196, 129.033, 250.992, 133.453, 243.241, 137.436, 235, 140.952, 226.333, 143.973, 217.306, 146.477, 207.988, 148.444, 198.449, 149.861, 188.761, 150.715, 179, 151, 169.239, 150.715, 159.551, 149.861, 150.012, 148.444, 140.694, 146.477, 131.667, 143.973, 123, 140.952, 114.759, 137.436, 107.008, 133.453, 99.804, 129.033, 93.203, 124.209, 87.255, 119.018, 82.005, 113.5, 77.494, 107.696, 73.754, 101.652, 70.816, 95.411, 68.702, 89.024, 67.426, 82.537, 67, 76, 67.426, 69.463, 68.702, 62.976, 70.816, 56.589, 73.754, 50.348, 77.494, 44.304, 82.005, 38.5, 87.255, 32.982, 93.203, 27.791, 99.804, 22.967, 107.008, 18.547, 114.759, 14.564, 123, 11.048, 131.667, 8.027, 140.694, 5.523, 150.012, 3.556, 159.551, 2.139, 169.239, 1.285, 179, 1, 188.761, 1.285, 198.449, 2.139, 207.988, 3.556, 217.306, 5.523, 226.333, 8.027, 235, 11.048, 243.241, 14.564, 250.992, 18.547, 258.196, 22.967, 264.797, 27.791, 270.745, 32.982, 275.995, 38.5, 280.506, 44.304, 284.246, 50.348, 287.184, 56.589, 289.298, 62.976, 290.574, 69.463]
+        ],
+        "area": 33600,
+        "bbox": [67, 1, 224, 150],
+        "iscrowd": 0,
+        "id": 269,
+        "image_id": 206,
+        "category_id": 24
+    }],
+    "licenses": [{
+        "id": 0,
+        "name": "Unknown License",
+        "url": ""
+    }],
+    "categories": [{
+        "supercategory": "food",
+        "id": 1,
+        "name": "briyani"
+    }, {
+        "supercategory": "food",
+        "id": 2,
+        "name": "boiled noodles"
+    }, {
+        "supercategory": "food",
+        "id": 3,
+        "name": "bol renverse"
+    }, {
+        "supercategory": "food",
+        "id": 4,
+        "name": "bread"
+    }, {
+        "supercategory": "food",
+        "id": 5,
+        "name": "daube"
+    }, {
+        "supercategory": "food",
+        "id": 6,
+        "name": "tandoori"
+    }, {
+        "supercategory": "food",
+        "id": 7,
+        "name": "dholl"
+    }, {
+        "supercategory": "food",
+        "id": 8,
+        "name": "dholl puri"
+    }, {
+        "supercategory": "food",
+        "id": 9,
+        "name": "french fries"
+    }, {
+        "supercategory": "food",
+        "id": 10,
+        "name": "fried chicken"
+    }, {
+        "supercategory": "food",
+        "id": 11,
+        "name": "fried noodles"
+    }, {
+        "supercategory": "food",
+        "id": 12,
+        "name": "fried rice"
+    }, {
+        "supercategory": "food",
+        "id": 13,
+        "name": "gateau piment"
+    }, {
+        "supercategory": "food",
+        "id": 14,
+        "name": "chicken bbq"
+    }, {
+        "supercategory": "food",
+        "id": 15,
+        "name": "lentils"
+    }, {
+        "supercategory": "food",
+        "id": 16,
+        "name": "naan"
+    }, {
+        "supercategory": "food",
+        "id": 17,
+        "name": "roti"
+    }, {
+        "supercategory": "food",
+        "id": 18,
+        "name": "red beans"
+    }, {
+        "supercategory": "food",
+        "id": 19,
+        "name": "rougaille saucisse"
+    }, {
+        "supercategory": "food",
+        "id": 20,
+        "name": "chicken"
+    }, {
+        "supercategory": "food",
+        "id": 21,
+        "name": "fried egg"
+    }, {
+        "supercategory": "food",
+        "id": 22,
+        "name": "meat"
+    }, {
+        "supercategory": "food",
+        "id": 23,
+        "name": "lamb bbq"
+    }, {
+        "supercategory": "food",
+        "id": 24,
+        "name": "white rice"
+    }, {
+        "supercategory": "food",
+        "id": 25,
+        "name": "brown rice"
+    }]
+}

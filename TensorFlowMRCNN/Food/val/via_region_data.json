@@ -1,0 +1,3733 @@
+{
+    "boiled-noodles (1).jpeg8454": {
+        "filename": "boiled-noodles (1).jpeg",
+        "size": 8454,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [35, 52, 86, 124, 160, 165, 147, 97, 54, 34, 28],
+                "all_points_y": [114, 100, 95, 107, 127, 148, 181, 194, 183, 151, 127]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [135, 115, 94, 89, 94, 121, 146, 164, 155],
+                "all_points_y": [179, 177, 168, 148, 130, 121, 120, 149, 173]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (2).jpeg7301": {
+        "filename": "boiled-noodles (2).jpeg",
+        "size": 7301,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [88, 46, 35, 67, 120, 187, 242, 249, 198, 130],
+                "all_points_y": [171, 142, 93, 32, 15, 20, 75, 141, 187, 190]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [120, 133, 137, 126, 104, 56, 41, 37, 53, 71, 94],
+                "all_points_y": [152, 124, 71, 50, 19, 46, 80, 120, 151, 167, 164]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (3).jpeg9800": {
+        "filename": "boiled-noodles (3).jpeg",
+        "size": 9800,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [21, 52, 101, 165, 236, 241, 205, 116, 45, 18, 16],
+                "all_points_y": [86, 45, 31, 31, 66, 115, 145, 164, 146, 125, 102]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [188, 144, 86, 56, 40, 56, 98, 148, 189, 198],
+                "all_points_y": [112, 125, 126, 112, 85, 53, 37, 37, 48, 90]
+            },
+            "region_attributes": {
+                "food": "24"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (4).jpeg8969": {
+        "filename": "boiled-noodles (4).jpeg",
+        "size": 8969,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [29, 38, 64, 93, 122, 153, 174, 191, 222, 251, 257, 248, 199, 124, 75],
+                "all_points_y": [104, 61, 45, 47, 52, 47, 34, 26, 31, 53, 87, 115, 134, 137, 132]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (5).jpeg7363": {
+        "filename": "boiled-noodles (5).jpeg",
+        "size": 7363,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [111, 134, 173, 199, 204, 195, 161, 126, 117, 115, 126, 137, 135, 129, 130, 127, 117],
+                "all_points_y": [78, 63, 58, 75, 107, 139, 153, 148, 135, 124, 124, 116, 109, 108, 100, 92, 87]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (6).jpeg8466": {
+        "filename": "boiled-noodles (6).jpeg",
+        "size": 8466,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [22, 0, 0, 65, 147, 183, 193, 187, 99, 65],
+                "all_points_y": [173, 159, 13, 35, 85, 148, 183, 194, 193, 194]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (7).jpeg9333": {
+        "filename": "boiled-noodles (7).jpeg",
+        "size": 9333,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [21, 15, 37, 62, 119, 149, 172, 165, 130, 94, 73, 48],
+                "all_points_y": [162, 105, 66, 43, 44, 82, 123, 160, 181, 187, 192, 184]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "boiled-noodles (8).jpeg8834": {
+        "filename": "boiled-noodles (8).jpeg",
+        "size": 8834,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [0, 41, 113, 189, 235, 258, 258, 1],
+                "all_points_y": [54, 35, 33, 51, 73, 81, 194, 193]
+            },
+            "region_attributes": {
+                "food": "2"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bolrenverse (1).jpeg8800": {
+        "filename": "bolrenverse (1).jpeg",
+        "size": 8800,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [9, 2, 4, 16, 36, 68, 97, 130, 163, 191, 192, 174, 137, 101, 64, 33, 26],
+                "all_points_y": [145, 133, 104, 44, 20, 6, 3, 8, 33, 83, 126, 153, 173, 179, 179, 170, 163]
+            },
+            "region_attributes": {
+                "food": "3"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [86, 110, 149, 152, 151, 134, 109, 75, 47, 24, 21, 32, 64],
+                "all_points_y": [89, 88, 58, 38, 23, 8, 3, 5, 12, 31, 52, 72, 82]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bolrenverse (2).jpeg10867": {
+        "filename": "bolrenverse (2).jpeg",
+        "size": 10867,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [70, 72, 76, 92, 126, 166, 198, 203, 201, 182, 186, 195, 155, 110, 90],
+                "all_points_y": [152, 117, 92, 69, 61, 62, 86, 109, 121, 126, 142, 161, 168, 168, 164]
+            },
+            "region_attributes": {
+                "food": "3"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [142, 105, 78, 71, 89, 112, 147, 181, 210, 209, 181, 164],
+                "all_points_y": [123, 113, 105, 103, 70, 59, 58, 67, 92, 104, 116, 119]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bolrenverse (3).jpeg8385": {
+        "filename": "bolrenverse (3).jpeg",
+        "size": 8385,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [76, 82, 96, 114, 143, 167, 198, 237, 236, 228, 216, 188, 140, 93, 85],
+                "all_points_y": [98, 62, 38, 26, 18, 15, 28, 65, 91, 125, 149, 156, 163, 146, 128]
+            },
+            "region_attributes": {
+                "food": "3"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [184, 181, 147, 122, 95, 110, 170, 202, 219, 211, 191],
+                "all_points_y": [74, 70, 73, 72, 50, 33, 17, 30, 44, 58, 68]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bolrenverse (4).jpeg7582": {
+        "filename": "bolrenverse (4).jpeg",
+        "size": 7582,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [30, 18, 21, 27, 66, 106, 152, 190, 215, 224, 224, 205, 164, 114, 79, 61],
+                "all_points_y": [146, 123, 83, 44, 12, 4, 3, 7, 26, 65, 120, 152, 169, 174, 169, 160]
+            },
+            "region_attributes": {
+                "food": "3"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [141, 161, 211, 215, 216, 180, 137, 107, 85, 57, 32, 28, 32, 36, 64, 90, 121],
+                "all_points_y": [110, 100, 68, 53, 34, 12, 3, 3, 8, 19, 30, 42, 68, 89, 99, 108, 115]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bolrenverse (6).jpeg10697": {
+        "filename": "bolrenverse (6).jpeg",
+        "size": 10697,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [66, 38, 39, 52, 64, 78, 104, 135, 164, 185, 194, 191, 188, 163, 138, 108],
+                "all_points_y": [156, 140, 116, 70, 40, 34, 31, 34, 45, 65, 94, 126, 149, 157, 167, 168]
+            },
+            "region_attributes": {
+                "food": "3"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [97, 111, 135, 169, 187, 182, 152, 134, 102, 85, 68, 62, 64, 76],
+                "all_points_y": [80, 79, 78, 78, 76, 60, 39, 36, 36, 36, 41, 46, 56, 69]
+            },
+            "region_attributes": {
+                "food": "23"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (1).jpeg12296": {
+        "filename": "bread (1).jpeg",
+        "size": 12296,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [56, 31, 25, 34, 56, 92, 167, 245, 266, 266, 234, 197, 164, 97, 68],
+                "all_points_y": [111, 100, 74, 59, 55, 66, 87, 116, 128, 146, 162, 167, 161, 127, 117]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [206, 200, 202, 207, 211, 217, 233, 238, 237, 222],
+                "all_points_y": [72, 66, 54, 32, 21, 19, 26, 39, 59, 74]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (1).jpg12404": {
+        "filename": "bread (1).jpg",
+        "size": 12404,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [80, 135, 178, 200, 208, 208, 204, 173, 146, 114, 81, 47, 34, 23, 14, 17, 34, 51, 58],
+                "all_points_y": [203, 208, 192, 163, 134, 105, 81, 39, 25, 21, 21, 34, 61, 73, 107, 145, 170, 190, 195]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (2).jpeg7487": {
+        "filename": "bread (2).jpeg",
+        "size": 7487,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [101, 64, 43, 28, 18, 37, 115, 140, 189, 220, 234, 235, 172, 138],
+                "all_points_y": [197, 186, 177, 162, 149, 118, 52, 43, 41, 45, 61, 125, 182, 208]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (3).jpeg6375": {
+        "filename": "bread (3).jpeg",
+        "size": 6375,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 104, 97, 69, 31, 9, 1, 0],
+                "all_points_y": [122, 139, 161, 165, 161, 155, 151, 149]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [33, 43, 104, 100, 111, 130, 155, 182, 182, 161, 134, 93, 67, 42, 35],
+                "all_points_y": [111, 127, 139, 150, 154, 150, 126, 96, 14, 13, 24, 46, 64, 86, 94]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (3).jpg7602": {
+        "filename": "bread (3).jpg",
+        "size": 7602,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [6, 31, 96, 122, 213, 242, 255, 258, 254, 245, 214, 175, 67, 21, 3, 2],
+                "all_points_y": [125, 113, 104, 102, 102, 108, 116, 129, 143, 152, 159, 160, 162, 162, 149, 134]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (4).jpg10006": {
+        "filename": "bread (4).jpg",
+        "size": 10006,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [135, 228, 90, 74, 68, 74, 89, 107],
+                "all_points_y": [66, 1, 1, 29, 57, 75, 86, 81]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [119, 104, 93, 94, 99, 113, 133, 170, 213, 213, 221, 248, 277, 299, 299, 223],
+                "all_points_y": [75, 101, 118, 134, 148, 156, 157, 144, 106, 90, 78, 68, 46, 25, 1, 1]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "bread (5).jpg6695": {
+        "filename": "bread (5).jpg",
+        "size": 6695,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [31, 23, 22, 35, 48, 67, 92, 128, 143, 149, 155, 157, 143, 131, 105, 73, 49, 41],
+                "all_points_y": [138, 97, 57, 30, 12, 5, 1, 10, 35, 73, 115, 143, 168, 182, 185, 182, 174, 163]
+            },
+            "region_attributes": {
+                "food": "4"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (1).jpeg12274": {
+        "filename": "briani (1).jpeg",
+        "size": 12274,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [3, 48, 184, 256, 252, 212, 47, 14, 7],
+                "all_points_y": [73, 2, 1, 76, 154, 192, 192, 159, 122]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (2).jpeg12626": {
+        "filename": "briani (2).jpeg",
+        "size": 12626,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [20, 12, 14, 31, 107, 155, 199, 231, 242, 226, 196, 138, 63],
+                "all_points_y": [154, 117, 61, 39, 9, 9, 29, 54, 116, 157, 183, 183, 175]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [126, 95, 82, 92, 106, 134, 153, 156],
+                "all_points_y": [83, 80, 69, 38, 34, 40, 49, 78]
+            },
+            "region_attributes": {
+                "food": "24"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (3).jpeg13618": {
+        "filename": "briani (3).jpeg",
+        "size": 13618,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 65, 104, 153, 212, 243, 258, 256, 250, 217, 160, 7, 0, 1],
+                "all_points_y": [53, 22, 11, 17, 33, 67, 85, 122, 152, 173, 194, 194, 178, 59]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (5).jpeg11166": {
+        "filename": "briani (5).jpeg",
+        "size": 11166,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [43, 35, 69, 98, 123, 126, 132, 131, 117, 110, 98, 95, 107, 124, 129, 135, 140, 151, 153, 156, 165, 180, 193, 202, 206, 206, 180, 128, 103, 87, 64],
+                "all_points_y": [150, 111, 46, 10, 3, 34, 48, 51, 43, 49, 55, 60, 68, 71, 71, 73, 85, 91, 88, 75, 77, 79, 73, 70, 88, 119, 169, 193, 193, 184, 175]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [22, 33, 52, 64, 95, 97, 92, 102, 117, 126, 129, 125, 126, 117, 99, 93, 90, 80, 71, 60, 44, 38],
+                "all_points_y": [74, 84, 96, 81, 72, 66, 59, 52, 44, 46, 46, 29, 6, 3, 10, 21, 30, 43, 50, 54, 66, 68]
+            },
+            "region_attributes": {
+                "food": "21"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (6).jpeg12549": {
+        "filename": "briani (6).jpeg",
+        "size": 12549,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [3, 48, 120, 184, 235, 265, 255, 251, 260, 283, 292, 297, 296, 261, 61, 1],
+                "all_points_y": [50, 3, 2, 4, 11, 25, 34, 38, 43, 57, 77, 93, 132, 167, 167, 142]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (7).jpeg9882": {
+        "filename": "briani (7).jpeg",
+        "size": 9882,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 42, 69, 97, 123, 163, 249, 251, 223, 94, 2],
+                "all_points_y": [64, 49, 38, 35, 44, 68, 126, 139, 151, 183, 183]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (8).jpeg9947": {
+        "filename": "briani (8).jpeg",
+        "size": 9947,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [81, 114, 240, 265, 266, 255, 210, 157, 103, 75, 71, 92],
+                "all_points_y": [21, 1, 2, 50, 89, 120, 149, 159, 147, 129, 109, 67]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "briani (9).jpeg12007": {
+        "filename": "briani (9).jpeg",
+        "size": 12007,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [38, 19, 10, 5, 17, 32, 68, 78, 71, 64, 65, 74, 98, 121, 124, 123, 152, 156, 167, 159, 171, 183, 212, 222, 241, 241, 246, 249, 229, 204, 121, 83, 47],
+                "all_points_y": [158, 136, 132, 106, 73, 65, 52, 24, 20, 14, 6, 3, 2, 8, 18, 25, 8, 12, 31, 54, 72, 86, 66, 62, 74, 94, 123, 160, 184, 192, 191, 188, 171]
+            },
+            "region_attributes": {
+                "food": "1"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [48, 73, 113, 119, 90, 73, 64, 69, 75, 72, 46, 25, 9, 3, 2, 19, 29],
+                "all_points_y": [138, 105, 25, 13, 3, 2, 8, 18, 27, 52, 60, 66, 78, 100, 123, 138, 138]
+            },
+            "region_attributes": {
+                "food": "21"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (1).jpeg9642": {
+        "filename": "brown rice (1).jpeg",
+        "size": 9642,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 84, 132, 216, 223, 222, 132, 18, 9, 2],
+                "all_points_y": [158, 216, 218, 166, 142, 25, 2, 4, 14, 38]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (1).jpg12326": {
+        "filename": "brown rice (1).jpg",
+        "size": 12326,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [3, 33, 65, 74, 88, 95, 93, 54, 25, 4],
+                "all_points_y": [76, 36, 30, 34, 87, 210, 246, 243, 226, 208]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (2).jpeg8196": {
+        "filename": "brown rice (2).jpeg",
+        "size": 8196,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [29, 72, 95, 179, 211, 235, 245, 200, 157, 94, 42, 36],
+                "all_points_y": [64, 22, 3, 1, 21, 54, 93, 110, 120, 113, 91, 87]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (3).jpeg9393": {
+        "filename": "brown rice (3).jpeg",
+        "size": 9393,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [20, 82, 133, 181, 262, 256, 241, 192, 89, 36, 25, 19],
+                "all_points_y": [118, 139, 146, 146, 88, 55, 39, 39, 20, 56, 72, 90]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (4).jpeg10916": {
+        "filename": "brown rice (4).jpeg",
+        "size": 10916,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [55, 24, 24, 37, 42, 48, 240, 267, 247, 236],
+                "all_points_y": [1, 44, 81, 121, 147, 165, 167, 85, 6, 1]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (5).jpeg7571": {
+        "filename": "brown rice (5).jpeg",
+        "size": 7571,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [73, 94, 196, 231, 238, 226, 204, 200, 90, 69, 57, 54],
+                "all_points_y": [141, 168, 166, 121, 82, 41, 18, 15, 17, 44, 80, 111]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (6).jpeg8504": {
+        "filename": "brown rice (6).jpeg",
+        "size": 8504,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [12, 27, 47, 225, 277, 281, 258, 226, 84, 62, 40],
+                "all_points_y": [114, 33, 2, 1, 56, 100, 132, 166, 167, 165, 144]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "brown rice (7).jpeg9712": {
+        "filename": "brown rice (7).jpeg",
+        "size": 9712,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [0, 55, 81, 96, 151, 183, 189, 193, 176, 137, 103, 73, 53, 20, 51, 120, 170, 205, 222, 212, 2, 2],
+                "all_points_y": [187, 131, 135, 145, 114, 56, 52, 75, 115, 148, 157, 152, 182, 207, 203, 182, 152, 121, 93, 2, 1, 183]
+            },
+            "region_attributes": {
+                "food": "27"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (1).jpeg13992": {
+        "filename": "daube (1).jpeg",
+        "size": 13992,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [208, 178, 167, 162, 168, 187, 227, 252, 258, 255],
+                "all_points_y": [5, 25, 51, 73, 100, 127, 151, 157, 158, 3]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (2).jpeg14781": {
+        "filename": "daube (2).jpeg",
+        "size": 14781,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [46, 23, 29, 47, 80, 100, 146, 178, 189, 191, 181, 164, 132, 95, 68],
+                "all_points_y": [182, 136, 94, 75, 59, 53, 63, 79, 112, 144, 171, 191, 207, 211, 202]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (2).jpg13540": {
+        "filename": "daube (2).jpg",
+        "size": 13540,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [36, 15, 30, 49, 130, 172, 219, 236, 242, 213, 154, 94],
+                "all_points_y": [136, 109, 65, 45, 27, 31, 49, 80, 113, 140, 157, 153]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (3).jpeg11330": {
+        "filename": "daube (3).jpeg",
+        "size": 11330,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [39, 18, 29, 72, 114, 149, 178, 187, 186, 161, 131, 82, 63],
+                "all_points_y": [170, 134, 76, 40, 34, 46, 69, 102, 145, 178, 195, 198, 190]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [65, 45, 36, 40, 57, 74, 90, 106, 105, 90, 76, 71],
+                "all_points_y": [174, 168, 157, 141, 137, 159, 175, 187, 195, 197, 184, 176]
+            },
+            "region_attributes": {
+                "food": "21"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (3).jpg11090": {
+        "filename": "daube (3).jpg",
+        "size": 11090,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 3, 29, 78, 119, 149, 157, 154, 125, 135, 169, 213, 223, 222, 190, 125, 66, 42],
+                "all_points_y": [168, 107, 138, 138, 134, 113, 86, 56, 18, 13, 14, 41, 58, 175, 202, 206, 204, 196]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 0, 12, 38, 55, 71, 86, 78, 92, 107, 126, 131, 142, 151, 146, 135, 119, 108, 123, 117, 93, 79, 53, 14],
+                "all_points_y": [102, 69, 48, 51, 53, 70, 44, 37, 32, 42, 34, 29, 43, 67, 101, 82, 71, 93, 100, 114, 123, 131, 131, 114]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (4).jpeg12157": {
+        "filename": "daube (4).jpeg",
+        "size": 12157,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [123, 132, 145, 155, 190, 245, 275, 295, 297, 272, 238, 207, 179, 154, 146, 143, 134, 127, 123],
+                "all_points_y": [110, 125, 141, 143, 144, 144, 140, 113, 78, 45, 34, 28, 28, 33, 37, 50, 83, 99, 100]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (4).jpg17329": {
+        "filename": "daube (4).jpg",
+        "size": 17329,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [18, 26, 61, 103, 144, 176, 190, 191, 43, 29],
+                "all_points_y": [146, 81, 35, 14, 11, 19, 27, 206, 206, 179]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (5).jpeg11110": {
+        "filename": "daube (5).jpeg",
+        "size": 11110,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [25, 18, 53, 73, 116, 161, 188, 208, 212, 195, 163, 108, 65, 37],
+                "all_points_y": [135, 93, 27, 13, 5, 12, 27, 64, 108, 167, 189, 196, 187, 164]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (5).jpg16169": {
+        "filename": "daube (5).jpg",
+        "size": 16169,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [51, 42, 46, 63, 88, 108, 129, 130, 124, 101, 75, 63],
+                "all_points_y": [111, 96, 82, 73, 68, 75, 87, 102, 115, 124, 124, 122]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [4, 11, 17, 23, 28, 37, 67, 97, 88, 61, 45, 43, 22, 11, 4],
+                "all_points_y": [176, 139, 108, 92, 94, 115, 132, 148, 159, 164, 173, 182, 187, 185, 185]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (6).jpg14491": {
+        "filename": "daube (6).jpg",
+        "size": 14491,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [47, 27, 37, 96, 135, 171, 190, 195, 155, 84, 61],
+                "all_points_y": [176, 130, 69, 37, 39, 53, 80, 193, 203, 204, 198]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (7).jpg10737": {
+        "filename": "daube (7).jpg",
+        "size": 10737,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 3, 40, 154, 202, 195, 182, 142, 102, 63, 29, 18],
+                "all_points_y": [71, 181, 205, 206, 155, 77, 57, 32, 24, 28, 41, 48]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "daube (8).jpg18736": {
+        "filename": "daube (8).jpg",
+        "size": 18736,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [21, 20, 51, 92, 179, 232, 260, 249, 204, 159, 98, 58],
+                "all_points_y": [116, 59, 20, 2, 7, 34, 76, 121, 152, 168, 163, 152]
+            },
+            "region_attributes": {
+                "food": "5"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (1).jpeg11577": {
+        "filename": "dholl (1).jpeg",
+        "size": 11577,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [14, 20, 37, 62, 96, 130, 165, 179, 206, 198, 187, 167, 123, 70, 36, 19],
+                "all_points_y": [108, 99, 71, 49, 38, 39, 47, 66, 111, 140, 158, 184, 202, 196, 171, 134]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (1).jpg12164": {
+        "filename": "dholl (1).jpg",
+        "size": 12164,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [37, 48, 75, 115, 150, 189, 205, 183, 186, 210, 227, 230, 219, 180, 110, 77, 58, 47],
+                "all_points_y": [102, 54, 25, 12, 12, 26, 38, 61, 68, 46, 69, 102, 138, 171, 177, 159, 144, 130]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (2).jpeg8768": {
+        "filename": "dholl (2).jpeg",
+        "size": 8768,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [30, 51, 104, 152, 189, 217, 218, 198, 139, 76, 44, 33],
+                "all_points_y": [81, 34, 10, 12, 30, 56, 99, 136, 161, 153, 127, 102]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (2).jpg8171": {
+        "filename": "dholl (2).jpg",
+        "size": 8171,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [19, 38, 75, 118, 142, 159, 170, 161, 148, 120, 64, 33, 19, 12, 15],
+                "all_points_y": [109, 78, 63, 64, 80, 106, 136, 175, 194, 214, 214, 194, 171, 143, 123]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (3).jpeg9321": {
+        "filename": "dholl (3).jpeg",
+        "size": 9321,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [25, 22, 42, 60, 93, 123, 157, 176, 168, 150, 98, 55, 40],
+                "all_points_y": [148, 104, 80, 67, 58, 59, 78, 123, 149, 174, 190, 176, 169]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (3).jpg11835": {
+        "filename": "dholl (3).jpg",
+        "size": 11835,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [11, 1, 2, 41, 68, 122, 150, 170, 184, 175, 170, 150, 116, 95, 80, 57, 41],
+                "all_points_y": [180, 174, 64, 46, 36, 45, 48, 77, 98, 133, 164, 173, 184, 200, 199, 187, 183]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl (4).jpeg7639": {
+        "filename": "dholl (4).jpeg",
+        "size": 7639,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [26, 20, 41, 76, 110, 139, 143, 103, 61, 39],
+                "all_points_y": [131, 100, 68, 55, 64, 86, 128, 156, 155, 145]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (1).jpeg5428": {
+        "filename": "dholl-puri (1).jpeg",
+        "size": 5428,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [32, 21, 29, 52, 67, 80, 91, 103, 257, 275, 272, 262, 243, 206, 179, 143, 99, 62],
+                "all_points_y": [110, 57, 32, 23, 20, 4, 2, 2, 93, 112, 140, 161, 166, 161, 152, 166, 163, 145]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (1).jpg10872": {
+        "filename": "dholl-puri (1).jpg",
+        "size": 10872,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [38, 23, 62, 85, 131, 168, 164, 143, 121, 110, 145, 166, 196, 196, 180, 172, 175, 205, 222, 219, 198, 166, 118, 53],
+                "all_points_y": [145, 99, 17, 7, 7, 15, 31, 47, 71, 123, 146, 122, 104, 74, 40, 24, 19, 36, 68, 116, 158, 179, 181, 163]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (2).jpeg6329": {
+        "filename": "dholl-puri (2).jpeg",
+        "size": 6329,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [95, 74, 88, 91, 99, 130, 152, 174, 174, 175, 151, 116],
+                "all_points_y": [134, 117, 78, 37, 17, 10, 9, 30, 91, 139, 153, 146]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (2).jpg12959": {
+        "filename": "dholl-puri (2).jpg",
+        "size": 12959,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [148, 102, 93, 56, 67, 90, 107, 117, 131, 139, 147, 143, 145, 157, 162, 143, 138, 136, 160, 184, 202, 213, 208, 177],
+                "all_points_y": [157, 151, 132, 91, 72, 67, 77, 94, 100, 91, 78, 59, 52, 64, 72, 89, 115, 133, 137, 127, 123, 143, 161, 166]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (3).jpeg7135": {
+        "filename": "dholl-puri (3).jpeg",
+        "size": 7135,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [38, 77, 152, 196, 191, 153, 102, 52, 5],
+                "all_points_y": [108, 87, 37, 34, 22, 9, 8, 8, 29]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (3).jpg7317": {
+        "filename": "dholl-puri (3).jpg",
+        "size": 7317,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [129, 151, 187, 236, 238, 162, 148, 126, 91, 82, 92],
+                "all_points_y": [144, 123, 94, 36, 24, 27, 47, 71, 111, 133, 143]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (4).jpeg5520": {
+        "filename": "dholl-puri (4).jpeg",
+        "size": 5520,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [28, 2, 2, 35, 117, 183, 229, 247, 251, 256, 239, 179, 107],
+                "all_points_y": [149, 128, 80, 43, 23, 11, 21, 40, 56, 95, 164, 177, 178]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (4).jpg7630": {
+        "filename": "dholl-puri (4).jpg",
+        "size": 7630,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [99, 137, 148, 143, 119, 92, 58, 31, 15, 2, 3, 11],
+                "all_points_y": [225, 181, 154, 133, 110, 92, 90, 96, 117, 129, 206, 225]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (5).jpeg5777": {
+        "filename": "dholl-puri (5).jpeg",
+        "size": 5777,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [72, 35, 3, 26, 55, 93, 140, 176, 224, 252, 269, 270, 224, 155, 106],
+                "all_points_y": [171, 158, 85, 32, 17, 9, 17, 24, 47, 72, 105, 149, 168, 182, 181]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (6).jpg11410": {
+        "filename": "dholl-puri (6).jpg",
+        "size": 11410,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [56, 21, 4, 2, 10, 54, 108, 143, 188, 218, 242, 256, 246, 193, 154, 95, 69],
+                "all_points_y": [183, 159, 143, 109, 63, 45, 28, 20, 22, 39, 83, 122, 163, 182, 194, 194, 192]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (7).jpeg5981": {
+        "filename": "dholl-puri (7).jpeg",
+        "size": 5981,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 22, 250, 236, 198, 131, 83, 46, 11, 2],
+                "all_points_y": [20, 1, 2, 59, 117, 150, 159, 154, 136, 120]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "dholl-puri (10).jpeg5460": {
+        "filename": "dholl-puri (10).jpeg",
+        "size": 5460,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [61, 51, 88, 137, 208, 240, 246, 241, 183, 122],
+                "all_points_y": [190, 131, 113, 106, 94, 91, 120, 144, 168, 177]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [34, 12, 10, 7, 35, 76, 148, 213, 232, 238, 220, 125, 79],
+                "all_points_y": [117, 115, 92, 72, 58, 53, 53, 54, 58, 92, 101, 116, 117]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [42, 14, 14, 10, 18, 43, 81, 196, 214, 217, 206],
+                "all_points_y": [64, 57, 39, 20, 5, 4, 13, 25, 27, 49, 64]
+            },
+            "region_attributes": {
+                "food": "8"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (1).jpeg16183": {
+        "filename": "fried-chicken (1).jpeg",
+        "size": 16183,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [133, 140, 148, 173, 203, 211, 211, 164, 143],
+                "all_points_y": [148, 93, 48, 45, 68, 92, 114, 140, 156]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [80, 62, 56, 51, 56, 70, 91, 123, 137, 148, 153, 143, 115],
+                "all_points_y": [155, 148, 124, 95, 81, 78, 97, 80, 79, 90, 111, 143, 164]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (2).jpeg12730": {
+        "filename": "fried-chicken (2).jpeg",
+        "size": 12730,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [101, 77, 68, 66, 84, 111, 141, 154, 158, 150, 154, 145, 105, 105, 104],
+                "all_points_y": [183, 156, 128, 92, 62, 51, 68, 109, 157, 186, 212, 225, 216, 200, 185]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (3).jpeg14371": {
+        "filename": "fried-chicken (3).jpeg",
+        "size": 14371,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [142, 79, 55, 53, 76, 94, 121, 146, 154, 174, 191, 192, 190, 182, 168, 151],
+                "all_points_y": [115, 102, 76, 32, 4, 4, 17, 58, 76, 82, 94, 106, 122, 133, 131, 117]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [11, 47, 67, 114, 138, 179, 179, 170, 62, 39, 18, 9],
+                "all_points_y": [142, 134, 134, 117, 111, 135, 160, 180, 181, 181, 181, 167]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (4).jpeg9517": {
+        "filename": "fried-chicken (4).jpeg",
+        "size": 9517,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [143, 170, 195, 215, 248, 254, 226, 172, 125, 126],
+                "all_points_y": [160, 180, 182, 176, 147, 111, 97, 100, 133, 146]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [48, 93, 126, 126, 49, 25, 16, 17],
+                "all_points_y": [167, 172, 170, 150, 104, 108, 126, 162]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [27, 21, 55, 88, 150, 164, 164, 149, 122, 88, 46, 17, 7, 4, 16],
+                "all_points_y": [104, 106, 99, 106, 90, 91, 71, 31, 13, 11, 17, 36, 56, 86, 100]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [169, 167, 182, 223, 251, 263, 269, 264, 233, 202, 185, 177],
+                "all_points_y": [66, 83, 94, 91, 104, 107, 78, 35, 8, 7, 51, 63]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (5).jpeg13009": {
+        "filename": "fried-chicken (5).jpeg",
+        "size": 13009,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [90, 60, 55, 85, 104, 125, 152, 176, 181, 182, 167, 112],
+                "all_points_y": [156, 141, 117, 90, 91, 100, 113, 113, 117, 145, 149, 156]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (6).jpeg12392": {
+        "filename": "fried-chicken (6).jpeg",
+        "size": 12392,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [173, 136, 118, 129, 151, 177, 200, 233, 258, 257, 216, 193],
+                "all_points_y": [113, 86, 52, 27, 15, 19, 42, 66, 88, 139, 106, 110]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (7).jpeg12851": {
+        "filename": "fried-chicken (7).jpeg",
+        "size": 12851,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [102, 136, 173, 189, 227, 191, 151, 128, 109, 111, 95, 82, 61, 52, 55, 88],
+                "all_points_y": [135, 116, 109, 112, 73, 33, 20, 22, 38, 60, 84, 90, 101, 127, 135, 140]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (8).jpeg10687": {
+        "filename": "fried-chicken (8).jpeg",
+        "size": 10687,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [133, 127, 103, 95, 101, 121, 133, 169, 213, 193, 161, 134],
+                "all_points_y": [118, 100, 99, 78, 58, 52, 68, 88, 133, 149, 164, 143]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (9).jpeg11189": {
+        "filename": "fried-chicken (9).jpeg",
+        "size": 11189,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [126, 114, 98, 82, 61, 41, 32, 72, 81, 99, 121],
+                "all_points_y": [56, 106, 150, 174, 185, 181, 159, 60, 46, 33, 37]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (10).jpeg11823": {
+        "filename": "fried-chicken (10).jpeg",
+        "size": 11823,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [103, 108, 117, 125, 125, 121, 108, 91, 81, 81, 77, 78, 92, 99],
+                "all_points_y": [124, 109, 96, 84, 71, 57, 57, 68, 83, 109, 126, 141, 137, 129]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [34, 51, 76, 82, 83, 81, 62, 44, 27, 15, 10, 8, 20, 29],
+                "all_points_y": [96, 104, 111, 104, 89, 81, 74, 73, 64, 61, 68, 79, 83, 88]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (11).jpeg10983": {
+        "filename": "fried-chicken (11).jpeg",
+        "size": 10983,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [148, 131, 133, 115, 123, 131, 147, 167, 170, 168, 185, 205, 209, 207, 196, 181, 158, 152],
+                "all_points_y": [131, 106, 66, 28, 8, 6, 5, 10, 26, 42, 65, 83, 108, 128, 146, 153, 149, 140]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [105, 70, 59, 55, 42, 51, 60, 82, 103, 113, 121, 130, 137, 134, 124],
+                "all_points_y": [132, 139, 128, 100, 65, 39, 28, 21, 20, 23, 40, 53, 71, 111, 125]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-chicken (12).jpeg11229": {
+        "filename": "fried-chicken (12).jpeg",
+        "size": 11229,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [67, 99, 136, 186, 190, 178, 140, 55, 43, 33, 25, 14, 25, 48],
+                "all_points_y": [110, 107, 105, 78, 58, 45, 40, 26, 28, 40, 71, 89, 103, 105]
+            },
+            "region_attributes": {
+                "food": "10"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (1).jpeg12296": {
+        "filename": "fried-noodles (1).jpeg",
+        "size": 12296,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [51, 108, 170, 208, 237, 248, 223, 196, 150, 103, 67, 45, 17, 19, 27],
+                "all_points_y": [141, 149, 149, 136, 128, 113, 90, 76, 62, 65, 79, 96, 112, 122, 129]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (1).jpg11315": {
+        "filename": "fried-noodles (1).jpg",
+        "size": 11315,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [81, 42, 7, 11, 68, 113, 156, 222, 251, 262, 248, 209, 168],
+                "all_points_y": [176, 156, 134, 59, 23, 6, 6, 17, 43, 100, 158, 179, 182]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (2).jpeg14733": {
+        "filename": "fried-noodles (2).jpeg",
+        "size": 14733,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [4, 23, 52, 89, 105, 110, 125, 138, 138, 128, 108, 53, 26, 2],
+                "all_points_y": [41, 29, 30, 46, 68, 97, 107, 105, 122, 154, 178, 204, 205, 199]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (3).jpeg11725": {
+        "filename": "fried-noodles (3).jpeg",
+        "size": 11725,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [69, 25, 44, 74, 124, 158, 201, 225, 162, 128, 99],
+                "all_points_y": [185, 96, 73, 56, 48, 45, 87, 122, 157, 177, 186]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (4).jpeg13947": {
+        "filename": "fried-noodles (4).jpeg",
+        "size": 13947,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [66, 19, 28, 87, 195, 225, 253, 270, 272, 144],
+                "all_points_y": [180, 74, 29, 2, 1, 19, 45, 71, 113, 182]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (5).jpeg11411": {
+        "filename": "fried-noodles (5).jpeg",
+        "size": 11411,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [18, 34, 52, 229, 175, 133, 67, 36],
+                "all_points_y": [78, 178, 183, 138, 52, 38, 45, 58]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (6).jpeg11355": {
+        "filename": "fried-noodles (6).jpeg",
+        "size": 11355,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [89, 26, 50, 91, 153, 177, 207, 242, 103],
+                "all_points_y": [178, 85, 63, 44, 39, 48, 73, 115, 180]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (7).jpeg13607": {
+        "filename": "fried-noodles (7).jpeg",
+        "size": 13607,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [47, 11, 23, 39, 197, 257, 253, 250],
+                "all_points_y": [185, 92, 15, 2, 2, 67, 136, 183]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (8).jpeg12735": {
+        "filename": "fried-noodles (8).jpeg",
+        "size": 12735,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [44, 7, 1, 23, 67, 100, 155, 195, 211, 212, 189, 172, 110],
+                "all_points_y": [177, 167, 120, 64, 33, 26, 26, 46, 90, 130, 172, 199, 196]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (9).jpeg11960": {
+        "filename": "fried-noodles (9).jpeg",
+        "size": 11960,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [9, 131, 159, 246, 206, 154, 120, 69, 45, 22],
+                "all_points_y": [117, 180, 182, 91, 51, 34, 34, 52, 79, 99]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (10).jpeg14773": {
+        "filename": "fried-noodles (10).jpeg",
+        "size": 14773,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [74, 151, 224, 207, 150, 91, 61, 38, 40],
+                "all_points_y": [147, 146, 92, 55, 33, 35, 57, 87, 117]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (11).jpeg12181": {
+        "filename": "fried-noodles (11).jpeg",
+        "size": 12181,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [104, 189, 253, 255, 167, 106, 68, 32, 7, 10, 50],
+                "all_points_y": [160, 155, 129, 99, 48, 43, 58, 79, 88, 130, 148]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-noodles (15).jpeg11046": {
+        "filename": "fried-noodles (15).jpeg",
+        "size": 11046,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [3, 113, 180, 89, 19, 0],
+                "all_points_y": [207, 241, 118, 68, 66, 73]
+            },
+            "region_attributes": {
+                "food": "12"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (1).jpeg11827": {
+        "filename": "fried-rice (1).jpeg",
+        "size": 11827,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [79, 191, 246, 263, 245, 187, 127, 88, 75, 74],
+                "all_points_y": [143, 154, 143, 124, 69, 49, 48, 67, 88, 116]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (2).jpeg14851": {
+        "filename": "fried-rice (2).jpeg",
+        "size": 14851,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [104, 53, 33, 38, 54, 89, 131, 157, 166, 124],
+                "all_points_y": [164, 135, 91, 58, 53, 54, 83, 117, 154, 165]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (3).jpeg10505": {
+        "filename": "fried-rice (3).jpeg",
+        "size": 10505,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [42, 50, 88, 137, 198, 237, 239, 167, 127, 93],
+                "all_points_y": [120, 145, 154, 163, 154, 126, 101, 59, 51, 63]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (4).jpeg10841": {
+        "filename": "fried-rice (4).jpeg",
+        "size": 10841,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [43, 27, 29, 80, 108, 150, 184, 202, 200, 176, 139, 93, 76],
+                "all_points_y": [131, 96, 75, 32, 23, 30, 49, 80, 110, 130, 153, 154, 146]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (5).jpeg11737": {
+        "filename": "fried-rice (5).jpeg",
+        "size": 11737,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [65, 40, 84, 112, 170, 211, 244, 252, 253, 221, 128, 93],
+                "all_points_y": [170, 121, 16, 9, 8, 20, 44, 90, 172, 191, 195, 193]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (6).jpeg9566": {
+        "filename": "fried-rice (6).jpeg",
+        "size": 9566,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [63, 5, 16, 90, 113, 168, 169, 115, 99],
+                "all_points_y": [204, 132, 100, 68, 77, 132, 155, 181, 200]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (7).jpeg11761": {
+        "filename": "fried-rice (7).jpeg",
+        "size": 11761,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 66, 263, 285, 238, 194, 5],
+                "all_points_y": [62, 1, 2, 57, 143, 166, 167]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (8).jpeg12266": {
+        "filename": "fried-rice (8).jpeg",
+        "size": 12266,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [3, 2, 37, 181, 260, 257, 223],
+                "all_points_y": [172, 16, 3, 0, 53, 151, 170]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (9).jpeg11132": {
+        "filename": "fried-rice (9).jpeg",
+        "size": 11132,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [16, 74, 147, 249, 248, 174, 121, 57, 28, 10, 7],
+                "all_points_y": [157, 187, 176, 115, 61, 15, 15, 41, 79, 104, 137]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (10).jpeg11309": {
+        "filename": "fried-rice (10).jpeg",
+        "size": 11309,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [41, 11, 27, 79, 132, 181, 219, 244, 251, 235, 207, 58],
+                "all_points_y": [170, 136, 71, 22, 16, 18, 35, 75, 136, 172, 187, 185]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (11).jpeg7903": {
+        "filename": "fried-rice (11).jpeg",
+        "size": 7903,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [67, 42, 44, 71, 122, 198, 186, 148, 104],
+                "all_points_y": [188, 150, 93, 62, 49, 108, 165, 194, 197]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (12).jpeg8224": {
+        "filename": "fried-rice (12).jpeg",
+        "size": 8224,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [69, 20, 42, 95, 165, 230, 218, 194, 163, 116, 83],
+                "all_points_y": [178, 144, 58, 13, 10, 74, 138, 175, 190, 190, 187]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fried-rice (13).jpeg9554": {
+        "filename": "fried-rice (13).jpeg",
+        "size": 9554,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [5, 60, 123, 166, 210, 220, 216, 205, 187, 2],
+                "all_points_y": [88, 57, 59, 68, 88, 116, 146, 176, 192, 194]
+            },
+            "region_attributes": {
+                "food": "13"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (1).jpg16181": {
+        "filename": "fries (1).jpg",
+        "size": 16181,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [6, 27, 48, 99, 115, 117, 274, 273, 10],
+                "all_points_y": [135, 39, 82, 87, 65, 39, 33, 180, 182]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (2).jpg16369": {
+        "filename": "fries (2).jpg",
+        "size": 16369,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [56, 52, 55, 92, 138, 214, 254, 258, 231, 185, 160, 75, 94],
+                "all_points_y": [34, 101, 164, 187, 193, 191, 164, 52, 33, 35, 119, 100, 31]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (3).jpg43179": {
+        "filename": "fries (3).jpg",
+        "size": 43179,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [85, 129, 148, 204, 261, 359, 384, 313, 282, 117, 98, 88],
+                "all_points_y": [133, 187, 243, 311, 319, 284, 249, 128, 75, 40, 61, 94]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (4).jpg11307": {
+        "filename": "fries (4).jpg",
+        "size": 11307,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 156, 171, 164, 176, 194, 217, 209, 94, 52, 31, 13, 3, 3],
+                "all_points_y": [34, 33, 54, 84, 128, 155, 172, 193, 194, 175, 166, 155, 144, 111]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (5).jpg11137": {
+        "filename": "fries (5).jpg",
+        "size": 11137,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [62, 36, 28, 45, 63, 97, 137, 135, 140, 152, 168, 182, 197, 203, 193, 185, 183, 192, 180, 164, 139, 102, 82],
+                "all_points_y": [173, 144, 97, 64, 48, 39, 35, 65, 90, 96, 98, 96, 106, 126, 130, 128, 153, 167, 184, 181, 194, 205, 193]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (6).jpg9104": {
+        "filename": "fries (6).jpg",
+        "size": 9104,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [4, 72, 236, 278, 279, 247, 199, 132, 124, 97, 69, 55, 34, 34, 18, 7, 4, 13, 7, 1],
+                "all_points_y": [65, 32, 32, 88, 130, 157, 167, 167, 156, 156, 152, 153, 140, 109, 114, 106, 95, 93, 84, 66]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (7).jpg9019": {
+        "filename": "fries (7).jpg",
+        "size": 9019,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [50, 25, 19, 13, 71, 110, 116, 258, 258, 104, 55],
+                "all_points_y": [182, 171, 133, 109, 76, 52, 32, 33, 189, 192, 189]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "fries (8).jpg44122": {
+        "filename": "fries (8).jpg",
+        "size": 44122,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [211, 117, 79, 99, 134, 128, 124, 140, 86, 86, 109, 159, 134, 164, 183, 189, 189, 198, 212, 235, 266, 275, 319, 321, 359, 358, 364, 371, 393, 479, 482, 485, 537, 522, 511, 532, 535, 309, 273, 249, 230, 222],
+                "all_points_y": [302, 268, 226, 218, 224, 210, 198, 192, 162, 115, 122, 166, 115, 108, 127, 115, 98, 92, 90, 100, 87, 66, 63, 34, 34, 56, 49, 48, 59, 109, 134, 161, 187, 208, 204, 216, 226, 348, 359, 358, 330, 312]
+            },
+            "region_attributes": {
+                "food": "9"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image2.jpeg11746": {
+        "filename": "image2.jpeg",
+        "size": 11746,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [180, 141, 98, 58, 38, 22, 17, 36, 62, 115, 152, 180],
+                "all_points_y": [209, 224, 224, 207, 191, 158, 129, 84, 70, 49, 58, 69]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image3.jpeg11741": {
+        "filename": "image3.jpeg",
+        "size": 11741,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [50, 145, 171, 183, 133, 118, 104, 86, 98, 116, 123, 179, 163, 121, 71, 17, 25, 38],
+                "all_points_y": [34, 34, 57, 85, 72, 61, 51, 57, 64, 76, 93, 103, 151, 176, 176, 114, 78, 54]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image4.jpeg13347": {
+        "filename": "image4.jpeg",
+        "size": 13347,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [67, 78, 101, 110, 196, 217, 243, 243, 231, 197, 161, 121, 89, 74, 67],
+                "all_points_y": [84, 52, 38, 32, 31, 47, 67, 98, 126, 147, 154, 148, 134, 112, 100]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image8.jpeg10416": {
+        "filename": "image8.jpeg",
+        "size": 10416,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [16, 15, 40, 76, 125, 170, 184, 184, 169, 161, 141, 131, 116, 112, 53, 32],
+                "all_points_y": [143, 107, 80, 60, 60, 78, 95, 124, 139, 147, 152, 166, 191, 197, 186, 167]
+            },
+            "region_attributes": {
+                "food": "7"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image9.jpeg12209": {
+        "filename": "image9.jpeg",
+        "size": 12209,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [162, 145, 156, 161, 177, 180, 156, 128, 93, 48, 13, 4, 2, 12, 52, 107, 145],
+                "all_points_y": [217, 159, 148, 169, 202, 95, 67, 53, 51, 60, 82, 99, 173, 194, 217, 231, 222]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image10.jpeg11443": {
+        "filename": "image10.jpeg",
+        "size": 11443,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [140, 104, 77, 73, 70, 88, 123, 157, 178, 197, 198, 190, 167, 158],
+                "all_points_y": [153, 145, 126, 94, 62, 42, 32, 32, 46, 70, 104, 116, 123, 135]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image11.jpeg6411": {
+        "filename": "image11.jpeg",
+        "size": 6411,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [6, 35, 59, 69, 82, 119, 142, 154, 154, 151, 140, 116, 97, 77, 44, 27, 5, 2],
+                "all_points_y": [142, 146, 150, 161, 174, 168, 155, 140, 125, 110, 98, 86, 80, 75, 81, 89, 102, 121]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image12.jpeg9036": {
+        "filename": "image12.jpeg",
+        "size": 9036,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [11, 18, 33, 46, 66, 62, 69, 74, 73, 75, 70, 64, 80, 106, 141, 163, 181, 180, 167, 139, 105, 83, 53, 27, 18],
+                "all_points_y": [151, 118, 100, 96, 117, 139, 145, 144, 125, 114, 98, 92, 85, 86, 95, 111, 138, 181, 193, 205, 211, 213, 204, 188, 171]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image13.jpeg11270": {
+        "filename": "image13.jpeg",
+        "size": 11270,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [42, 30, 28, 37, 60, 82, 93, 154, 184, 186, 181, 172, 177, 180, 170, 140, 101, 79, 59],
+                "all_points_y": [166, 136, 108, 77, 50, 40, 35, 37, 61, 87, 107, 112, 140, 151, 174, 192, 193, 192, 185]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image14.jpeg11009": {
+        "filename": "image14.jpeg",
+        "size": 11009,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [31, 43, 60, 83, 102, 117, 123, 127, 135, 148, 126, 108, 74, 44, 32, 31],
+                "all_points_y": [131, 110, 91, 85, 84, 94, 106, 119, 126, 138, 192, 201, 206, 191, 161, 148]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image15.jpeg11552": {
+        "filename": "image15.jpeg",
+        "size": 11552,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [25, 23, 37, 67, 101, 126, 165, 173, 167, 149, 119, 81, 56],
+                "all_points_y": [166, 123, 83, 67, 62, 71, 109, 132, 151, 179, 200, 203, 196]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image31.jpg7619": {
+        "filename": "image31.jpg",
+        "size": 7619,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [67, 35, 23, 43, 110, 151, 176, 196, 201, 193, 159, 126, 99],
+                "all_points_y": [151, 133, 110, 69, 46, 55, 67, 89, 112, 134, 156, 160, 161]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image34.jpg6641": {
+        "filename": "image34.jpg",
+        "size": 6641,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [106, 119, 122, 113, 102, 91, 87, 85, 91],
+                "all_points_y": [161, 152, 138, 131, 122, 127, 138, 148, 159]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [137, 126, 130, 143, 155, 168, 167, 160, 149],
+                "all_points_y": [154, 140, 122, 117, 118, 130, 141, 151, 156]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [109, 110, 120, 133, 143, 148, 138, 127, 112, 110],
+                "all_points_y": [100, 94, 79, 77, 89, 103, 111, 119, 112, 104]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image35.jpg10921": {
+        "filename": "image35.jpg",
+        "size": 10921,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [102, 66, 63, 73, 94, 108, 160, 174, 182, 165, 125],
+                "all_points_y": [177, 145, 122, 89, 77, 72, 89, 111, 153, 170, 183]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image36.jpg11680": {
+        "filename": "image36.jpg",
+        "size": 11680,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [115, 123, 137, 153, 165, 165, 159, 143, 115],
+                "all_points_y": [194, 175, 169, 172, 185, 201, 216, 223, 212]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image37.jpg10055": {
+        "filename": "image37.jpg",
+        "size": 10055,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [117, 125, 144, 175, 196, 203, 195, 130],
+                "all_points_y": [149, 122, 103, 106, 117, 148, 166, 167]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [216, 234, 258, 278, 286, 285, 266, 231, 214, 214],
+                "all_points_y": [106, 88, 84, 89, 110, 132, 153, 154, 133, 117]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [107, 100, 85, 88, 115, 144, 153, 148, 120],
+                "all_points_y": [85, 77, 63, 48, 31, 40, 59, 77, 87]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image38.jpg7882": {
+        "filename": "image38.jpg",
+        "size": 7882,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [51, 47, 56, 95, 135, 153, 183, 197, 197],
+                "all_points_y": [193, 156, 134, 114, 96, 102, 118, 159, 192]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image39.jpg10610": {
+        "filename": "image39.jpg",
+        "size": 10610,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [149, 156, 169, 182, 198, 203, 203, 192, 176, 159, 154],
+                "all_points_y": [118, 105, 100, 102, 111, 129, 144, 154, 154, 152, 138]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [103, 112, 123, 136, 154, 160, 156, 131, 115],
+                "all_points_y": [135, 113, 101, 102, 108, 124, 149, 156, 150]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [244, 237, 256, 272, 298, 293, 278, 263],
+                "all_points_y": [120, 102, 78, 79, 95, 113, 126, 129]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [153, 163, 173, 180, 197, 207, 211, 202, 189, 163, 155],
+                "all_points_y": [83, 67, 56, 57, 65, 83, 101, 110, 115, 111, 94]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [96, 98, 106, 129, 152, 157, 155, 139, 114],
+                "all_points_y": [96, 78, 70, 61, 64, 86, 106, 116, 111]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [81, 87, 100, 114, 117, 114, 97, 84, 72, 72],
+                "all_points_y": [90, 86, 89, 95, 113, 128, 138, 133, 123, 111]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image40.jpg7942": {
+        "filename": "image40.jpg",
+        "size": 7942,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [134, 123, 123, 145, 178, 207, 207, 167, 139, 135],
+                "all_points_y": [172, 138, 110, 97, 104, 125, 158, 202, 203, 186]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [88, 60, 46, 55, 76, 111, 133, 134, 124, 111],
+                "all_points_y": [161, 147, 124, 67, 62, 73, 92, 131, 169, 174]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image42.jpg10415": {
+        "filename": "image42.jpg",
+        "size": 10415,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [131, 134, 146, 158, 170, 172, 170, 161, 139, 131, 128],
+                "all_points_y": [120, 112, 110, 109, 121, 132, 143, 153, 153, 145, 135]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [160, 154, 158, 167, 183, 193, 196, 195, 185, 172, 162],
+                "all_points_y": [106, 91, 84, 77, 77, 91, 102, 113, 116, 117, 114]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [180, 187, 196, 203, 211, 211, 211, 207, 199, 188, 168, 161, 159, 172],
+                "all_points_y": [140, 138, 136, 142, 150, 160, 168, 174, 177, 178, 175, 167, 159, 146]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [219, 212, 212, 221, 232, 252, 256, 248, 240, 231, 223],
+                "all_points_y": [98, 85, 76, 71, 67, 75, 90, 100, 110, 114, 109]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [215, 202, 202, 205, 215, 228, 242, 249, 253, 248, 235, 221],
+                "all_points_y": [119, 127, 137, 150, 162, 159, 154, 147, 135, 124, 116, 114]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [103, 87, 74, 64, 65, 68, 78, 98, 104, 112, 115],
+                "all_points_y": [151, 150, 146, 142, 127, 110, 100, 95, 110, 126, 141]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [104, 102, 98, 104, 132, 145, 151, 152, 133, 124],
+                "all_points_y": [110, 103, 90, 80, 69, 76, 88, 102, 117, 120]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [51, 46, 40, 42, 55, 75, 92, 93, 90, 73, 63],
+                "all_points_y": [99, 96, 80, 67, 59, 56, 66, 86, 98, 103, 104]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [21, 40, 50, 58, 63, 62, 55, 45, 16, 17],
+                "all_points_y": [126, 122, 124, 133, 147, 158, 167, 168, 157, 147]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image44.jpg12710": {
+        "filename": "image44.jpg",
+        "size": 12710,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [59, 34, 64, 78, 111, 140, 111, 84],
+                "all_points_y": [137, 126, 59, 37, 37, 58, 127, 146]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image47.jpg12133": {
+        "filename": "image47.jpg",
+        "size": 12133,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [139, 124, 128, 134, 148, 167, 194, 214, 251, 277, 298, 298, 264, 216, 178],
+                "all_points_y": [85, 68, 54, 41, 34, 25, 20, 17, 16, 16, 24, 106, 110, 111, 103]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image48.jpg9056": {
+        "filename": "image48.jpg",
+        "size": 9056,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [171, 124, 107, 133, 198, 203, 196],
+                "all_points_y": [98, 97, 68, 25, 44, 68, 94]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image49.jpg6748": {
+        "filename": "image49.jpg",
+        "size": 6748,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [151, 141, 143, 161, 198, 228, 220, 181],
+                "all_points_y": [100, 67, 41, 34, 36, 79, 107, 115]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image52.jpg8841": {
+        "filename": "image52.jpg",
+        "size": 8841,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [108, 79, 61, 60, 82, 109, 119, 118],
+                "all_points_y": [105, 108, 84, 62, 50, 50, 71, 92]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [144, 163, 164, 162, 148, 122, 109, 105, 109],
+                "all_points_y": [82, 90, 109, 124, 139, 139, 121, 109, 93]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [162, 155, 141, 127, 132, 147, 180, 191, 182],
+                "all_points_y": [131, 134, 140, 152, 173, 192, 191, 175, 142]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [62, 68, 92, 111, 131, 118, 59, 55],
+                "all_points_y": [150, 148, 143, 149, 176, 191, 191, 173]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [19, 19, 32, 60, 91, 79, 58, 39],
+                "all_points_y": [150, 131, 111, 108, 139, 150, 164, 167]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [199, 206, 211, 186, 160, 158, 170, 187],
+                "all_points_y": [123, 108, 93, 64, 77, 94, 118, 127]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image53.jpg10927": {
+        "filename": "image53.jpg",
+        "size": 10927,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [135, 105, 94, 91, 105, 128, 157, 161, 155],
+                "all_points_y": [136, 132, 114, 99, 89, 84, 88, 110, 127]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [140, 134, 123, 101, 82, 70, 70, 81, 99, 138],
+                "all_points_y": [165, 147, 132, 127, 133, 151, 169, 181, 188, 182]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [44, 41, 53, 67, 89, 101, 103, 95, 84, 67],
+                "all_points_y": [109, 87, 76, 66, 66, 77, 92, 106, 115, 119]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image55.jpg8609": {
+        "filename": "image55.jpg",
+        "size": 8609,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [74, 93, 119, 145, 171, 171, 136, 99, 71, 65, 63],
+                "all_points_y": [110, 73, 62, 67, 97, 141, 164, 172, 164, 153, 138]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image56.jpg13272": {
+        "filename": "image56.jpg",
+        "size": 13272,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [67, 89, 112, 137, 169, 184, 191, 166, 70, 67],
+                "all_points_y": [115, 83, 65, 69, 83, 102, 137, 173, 176, 154]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [185, 201, 206, 198, 181, 117, 107, 117, 153],
+                "all_points_y": [75, 59, 29, 6, 2, 3, 38, 58, 73]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [187, 199, 220, 252, 278, 282, 258, 230, 208, 202],
+                "all_points_y": [83, 57, 47, 31, 34, 118, 125, 121, 116, 102]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [216, 192, 177, 280, 275, 245],
+                "all_points_y": [129, 139, 168, 176, 137, 127]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image57.jpg243782": {
+        "filename": "image57.jpg",
+        "size": 243782,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [731, 743, 789, 850, 921, 958, 965, 918, 868, 812, 772, 731],
+                "all_points_y": [391, 334, 313, 302, 296, 349, 432, 494, 506, 508, 482, 449]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [645, 666, 698, 733, 754, 775, 813, 828, 807, 773, 731, 694, 674, 648, 638],
+                "all_points_y": [336, 362, 375, 387, 347, 326, 315, 309, 272, 252, 236, 236, 272, 304, 322]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [429, 439, 460, 548, 588, 630, 656, 674, 645, 508, 455],
+                "all_points_y": [484, 439, 410, 365, 368, 440, 481, 563, 569, 571, 551]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [473, 434, 386, 350, 312, 304, 322, 371, 426, 468, 510],
+                "all_points_y": [235, 268, 270, 256, 223, 180, 151, 129, 132, 167, 209]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [204, 166, 158, 174, 209, 276, 326, 307, 313, 312, 256, 228],
+                "all_points_y": [207, 191, 154, 121, 103, 104, 138, 170, 220, 241, 241, 233]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [190, 140, 408, 439, 330, 289, 240],
+                "all_points_y": [497, 563, 574, 522, 455, 444, 450]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image60.jpg9309": {
+        "filename": "image60.jpg",
+        "size": 9309,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [181, 181, 165, 137, 120, 120, 128, 175],
+                "all_points_y": [153, 129, 110, 109, 119, 148, 162, 168]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [203, 229, 256, 279, 278, 271, 198, 188, 184],
+                "all_points_y": [117, 105, 110, 128, 155, 165, 168, 152, 140]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [108, 91, 68, 35, 35, 45, 91, 97, 108],
+                "all_points_y": [137, 159, 168, 152, 116, 99, 94, 99, 115]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [52, 53, 66, 97, 128, 118, 105, 82, 66],
+                "all_points_y": [54, 30, 16, 21, 61, 80, 88, 82, 67]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [149, 174, 182, 186, 178, 158, 139, 127, 120, 120, 136],
+                "all_points_y": [63, 72, 87, 106, 117, 108, 108, 106, 92, 79, 68]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image62.jpg9425": {
+        "filename": "image62.jpg",
+        "size": 9425,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [153, 142, 159, 182, 206, 216, 213, 196, 175],
+                "all_points_y": [205, 185, 141, 131, 134, 158, 193, 209, 219]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [134, 115, 87, 70, 56, 67, 117, 129],
+                "all_points_y": [202, 228, 229, 217, 192, 163, 162, 180]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [30, 61, 88, 73, 62, 27, 10, 16],
+                "all_points_y": [171, 163, 155, 128, 111, 106, 124, 152]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [126, 144, 153, 143, 126, 105, 75, 68, 86],
+                "all_points_y": [157, 153, 135, 113, 96, 89, 93, 114, 149]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [81, 95, 116, 143, 155, 156, 145, 124, 94, 77],
+                "all_points_y": [62, 83, 98, 96, 80, 51, 29, 20, 20, 43]
+            },
+            "region_attributes": {
+                "food": "14"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "image63.jpg8914": {
+        "filename": "image63.jpg",
+        "size": 8914,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [26, 41, 62, 87, 119, 165, 208, 224, 236, 241, 211, 105, 30],
+                "all_points_y": [118, 77, 56, 56, 61, 50, 67, 95, 116, 152, 167, 181, 160]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "lentils (1).jpeg14192": {
+        "filename": "lentils (1).jpeg",
+        "size": 14192,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [28, 53, 90, 131, 161, 187, 199, 199, 167, 133, 98, 63, 41, 30, 22],
+                "all_points_y": [81, 44, 26, 26, 40, 62, 93, 134, 179, 193, 199, 187, 165, 143, 111]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "lentils (2).jpeg10201": {
+        "filename": "lentils (2).jpeg",
+        "size": 10201,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 144, 92, 110, 127, 148, 181, 204, 211, 212, 195, 170, 121, 68, 25, 4],
+                "all_points_y": [1, 1, 56, 106, 116, 116, 90, 49, 40, 84, 122, 151, 172, 182, 187, 182]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "lentils (3).jpeg9066": {
+        "filename": "lentils (3).jpeg",
+        "size": 9066,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 70, 113, 129, 99, 83, 77, 110, 149, 165, 171, 167, 102, 59, 15, 5],
+                "all_points_y": [45, 35, 49, 59, 77, 106, 136, 161, 122, 103, 111, 160, 213, 215, 216, 217]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "lentils (4).jpeg10776": {
+        "filename": "lentils (4).jpeg",
+        "size": 10776,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [8, 49, 92, 157, 181, 197, 199, 181, 148, 97, 45, 8, 2, 7, 49, 95, 99, 77, 46],
+                "all_points_y": [56, 38, 32, 46, 69, 99, 140, 172, 199, 212, 210, 191, 149, 134, 149, 116, 102, 86, 75]
+            },
+            "region_attributes": {
+                "food": "16"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "lentils (5).jpeg11999": {
+        "filename": "lentils (5).jpeg",
+        "size": 11999,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [50, 55, 63, 68, 78, 86, 95, 103, 113, 117, 131, 161, 173, 191, 198, 212, 216, 221, 222, 224, 220, 217, 212, 204, 199, 184, 172, 172, 176, 189, 189, 172, 165, 134, 124, 98, 94, 57, 44, 36, 31, 21, 19, 19, 24, 33, 41],
+                "all_points_y": [42, 36, 32, 27, 23, 20, 16, 13, 12, 12, 12, 13, 21, 35, 43, 59, 74, 92, 109, 131, 145, 158, 169, 176, 180, 156, 158, 168, 176, 192, 196, 201, 209, 218, 218, 211, 210, 192, 182, 168, 153, 135, 116, 100, 80, 63, 50]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "lentils (6).jpeg12252": {
+        "filename": "lentils (6).jpeg",
+        "size": 12252,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [36, 47, 54, 76, 88, 114, 147, 176, 186, 188, 174, 155, 151, 189, 187, 172, 162, 155, 123, 117, 97, 69, 58, 43, 34, 28, 28, 29],
+                "all_points_y": [84, 61, 53, 44, 40, 35, 41, 64, 88, 111, 102, 92, 105, 125, 169, 180, 188, 196, 204, 204, 201, 192, 180, 165, 152, 137, 116, 102]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (1).jpg11303": {
+        "filename": "naan (1).jpg",
+        "size": 11303,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [61, 71, 93, 122, 166, 168, 148, 119, 88, 64],
+                "all_points_y": [141, 115, 107, 99, 117, 139, 180, 203, 194, 174]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [79, 74, 92, 127, 149, 168, 181, 177, 147, 124, 97, 82],
+                "all_points_y": [105, 80, 66, 57, 67, 93, 112, 128, 114, 99, 100, 116]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (2).jpg13212": {
+        "filename": "naan (2).jpg",
+        "size": 13212,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [57, 31, 24, 29, 62, 92, 143, 167, 177, 176, 165, 135, 108, 82],
+                "all_points_y": [169, 114, 80, 50, 34, 31, 31, 63, 116, 162, 190, 200, 205, 201]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (3).jpg8736": {
+        "filename": "naan (3).jpg",
+        "size": 8736,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [70, 37, 13, 16, 54, 102, 158, 205, 238, 250, 241, 148, 120],
+                "all_points_y": [144, 132, 81, 52, 31, 21, 20, 28, 48, 84, 125, 161, 162]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (4).jpg13595": {
+        "filename": "naan (4).jpg",
+        "size": 13595,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [79, 66, 66, 59, 94, 135, 171, 184, 193, 198, 188, 170, 139, 94],
+                "all_points_y": [208, 166, 116, 73, 34, 24, 34, 65, 107, 148, 191, 213, 224, 221]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (5).jpg50607": {
+        "filename": "naan (5).jpg",
+        "size": 50607,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [60, 94, 221, 284, 340, 416, 470, 473, 466, 453, 94, 48],
+                "all_points_y": [201, 115, 12, 21, 55, 102, 140, 182, 240, 302, 304, 258]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (6).jpg14760": {
+        "filename": "naan (6).jpg",
+        "size": 14760,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [89, 40, 5, 4, 34, 74, 115, 143, 174, 181, 182, 136],
+                "all_points_y": [194, 179, 153, 100, 80, 70, 68, 70, 90, 100, 188, 197]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (7).jpg11747": {
+        "filename": "naan (7).jpg",
+        "size": 11747,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [94, 73, 75, 85, 105, 127, 148, 178, 196, 200, 194, 167, 133, 114],
+                "all_points_y": [139, 117, 77, 46, 18, 12, 13, 27, 46, 71, 105, 126, 142, 146]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (8).jpg9927": {
+        "filename": "naan (8).jpg",
+        "size": 9927,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [65, 49, 35, 20, 33, 53, 198, 223, 239, 236, 219, 173, 128],
+                "all_points_y": [85, 72, 56, 45, 12, 1, 3, 27, 57, 93, 117, 126, 118]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (9).jpg220808": {
+        "filename": "naan (9).jpg",
+        "size": 220808,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [196, 285, 461, 641, 784, 894, 941, 912, 880, 708, 596, 475, 406, 319, 265, 128, 88, 95],
+                "all_points_y": [162, 64, 27, 85, 154, 302, 455, 618, 753, 906, 967, 977, 968, 908, 835, 616, 463, 344]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (10).jpg6552": {
+        "filename": "naan (10).jpg",
+        "size": 6552,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [48, 69, 270, 265, 167, 106, 64, 43],
+                "all_points_y": [48, 1, 1, 106, 121, 125, 104, 82]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (11).jpg10344": {
+        "filename": "naan (11).jpg",
+        "size": 10344,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [162, 133, 115, 135, 172, 212, 267, 295, 295, 297, 288, 225, 190],
+                "all_points_y": [136, 113, 73, 39, 24, 22, 50, 64, 97, 122, 144, 151, 148]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "naan (12).jpg47310": {
+        "filename": "naan (12).jpg",
+        "size": 47310,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [95, 56, 64, 122, 209, 337, 417, 503, 535, 596, 601, 590, 507, 445, 413, 184, 132],
+                "all_points_y": [254, 173, 141, 113, 87, 70, 70, 36, 28, 35, 82, 147, 195, 260, 329, 331, 296]
+            },
+            "region_attributes": {
+                "food": "17"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (1).jpeg13201": {
+        "filename": "red-beans (1).jpeg",
+        "size": 13201,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [86, 31, 7, 11, 35, 78, 125, 166, 187, 195, 182, 138],
+                "all_points_y": [210, 190, 155, 76, 48, 35, 34, 57, 98, 140, 184, 209]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (3).jpeg13394": {
+        "filename": "red-beans (3).jpeg",
+        "size": 13394,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "red-beans (4).jpeg6469": {
+        "filename": "red-beans (4).jpeg",
+        "size": 6469,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [105, 51, 27, 3, 2, 36, 71, 138, 202, 219, 219, 215],
+                "all_points_y": [213, 191, 158, 161, 94, 76, 59, 59, 75, 110, 145, 173]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (5).jpeg10053": {
+        "filename": "red-beans (5).jpeg",
+        "size": 10053,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [106, 77, 52, 45, 53, 80, 109, 140, 169, 187, 187, 173, 144],
+                "all_points_y": [129, 122, 106, 87, 62, 41, 34, 34, 46, 65, 93, 115, 125]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (6).jpeg10522": {
+        "filename": "red-beans (6).jpeg",
+        "size": 10522,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 270, 268, 8],
+                "all_points_y": [2, 5, 178, 181]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (7).jpeg6999": {
+        "filename": "red-beans (7).jpeg",
+        "size": 6999,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [2, 0, 26, 65, 110, 171, 195, 192, 166, 94, 39],
+                "all_points_y": [133, 54, 33, 14, 21, 29, 78, 112, 127, 153, 144]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (9).jpeg8112": {
+        "filename": "red-beans (9).jpeg",
+        "size": 8112,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [68, 25, 16, 27, 63, 91, 135, 159, 164, 154, 114, 93],
+                "all_points_y": [203, 171, 133, 100, 74, 67, 73, 94, 129, 180, 203, 210]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (10).jpeg3888": {
+        "filename": "red-beans (10).jpeg",
+        "size": 3888,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [99, 50, 20, 6, 32, 77, 134, 201, 230, 231, 221, 139, 111],
+                "all_points_y": [142, 143, 120, 99, 82, 67, 73, 87, 84, 117, 138, 144, 149]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (11).jpeg7054": {
+        "filename": "red-beans (11).jpeg",
+        "size": 7054,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [143, 92, 59, 36, 62, 117, 167, 224, 242, 238, 193],
+                "all_points_y": [147, 140, 125, 102, 35, 11, 11, 28, 64, 101, 135]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (12).jpeg12432": {
+        "filename": "red-beans (12).jpeg",
+        "size": 12432,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 224, 223, 1],
+                "all_points_y": [28, 30, 194, 196]
+            },
+            "region_attributes": {}
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (13).jpeg16535": {
+        "filename": "red-beans (13).jpeg",
+        "size": 16535,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [47, 50, 66, 102, 130, 271, 268],
+                "all_points_y": [175, 113, 57, 16, 2, 2, 180]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (14).jpeg17605": {
+        "filename": "red-beans (14).jpeg",
+        "size": 17605,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [4, 219, 223, 6],
+                "all_points_y": [2, 2, 216, 219]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "red-beans (15).jpeg11613": {
+        "filename": "red-beans (15).jpeg",
+        "size": 11613,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 306, 309, 4],
+                "all_points_y": [4, 2, 156, 160]
+            },
+            "region_attributes": {
+                "food": "19"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (1).jpeg7415": {
+        "filename": "roti (1).jpeg",
+        "size": 7415,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [4, 62, 85, 166, 185, 118, 25, 4],
+                "all_points_y": [117, 158, 165, 42, 6, 9, 44, 65]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [99, 176, 207, 206, 147],
+                "all_points_y": [153, 18, 37, 129, 150]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (2).jpeg12044": {
+        "filename": "roti (2).jpeg",
+        "size": 12044,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [110, 113, 193, 248, 257, 249, 200, 151, 128, 110],
+                "all_points_y": [119, 72, 65, 65, 84, 97, 118, 127, 132, 136]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (3).jpeg10921": {
+        "filename": "roti (3).jpeg",
+        "size": 10921,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [5, 42, 81, 96, 131, 141, 136, 118, 69, 52, 24, 2, 1],
+                "all_points_y": [165, 173, 168, 152, 97, 73, 45, 32, 21, 43, 94, 125, 160]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (4).jpeg11323": {
+        "filename": "roti (4).jpeg",
+        "size": 11323,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [60, 70, 79, 92, 113, 133, 136, 139, 142, 140, 117, 96, 78],
+                "all_points_y": [206, 136, 92, 81, 81, 87, 137, 190, 224, 237, 239, 231, 224]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (5).jpeg11149": {
+        "filename": "roti (5).jpeg",
+        "size": 11149,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [35, 51, 78, 125, 182, 181, 107, 55, 35],
+                "all_points_y": [159, 83, 82, 89, 84, 260, 262, 252, 221]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (6).jpeg8220": {
+        "filename": "roti (6).jpeg",
+        "size": 8220,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [96, 72, 74, 101, 108, 213, 240, 256, 252, 229, 204, 118],
+                "all_points_y": [143, 103, 62, 7, 2, 3, 47, 83, 129, 151, 161, 159]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "roti (7).jpeg9171": {
+        "filename": "roti (7).jpeg",
+        "size": 9171,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [78, 115, 103, 99, 129, 165, 266, 279, 271, 258, 224, 172, 103, 65, 64],
+                "all_points_y": [74, 78, 115, 133, 142, 137, 96, 57, 28, 11, 10, 10, 10, 35, 50]
+            },
+            "region_attributes": {
+                "food": "18"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (1).jpeg10165": {
+        "filename": "rougaille (1).jpeg",
+        "size": 10165,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [104, 69, 50, 54, 91, 135, 151, 147, 116],
+                "all_points_y": [63, 50, 43, 12, 9, 14, 35, 57, 61]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [118, 152, 150, 177, 173, 200, 252, 262, 239, 221, 105, 65, 81],
+                "all_points_y": [117, 105, 102, 69, 42, 35, 53, 106, 140, 168, 167, 148, 118]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (1).jpg9951": {
+        "filename": "rougaille (1).jpg",
+        "size": 9951,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [32, 111, 164, 189, 185, 153, 100, 49, 10, 2, 4],
+                "all_points_y": [118, 122, 101, 84, 55, 36, 26, 28, 52, 71, 106]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (2).jpeg10613": {
+        "filename": "rougaille (2).jpeg",
+        "size": 10613,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [104, 85, 126, 171, 201, 207, 200, 199, 155, 139, 108, 123],
+                "all_points_y": [109, 87, 26, 22, 32, 65, 90, 127, 142, 155, 141, 115]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (2).jpg12180": {
+        "filename": "rougaille (2).jpg",
+        "size": 12180,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [143, 188, 134, 91, 39, 3, 9],
+                "all_points_y": [219, 165, 112, 110, 110, 110, 218]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (3).jpg10183": {
+        "filename": "rougaille (3).jpg",
+        "size": 10183,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [131, 92, 78, 91, 186, 211, 223, 202, 166],
+                "all_points_y": [151, 163, 146, 66, 40, 59, 100, 133, 152]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (4).jpg11908": {
+        "filename": "rougaille (4).jpg",
+        "size": 11908,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [73, 30, 43, 90, 128, 164, 182, 183, 164, 132, 94],
+                "all_points_y": [167, 145, 89, 42, 34, 41, 78, 121, 160, 180, 190]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (5).jpg10277": {
+        "filename": "rougaille (5).jpg",
+        "size": 10277,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [117, 76, 101, 128, 173, 186, 187, 145],
+                "all_points_y": [141, 129, 52, 46, 63, 94, 120, 138]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (6).jpg8149": {
+        "filename": "rougaille (6).jpg",
+        "size": 8149,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [134, 88, 61, 73, 109, 157, 191, 215, 222, 198, 185, 159],
+                "all_points_y": [125, 101, 88, 59, 26, 37, 55, 81, 109, 137, 146, 141]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (7).jpg9250": {
+        "filename": "rougaille (7).jpg",
+        "size": 9250,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [110, 61, 26, 94, 146, 182, 203, 214, 191, 148],
+                "all_points_y": [196, 174, 111, 21, 67, 117, 153, 186, 203, 203]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "rougaille (8).jpg99940": {
+        "filename": "rougaille (8).jpg",
+        "size": 99940,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [379, 750, 916, 890, 736, 580, 444, 340, 334, 270, 192, 153, 236, 322, 307, 247, 234, 240, 300, 355],
+                "all_points_y": [791, 561, 307, 230, 201, 201, 216, 271, 338, 330, 355, 448, 488, 539, 615, 677, 717, 777, 817, 802]
+            },
+            "region_attributes": {
+                "food": "20"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "tandoori (1).jpeg11810": {
+        "filename": "tandoori (1).jpeg",
+        "size": 11810,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [17, 59, 79, 96, 125, 161, 162, 150, 86, 54, 31, 11, 1],
+                "all_points_y": [193, 153, 115, 83, 71, 71, 137, 167, 193, 211, 236, 244, 220]
+            },
+            "region_attributes": {
+                "food": "6"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "tandoori (1).jpg13888": {
+        "filename": "tandoori (1).jpg",
+        "size": 13888,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [93, 53, 22, 15, 27, 59, 119, 147, 149, 175, 220, 266, 283, 290, 227, 137],
+                "all_points_y": [145, 95, 71, 31, 12, 5, 20, 29, 69, 102, 102, 81, 89, 135, 149, 159]
+            },
+            "region_attributes": {
+                "food": "6"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "tandoori (2).jpeg9482": {
+        "filename": "tandoori (2).jpeg",
+        "size": 9482,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [44, 99, 101, 109, 157, 219, 225, 110, 59, 14, 3, 7],
+                "all_points_y": [179, 155, 110, 97, 88, 83, 53, 9, 22, 46, 91, 159]
+            },
+            "region_attributes": {
+                "food": "6"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "tandoori (2).jpg10585": {
+        "filename": "tandoori (2).jpg",
+        "size": 10585,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [54, 85, 123, 172, 154, 126, 67, 64, 55, 33, 26, 31, 41],
+                "all_points_y": [145, 119, 105, 67, 53, 44, 69, 96, 112, 123, 134, 148, 147]
+            },
+            "region_attributes": {
+                "food": "6"
+            }
+        }, {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [97, 74, 57, 44, 46, 55, 78, 94, 149, 171, 202, 189, 163, 121, 93],
+                "all_points_y": [153, 157, 155, 159, 177, 187, 186, 182, 199, 194, 161, 137, 129, 135, 149]
+            },
+            "region_attributes": {
+                "food": "6"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (1).jpeg11359": {
+        "filename": "white-rice (1).jpeg",
+        "size": 11359,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [85, 73, 39, 28, 65, 103, 158, 197, 200, 173, 138, 111],
+                "all_points_y": [186, 193, 156, 111, 49, 32, 29, 86, 132, 168, 191, 203]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (2).jpeg9093": {
+        "filename": "white-rice (2).jpeg",
+        "size": 9093,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [29, 53, 74, 95, 121, 152, 172, 182, 187, 187, 178, 155, 147, 141, 113, 116, 131, 138, 137, 131, 126, 135, 145, 168, 158, 129, 104, 71, 57, 39, 29, 26],
+                "all_points_y": [83, 54, 44, 37, 37, 48, 61, 81, 105, 135, 152, 115, 98, 79, 70, 79, 85, 101, 112, 116, 124, 124, 127, 166, 185, 192, 203, 184, 171, 155, 133, 120]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (3).jpeg5082": {
+        "filename": "white-rice (3).jpeg",
+        "size": 5082,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [39, 43, 57, 90, 130, 163, 192, 180, 123, 79, 49],
+                "all_points_y": [123, 103, 92, 86, 85, 92, 120, 134, 145, 142, 134]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (4).jpeg5277": {
+        "filename": "white-rice (4).jpeg",
+        "size": 5277,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [33, 21, 20, 59, 71, 110, 159, 206, 233, 232, 205, 168, 127, 92, 63],
+                "all_points_y": [136, 113, 88, 41, 29, 21, 24, 32, 54, 139, 148, 153, 154, 151, 149]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (5).jpeg5550": {
+        "filename": "white-rice (5).jpeg",
+        "size": 5550,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [1, 15, 33, 57, 77, 100, 130, 141, 131, 107, 89, 81, 78, 96, 111, 144, 149, 147, 139, 145, 155, 157, 159, 161, 157, 155, 162, 180, 181, 180, 170, 142, 117, 89, 67, 46, 30, 9, 2],
+                "all_points_y": [71, 60, 56, 50, 52, 56, 56, 63, 71, 73, 83, 91, 100, 100, 100, 121, 139, 152, 165, 181, 154, 144, 133, 110, 96, 89, 76, 70, 76, 223, 232, 235, 241, 241, 240, 237, 235, 232, 230]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (6).jpeg5769": {
+        "filename": "white-rice (6).jpeg",
+        "size": 5769,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [6, 16, 26, 43, 63, 71, 88, 119, 136, 159, 168, 177, 178, 178, 176, 158, 137, 111, 90, 63, 39, 28, 5, 5],
+                "all_points_y": [109, 90, 77, 66, 59, 58, 57, 62, 69, 80, 89, 107, 128, 147, 177, 186, 203, 211, 211, 211, 201, 187, 170, 150]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (7).jpeg6301": {
+        "filename": "white-rice (7).jpeg",
+        "size": 6301,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [6, 27, 50, 70, 99, 109, 126, 144, 150, 152, 143, 126, 98, 75, 42, 17, 12],
+                "all_points_y": [118, 100, 85, 80, 79, 85, 97, 111, 130, 153, 176, 185, 198, 200, 197, 181, 166]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (8).jpeg6082": {
+        "filename": "white-rice (8).jpeg",
+        "size": 6082,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [61, 65, 75, 102, 127, 162, 170, 180, 192, 196, 191, 183, 179, 174, 169, 163, 157, 143, 141, 135, 123, 117, 111, 104, 98, 79, 76, 65, 49, 38, 33, 28, 27, 27, 28, 35, 47],
+                "all_points_y": [46, 45, 35, 32, 34, 42, 49, 63, 86, 110, 134, 148, 157, 165, 170, 176, 181, 186, 186, 188, 190, 191, 192, 192, 191, 184, 183, 179, 170, 155, 138, 117, 100, 95, 81, 72, 56]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (11).jpeg6854": {
+        "filename": "white-rice (11).jpeg",
+        "size": 6854,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [77, 77, 87, 94, 109, 139, 168, 198, 218, 240, 264, 271, 278, 279, 284, 284, 259, 236, 225, 213, 193, 187, 177, 160, 147, 141, 125, 118, 88, 82, 80],
+                "all_points_y": [80, 62, 44, 34, 23, 10, 7, 10, 15, 23, 39, 43, 50, 60, 84, 88, 125, 135, 138, 141, 143, 143, 143, 140, 140, 138, 135, 131, 116, 105, 95]
+            },
+            "region_attributes": {
+                "food": "26"
+            }
+        }],
+        "file_attributes": {}
+    },
+    "white-rice (16).jpeg5081": {
+        "filename": "white-rice (16).jpeg",
+        "size": 5081,
+        "regions": [{
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [25, 31, 32, 34, 53, 83, 128, 186, 214, 231, 225, 201, 172, 155, 145, 137, 131, 123, 116, 110, 108, 98, 93, 85, 77, 69, 56, 46, 36],
+                "all_points_y": [110, 121, 121, 123, 128, 133, 136, 133, 126, 119, 101, 73, 53, 55, 61, 59, 55, 52, 56, 56, 52, 54, 57, 57, 59, 67, 74, 84, 90]
+            },
+            "region_attributes": {}
+        }],
+        "file_attributes": {}
+    }
+}

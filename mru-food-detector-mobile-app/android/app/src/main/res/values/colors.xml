@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- a secondary color for controls like checkboxes and text fields -->
+	<color name="colorAccent">
+		#FF4081
+	</color>
+	<color name="primary_dark">
+		#000000
+	</color>
+	<color name="mruFoodGreen">
+		#46CE8F
+	</color>
+</resources>
